@@ -475,6 +475,47 @@ app.get('/api/alerts', async (c) => {
   }
 });
 
+// === TTS Endpoint ===
+app.post('/api/voice/speak', async (c) => {
+  try {
+    const { text } = await c.req.json();
+    if (!text) return c.json({ error: 'Text required' }, 400);
+
+    const VOICE_ID = 'pNInz6obpgDQGcFmaJgB'; // Adam (Legacy Male) - Deep & Clear
+    // const VOICE_ID = '21m00Tcm4TlvDq8ikWAM'; // Rachel (Default Female)
+
+    const response = await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${VOICE_ID}`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'xi-api-key': c.env.ELEVENLABS_API_KEY
+      },
+      body: JSON.stringify({
+        text,
+        model_id: 'eleven_turbo_v2_5', // Quickest response
+        voice_settings: {
+          stability: 0.5,
+          similarity_boost: 0.75
+        }
+      })
+    });
+
+    if (!response.ok) {
+      const err = await response.text();
+      console.error('ElevenLabs Error:', err);
+      return c.json({ error: 'TTS Failed: ' + err }, 500);
+    }
+
+    const arrayBuffer = await response.arrayBuffer();
+    return new Response(arrayBuffer, {
+      headers: { 'Content-Type': 'audio/mpeg' }
+    });
+
+  } catch (e) {
+    return c.json({ error: String(e) }, 500);
+  }
+});
+
 // === Auth Routes ===
 
 app.post('/api/admin/init-auth', async (c) => {

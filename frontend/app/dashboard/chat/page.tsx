@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect, Suspense } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Send, Bot, User, Mic, Loader2, Check, VolumeX, MessageSquare, Plus, Trash2, History, Menu, X } from 'lucide-react';
+import { Send, Bot, User, Mic, Loader2, Check, VolumeX, MessageSquare, Plus, Trash2, History, Menu, X, Play, Square } from 'lucide-react';
 import { API_BASE_URL } from '../../../config';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -41,6 +41,7 @@ function ChatInterface() {
     const audioRef = useRef<HTMLAudioElement | null>(null);
     const silenceTimer = useRef<NodeJS.Timeout | null>(null);
     const [isPlaying, setIsPlaying] = useState(false);
+    const [playingMessageIndex, setPlayingMessageIndex] = useState<number | null>(null); // Track which message is playing for button state
 
     const searchParams = useSearchParams();
 
@@ -284,6 +285,48 @@ function ChatInterface() {
         }
     };
 
+    // --- TTS Logic ---
+    const toggleAudio = async (text: string, index: number) => {
+        // Stop if playing this one
+        if (playingMessageIndex === index && isPlaying) {
+            stopAudio();
+            setPlayingMessageIndex(null);
+            return;
+        }
+
+        // Stop any other
+        stopAudio();
+        setPlayingMessageIndex(index);
+        setIsPlaying(true); // Optimistic UI
+
+        try {
+            const ttsResponse = await fetch(`${API_BASE_URL}/api/voice/speak`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ text })
+            });
+            if (ttsResponse.ok) {
+                const blob = await ttsResponse.blob();
+                if (audioRef.current) {
+                    audioRef.current.src = URL.createObjectURL(blob);
+                    audioRef.current.play().catch(e => {
+                        console.error("Play error", e);
+                        setIsPlaying(false);
+                        setPlayingMessageIndex(null);
+                    });
+                }
+            } else {
+                console.error("TTS Failed");
+                setIsPlaying(false);
+                setPlayingMessageIndex(null);
+            }
+        } catch (e) {
+            console.error("Network Error", e);
+            setIsPlaying(false);
+            setPlayingMessageIndex(null);
+        }
+    };
+
     const handleVoiceMessage = async (text: string) => {
         const updatedMsgs = [...messages, { role: 'user', content: text } as Message];
         setMessages(updatedMsgs);
@@ -293,7 +336,10 @@ function ChatInterface() {
         try {
             const response = await fetch(`${API_BASE_URL}/api/lex/chat`, {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${localStorage.getItem('token')}`
+                },
                 body: JSON.stringify({ messages: updatedMsgs.map(m => ({ role: m.role, content: m.content })) })
             });
             const data = await response.json();
@@ -411,7 +457,13 @@ function ChatInterface() {
 
     return (
         <div className="flex h-full bg-[#0a0a0a] relative overflow-hidden">
-            <audio ref={audioRef} className="hidden" onPlay={() => setIsPlaying(true)} onEnded={() => setIsPlaying(false)} onPause={() => setIsPlaying(false)} />
+            <audio
+                ref={audioRef}
+                className="hidden"
+                onPlay={() => setIsPlaying(true)}
+                onEnded={() => { setIsPlaying(false); setPlayingMessageIndex(null); }}
+                onPause={() => setIsPlaying(false)}
+            />
 
             {/* Sidebar Toggle - Floating on top (z-50) */}
             <div className="absolute top-4 right-10 z-50">
@@ -443,10 +495,24 @@ function ChatInterface() {
                                         {message.role === 'assistant' ? <Bot className="w-6 h-6" /> : <User className="w-6 h-6" />}
                                     </div>
 
-                                    <div className={`p-4 rounded-2xl max-w-[85%] ${message.role === 'assistant'
+                                    <div className={`relative p-4 pr-12 rounded-2xl max-w-[85%] ${message.role === 'assistant'
                                         ? 'bg-white/10 text-white rounded-tl-none'
                                         : 'bg-blue-600 text-white rounded-tr-none'
                                         }`}>
+                                        {/* Play Button (Top Right of Bubble) */}
+                                        {message.role === 'assistant' && (
+                                            <button
+                                                onClick={() => toggleAudio(message.content, index)}
+                                                className="absolute top-3 right-3 p-1.5 bg-white/10 hover:bg-white/20 text-blue-200 hover:text-white rounded-lg transition-colors"
+                                                title="Read Aloud"
+                                            >
+                                                {playingMessageIndex === index && isPlaying ? (
+                                                    <Square className="w-3.5 h-3.5 fill-current" />
+                                                ) : (
+                                                    <Play className="w-3.5 h-3.5 fill-current ml-0.5" />
+                                                )}
+                                            </button>
+                                        )}
                                         {message.steps && message.steps.length > 0 && (
                                             <details className="mb-3 group">
                                                 <summary className="list-none cursor-pointer flex items-center gap-2 text-xs text-blue-300/70 hover:text-blue-300 transition-colors select-none">

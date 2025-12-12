@@ -2,12 +2,10 @@ const fs = require('fs');
 const path = require('path');
 
 const files = [
-    'Austin_Part1_Definitions.txt',
-    'Austin_Part2_SiteDev.txt',
-    'Austin_Part3_SpecialReqs.txt'
+    'Austin_Title_25.txt'
 ];
 
-const query = "What is the maximum height allowed for a telecommunication tower if it is located 80 feet from a single-family residential district?";
+const query = "food truck regulations in Public zoning district requirements restrictions permit";
 
 console.log(`Testing search for query: "${query}"`);
 

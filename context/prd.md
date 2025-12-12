@@ -2,26 +2,30 @@
 
 Product Requirements Document (PRD)
 Project Name: LiquiLex - The AI Civic Compliance Navigator
-Version: 5.0 (Final Execution Spec)
-Build Architecture: Zero-Cost Agentic (Google Gemini CLI + Raindrop MCP)
+Product Requirements Document (PRD)
+Project Name: LiquiLex - The AI Civic Compliance Navigator
+Version: 5.2 (The Agentic Voice Evolution)
+Build Architecture: Zero-Cost Agentic (Antigravity + Gemini 3 Pro)
 Runtime Architecture: Hybrid Hyper-Speed (LiquidMetal + Vultr + Cerebras + ElevenLabs)
 Hackathon Track Targets: Best Overall, Ultra-Low Latency, Best Voice Agent, Solopreneur.
 
 1. Project Introduction & Vision
 LiquiLex is a "Civic Operating System" designed to decouple regulatory complexity from small business ambition. Currently, a food truck owner must navigate three disconnected silos to open a business: Unstructured Law (PDF Ordinances), Geospatial Restrictions (Zoning Maps), and Structured Math (Fee Schedules).
-LiquiLex unifies these into a single, Agentic Interface. It does not just "chat"; it acts as a digital expeditor that deterministically verifies zoning, calculates fees with 100% accuracy, and speaks naturally to users in the field.
-1.1 The "Why This Wins" Strategy
+LiquiLex unifies these into a single, Agentic Interface. It does not just "chat"; it **acts**. It autonomously creates tasks, monitors regulatory changes relevant to the user's specific business type, verify zoning, calculates fees with 100% accuracy, and speaks naturally to users in the field.
+
+1.1 The "Why This Wins" Strategy - Updated
 The Speed: We utilize Cerebras (Llama 3.3 70B) to achieve ~2,000 tokens/sec inference. This creates a "magic" feeling where complex legal analysis happens instantly.
-The Build: We utilize Google Gemini CLI (Free Tier) to provision the entire infrastructure. By leveraging Gemini’s 1-Million Token Context Window, we can load the entire LiquidMetal SDK documentation into memory, allowing the agent to write perfect infrastructure-as-code without costing the developer a dollar.
+The Agency: Lex is not just a chatbot. It has "Hands" (Tools). It can write to your To-Do list (`manageTasks`), read your business profile (`SmartMemory`), and filter noise from the news (`RegulatoryWatchdog` with Self-Repair & Smart Fallback).
+The Build: We utilize **Antigravity** powered by **Gemini 3 Pro** as our AI Architect. This allows us to rapidly prototype, debug, and implement complex agentic flows using natural language.
 The Depth: We leverage LiquidMetal Raindrop's specialized services (SmartBuckets, SmartSQL) to handle data types that normally break LLMs (PDF tables and math).
 
 2. Detailed Technical Architecture
-2.1 The Build Plane: Raindrop Code
-We bypass paid tools (Claude Code) by using Raindrop Code.
-Role: The "Architect Agent". It writes the code, defines the database schemas, and provisions the cloud resources via the Raindrop MCP.
+2.1 The Build Plane: Agentic Driven
+Role: The "AI Architect" (Antigravity). It analyzes requirements, plans implementation, and executes code changes across the stack.
 Configuration:
-Model: GLM 4.6
-Context Strategy: We utilize the @load command to ingest the full Raindrop and Vultr API documentation, enabling "One-Shot" provisioning.
+Model: Gemini 3 Pro
+Context Strategy: Full codebase context awareness for semantic reasoning and comprehensive refactoring.
+
 2.2 The Runtime Plane: The "Golden Triangle" Stack
 A. Cognitive Layer: LiquidMetal Raindrop
 We utilize three distinct Raindrop services to handle different data modalities.
@@ -131,9 +135,11 @@ Build Plane (Local/Raindrop):
 Tooling: Raindrop Code + Raindrop MCP.
 Role: Acts as the "Architect Agent" to generate Infrastructure-as-Code (IaC) without incurring developer seat costs (e.g., avoiding Claude Code) .
 Runtime Plane (Hybrid Cloud):
-Services: LiquidMetal Raindrop for logic services (voice-proxy).
-Compute/Storage: Vultr Cloud for heavy lifting (Postgres, Valkey, Kafka) .
-Intelligence: Cerebras and ElevenLabs for API-based inference.
+Services: LiquidMetal Raindrop for logic services (voice-proxy, self-repairing watchdog).
+Compute/Storage: Vultr Cloud for heavy lifting (Postgres, Valkey, Kafka).
+Intelligence:
+- **Cerebras**: Llama 3.3 70B for reasoning.
+- **ElevenLabs**: TTS "Adam" (Male Voice) via WebSocket/API for <400ms audio generation.
 2. CI/CD & Deployment Automation
 The deployment pipeline is unique because it is Agentic.
 Provisioning: Infrastructure is defined via a "One-Shot" prompt to Raindrop Code, which ingests the SDK documentation and outputs a perfect raindrop.manifest file.

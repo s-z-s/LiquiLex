@@ -6,28 +6,39 @@ LiquiLex is an advanced AI-powered platform designed to help businesses and deve
 
 ## 🚀 Features
 
--   **🤖 Lex Agent**: An intelligent AI assistant that understands context (zoning, fees, site details) and provides accurate, sourced answers using RAG (Retrieval-Augmented Generation).
+-   **🤖 Agentic Lex**: An intelligent AI assistant that doesn't just chat—it **acts**. It creates tasks, remembers your business context, and proactively guides you using RAG.
+-   **📝 Task Management**: Lex creates and manages your compliance checklist automatically. "Remind me to call the city" -> *Task Created*.
+-   **🐕 Intelligent Watchdog**: A real-time monitoring system that filters regulatory news based on **your** business type (e.g., Food Trucks see Food Truck news).
+-   **🧠 Semantic Search 2.0**: Advanced regulation search with synonym mapping ("Food Truck" = "Mobile Food Establishment") and phrase boosting for pinpoint accuracy.
 -   **🗺️ Interactive Zoning Map**: Visualize zoning districts with dynamic data layers, powered by connection to a Vultr PostgreSQL database.
 -   **💲 Smart Fee Calculator**: Instantly estimate permit fees for new construction or remodels based on accurate fee schedules.
--   **🐕 Regulatory Watchdog**: A real-time monitoring system that tracks RSS feeds (e.g., Austin Monitor) for regulatory changes and alerts users to critical updates.
--   **🔒 Secure Dashboard**: User-isolated project management with secure authentication (JWT) and data persistence.
+-   **�️ Voice-Native Interaction**: Talk to Lex naturally using the microphone. Lex replies with text and **speaks back instantly** using ElevenLabs "Adam" (Male Voice).
+    -   *How it works*: Browser Speech Recognition -> AI Processing -> ElevenLabs TTS.
+    -   *Control*: Play/Pause any message at any time.
+-   **�🔒 Secure Dashboard**: User-isolated project management with secure authentication (JWT) and data persistence.
 
 ## 🛠️ Technology Stack
 
 ### Backend (Raindrop Framework)
 -   **Framework**: [Raindrop](https://github.com/liquidmetal-ai/raindrop) (Hono.js based serverless).
--   **Database**: PostgreSQL (Hosted on Vultr, accessed via Bridge).
--   **Caching**: Valkey (KvCache) for high-performance API responses.
+-   **Database**: PostgreSQL (Hosted on Vultr, accessed via Vultr Bridge).
+-   **Caching**: Valkey (KvCache) for high-performance API responses (Hosted on Vultr, accessed via Vultr Bridge).
+-   **🛡️ Self-Repairing Architecture**: Dashboard services automatically detect and fix schema inconsistencies (e.g., missing tables) and isolate failures to prevent crashes.
 -   **AI & Memory**:
     -   `SmartBucket`: Vector storage for regulatory documents (RAG).
     -   `SmartMemory`: Persistent user context and session management.
     -   `SmartSql`: Natural language to SQL translation.
+    -   **Cerebras**: Ultra-fast inference (Llama 3.3 70B) for instant agent responses (~2,000 tokens/sec).
+    -   **ElevenLabs**: Real-time text-to-speech (TTS) for natural-sounding responses.
 
 ### Frontend
 -   **Framework**: Next.js 14 (App Router).
 -   **Styling**: Tailwind CSS + Framer Motion.
 -   **Maps**: React Leaflet (OpenStreetMap).
 -   **State**: React Hooks + LocalStorage.
+
+### Development
+-   **AI Architect**: Built with **Antigravity** (Powered by **Gemini 3 Pro**).
 
 ## 📂 Project Structure
 

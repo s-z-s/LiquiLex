@@ -3,6 +3,7 @@ import { Env } from '../hello-world/raindrop.gen';
 import { checkZoning } from '../tools/checkZoning';
 import { calcFees } from '../tools/calcFees';
 import { searchRegulations } from '../tools/searchRegulations';
+import { manageTasks } from '../tools/manageTasks';
 
 export class Lex {
     private client: OpenAI;
@@ -11,23 +12,28 @@ export class Lex {
 You are Lex, the AI Civic Compliance Navigator for Austin, Texas.
 Your goal is to be a helpful, expert guide for small business owners.
 
-**CORE RULES:**
-1. **BE ACTION-ORIENTED:** Provide checklists, numbered steps, and clear instructions.
-2. **SIMPLIFY:** Speak in plain English. Explain technical terms simple.
-3. **USE DATA:** Use \`checkZoning\`, \`calcFees\`, and \`searchRegulations\` to find facts.
-4. **NO GUESSING:** If tools don't return data, say "I don't have that information."
-5. **CITATIONS:** Mention code sections as references, but focus on the explanation.
+**MANDATORY RULES:**
+1. **ALWAYS USE TOOLS:** You MUST use the provided tools (\`checkZoning\`, \`calcFees\`, \`searchRegulations\`) to answer questions about zoning, costs, or rules. Do NOT guess or use general knowledge.
+2. **ASK FOR DETAILS:** If you need more info (like square footage for fees), ASK the user instead of assuming.
+3. **NO HALLUCINATIONS:** If tools fail or return no data, admit it.
+4. **CITE SOURCES:** At the bottom of your response, you MUST list the exact Code Sections you used as references (e.g., "**Source:** Section 25-2-812").
+5. **NO RAW JSON:** Do NOT write the tool call JSON in the chat. Use the tool function directly and silently.
 
-**FORMATTING:**
-- Use **Bold** for key terms.
-- Use numbered lists.
+**TASK MANAGEMENT:**
+- You can create **Tasks** for the user using the \`manageTasks\` tool.
+- Suggested uses: Reminders, To-Do lists from regulations, or Application steps.
+- **PROACTIVE:** If you provide a checklist, ASK: *"Would you like me to save these steps to your Task List?"*
+- If user says "Yes" or "Create task for...", use the tool.
+
+**TOOL USAGE GUIDANCE:**
+- **Fees:** If user asks about costs -> call \`calcFees\`. (Ask for sq_ft if missing).
+- **Zoning:** If user mentions location -> call \`checkZoning\`.
+- **Rules:** If user asks "Can I..." or "What are the rules?" -> call \`searchRegulations\`.
+- **Tasks:** If user wants to save a step -> call \`manageTasks\`.
 
 **EXAMPLE:**
-User: "How do I get a permit?"
-Lex: "Here are the steps:
-1. **Zoning Check:** Ensure use is allowed.
-2. **Application:** Submit commercial application.
-3. **Fees:** Estimated fee is **$209.54**."
+User: "Remind me to call the city."
+Lex: (Calls manageTasks) -> "I've added 'Call City' to your task list."
 `;
 
     constructor(env: Env) {
@@ -92,6 +98,22 @@ Lex: "Here are the steps:
                         },
                     },
                 },
+                {
+                    type: 'function',
+                    function: {
+                        name: 'manageTasks',
+                        description: 'Create or list user tasks. Use this when the user asks to save something, remind them, or manage their to-do list.',
+                        parameters: {
+                            type: 'object',
+                            properties: {
+                                action: { type: 'string', enum: ['create', 'list'], description: 'Action to perform' },
+                                title: { type: 'string', description: 'Title of the task (Required for create)' },
+                                description: { type: 'string', description: 'Optional details for the task' },
+                            },
+                            required: ['action'],
+                        },
+                    },
+                },
             ];
 
             // INTELLIGENT CONTEXT AWARENESS:
@@ -138,8 +160,9 @@ Lex: "Here are the steps:
                         if (err.status === 503 || err.status === 500 || err.status === 429) {
                             retryCount++;
                             if (retryCount === maxRetries) throw err;
-                            // Wait 1s, 2s, 4s...
-                            await new Promise(resolve => setTimeout(resolve, 1000 * Math.pow(2, retryCount - 1)));
+                            // Wait 2s, 5s, 10s...
+                            const delay = retryCount === 1 ? 2000 : retryCount === 2 ? 5000 : 10000;
+                            await new Promise(resolve => setTimeout(resolve, delay));
                         } else {
                             throw err; // Fatal error
                         }
@@ -182,6 +205,8 @@ Lex: "Here are the steps:
                         steps.push(`Calculating fees for ${args.category} (${args.trade})...`);
                     } else if (fnName === 'searchRegulations') {
                         steps.push(`Searching regulations for "${args.query}"...`);
+                    } else if (fnName === 'manageTasks') {
+                        steps.push(`${args.action === 'create' ? 'Creating task' : 'Listing tasks'}: ${args.title || 'All'}...`);
                     } else {
                         steps.push(`Executing tool: ${fnName}...`);
                     }
@@ -196,6 +221,8 @@ Lex: "Here are the steps:
                             toolResult = await calcFees(this.env, { category: args.category, trade: args.trade, sq_ft: args.sq_ft });
                         } else if (fnName === 'searchRegulations') {
                             toolResult = await searchRegulations(args.query, this.env);
+                        } else if (fnName === 'manageTasks') {
+                            toolResult = await manageTasks(this.env, args.action, { title: args.title, description: args.description });
                         } else {
                             toolResult = { error: 'Unknown tool' };
                         }
@@ -211,6 +238,7 @@ Lex: "Here are the steps:
                         content: JSON.stringify(toolResult),
                     });
                 }
+
 
                 // Loop continues to let model see the result and decide next step
             }
