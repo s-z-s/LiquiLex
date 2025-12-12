@@ -951,7 +951,7 @@ app.post('/api/lex/chat', async (c) => {
     }
 
     const lex = new Lex(c.env);
-    const result = await lex.chat(messages, userContext);
+    const result = await lex.chat(messages, userContext, payload.userId);
 
     // Handle both string (legacy) and object return types just in case
     const responseText = typeof result === 'string' ? result : result.response;

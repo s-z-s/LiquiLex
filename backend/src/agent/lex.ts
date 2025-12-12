@@ -4,6 +4,7 @@ import { checkZoning } from '../tools/checkZoning';
 import { calcFees } from '../tools/calcFees';
 import { searchRegulations } from '../tools/searchRegulations';
 import { manageTasks } from '../tools/manageTasks';
+import { updateContext } from '../tools/updateContext';
 
 export class Lex {
     private client: OpenAI;
@@ -34,6 +35,9 @@ Your goal is to be a helpful, expert guide for small business owners.
 **EXAMPLE:**
 User: "Remind me to call the city."
 Lex: (Calls manageTasks) -> "I've added 'Call City' to your task list."
+
+**MEMORY UPDATES:**
+- If the user tells you about their business (e.g., "I'm opening a taco truck" or "My name is Jane"), use \`updateContext\` to save it. This is CRITICAL for long-term memory.
 `;
 
     constructor(env: Env) {
@@ -45,7 +49,7 @@ Lex: (Calls manageTasks) -> "I've added 'Call City' to your task list."
         });
     }
 
-    async chat(messages: any[], userContext?: string) {
+    async chat(messages: any[], userContext?: string, userId?: string) {
         try {
             const currentSystemPrompt = userContext
                 ? `${this.systemPrompt}\n\nUSER CONTEXT:\n${userContext}`
@@ -111,6 +115,21 @@ Lex: (Calls manageTasks) -> "I've added 'Call City' to your task list."
                                 description: { type: 'string', description: 'Optional details for the task' },
                             },
                             required: ['action'],
+                        },
+                    },
+                },
+                {
+                    type: 'function',
+                    function: {
+                        name: 'updateContext',
+                        description: 'Save user business details to long-term memory. Use this when user provides their name, business name, type, or description.',
+                        parameters: {
+                            type: 'object',
+                            properties: {
+                                businessName: { type: 'string' },
+                                businessType: { type: 'string' },
+                                description: { type: 'string' },
+                            },
                         },
                     },
                 },
@@ -207,6 +226,8 @@ Lex: (Calls manageTasks) -> "I've added 'Call City' to your task list."
                         steps.push(`Searching regulations for "${args.query}"...`);
                     } else if (fnName === 'manageTasks') {
                         steps.push(`${args.action === 'create' ? 'Creating task' : 'Listing tasks'}: ${args.title || 'All'}...`);
+                    } else if (fnName === 'updateContext') {
+                        steps.push(`Updating memory: ${args.businessName || args.businessType || 'details'}...`);
                     } else {
                         steps.push(`Executing tool: ${fnName}...`);
                     }
@@ -223,6 +244,8 @@ Lex: (Calls manageTasks) -> "I've added 'Call City' to your task list."
                             toolResult = await searchRegulations(args.query, this.env);
                         } else if (fnName === 'manageTasks') {
                             toolResult = await manageTasks(this.env, args.action, { title: args.title, description: args.description });
+                        } else if (fnName === 'updateContext') {
+                            toolResult = await updateContext(this.env, userId || 'default_user', args);
                         } else {
                             toolResult = { error: 'Unknown tool' };
                         }
@@ -261,3 +284,4 @@ Lex: (Calls manageTasks) -> "I've added 'Call City' to your task list."
         }
     }
 }
+

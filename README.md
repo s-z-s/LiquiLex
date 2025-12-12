@@ -68,7 +68,7 @@ liquilex/
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/liquilex.git
+    git clone https://github.com/s-z-s/LiquiLex
     cd liquilex
     ```
 
