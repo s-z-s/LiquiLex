@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect, Suspense } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Send, Bot, User, Mic, Loader2, Check, VolumeX, MessageSquare, Plus, Trash2, History, Menu, X } from 'lucide-react';
 import { API_BASE_URL } from '../../../config';
@@ -22,7 +22,7 @@ interface ChatSession {
     messages: Message[];
 }
 
-export default function ChatPage() {
+function ChatInterface() {
     // Session Management
     const [sessions, setSessions] = useState<ChatSession[]>([]);
     const [currentSessionId, setCurrentSessionId] = useState<string | null>(null);
@@ -589,5 +589,20 @@ export default function ChatPage() {
                 )}
             </AnimatePresence>
         </div>
+    );
+}
+
+export default function ChatPage() {
+    return (
+        <Suspense fallback={
+            <div className="flex h-full items-center justify-center bg-[#0a0a0a]">
+                <div className="flex flex-col items-center gap-4">
+                    <Loader2 className="w-8 h-8 animate-spin text-blue-600" />
+                    <p className="text-gray-400 text-sm">Loading Chat...</p>
+                </div>
+            </div>
+        }>
+            <ChatInterface />
+        </Suspense>
     );
 }
