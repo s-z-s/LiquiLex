@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Building2, Utensils, Truck, ArrowRight } from 'lucide-react';
 import { useRouter } from 'next/navigation';
+import { API_BASE_URL } from '../../config';
 
 export default function Onboarding() {
     const router = useRouter();
@@ -27,7 +28,10 @@ export default function Onboarding() {
             // Note: In production, use env var for API URL
             const response = await fetch(`${API_BASE_URL}/api/user/context`, {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${localStorage.getItem('token')}`
+                },
                 body: JSON.stringify(formData)
             });
 

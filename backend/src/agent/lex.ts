@@ -9,29 +9,25 @@ export class Lex {
     private env: Env;
     private systemPrompt = `
 You are Lex, the AI Civic Compliance Navigator for Austin, Texas.
-Your goal is to help small business owners navigate complex regulations.
+Your goal is to be a helpful, expert guide for small business owners.
 
-STRICT RULES:
-1. You ONLY discuss:
-   - Zoning regulations in Austin.
-   - Permit fees and calculations.
-   - City codes and ordinances.
-2. **NO GENERAL KNOWLEDGE:** If the tools (checkZoning, calcFees, searchRegulations) do not return specific data for the requested location or category, you must say: "I do not have that information in my database." DO NOT guess or use outside knowledge.
-3. Be concise, professional, and helpful.
-4. Use the provided tools to get accurate data. DO NOT guess zoning or fees.
-5. **ALWAYS CITE SOURCES:** When answering from searchRegulations, you MUST mention the Section Number/Title provided in the text (e.g., "According to Section 25-2-1176...").
-6. **NO RAW JSON OR CODE:** Never output raw JSON or user-facing tool call strings like "calcFees(...)". Use the structured tool calling format provided by the API.
-7. **PLAIN ENGLISH:** Simplify complex legal terms for a lay audience. Avoid jargon where possible. Explain things like you're talking to a small business owner, not a lawyer.
-8. **VOICE CORRECTION:** You are receiving raw voice transcripts. If the input seems nonsensical (e.g., "print out" instead of "rent out"), infer the correct intent related to zoning/business. Explicitly state: "I understood your question as: [Corrected Question]" before answering.
-9. **TRUST CONTEXT:** If the conversation history or system context ALREADY specifies a zoning code (e.g., "I see you are asking about DMU-CURE" or "Zone: DMU-CURE"), YOU MUST USE THAT CODE. Do NOT call \`checkZoning\` again for the same location unless the user provides a completely different address. The context is the source of truth.
-10. **STRICT CONSISTENCY:** If you see a zoning code like "DMU-CURE" in the prompt, do NOT verify it against the database. Assume the user's clicked location (Source of Truth) is correct.
+**CORE RULES:**
+1. **BE ACTION-ORIENTED:** Provide checklists, numbered steps, and clear instructions.
+2. **SIMPLIFY:** Speak in plain English. Explain technical terms simple.
+3. **USE DATA:** Use \`checkZoning\`, \`calcFees\`, and \`searchRegulations\` to find facts.
+4. **NO GUESSING:** If tools don't return data, say "I don't have that information."
+5. **CITATIONS:** Mention code sections as references, but focus on the explanation.
 
-TOOL USAGE:
-- To find fees: Call \`calcFees\`.
-- To find rules: Call \`searchRegulations\`.
-- To check a NEW location: Call \`checkZoning\`.
+**FORMATTING:**
+- Use **Bold** for key terms.
+- Use numbered lists.
 
-Do NOT act out the tool call in text. Just call it.
+**EXAMPLE:**
+User: "How do I get a permit?"
+Lex: "Here are the steps:
+1. **Zoning Check:** Ensure use is allowed.
+2. **Application:** Submit commercial application.
+3. **Fees:** Estimated fee is **$209.54**."
 `;
 
     constructor(env: Env) {
@@ -121,15 +117,38 @@ Do NOT act out the tool call in text. Just call it.
                 turns++;
                 console.log(`💬 Lex Step ${turns}/${MAX_TURNS}`);
 
-                const response = await this.client.chat.completions.create({
-                    model: 'llama-3.3-70b',
-                    messages: [
-                        { role: 'system', content: currentSystemPrompt },
-                        ...messages
-                    ],
-                    tools: tools.length > 0 ? tools : undefined,
-                    tool_choice: tools.length > 0 ? 'auto' : undefined,
-                });
+                let response: OpenAI.Chat.Completions.ChatCompletion | undefined;
+                let retryCount = 0;
+                const maxRetries = 3;
+
+                while (retryCount < maxRetries) {
+                    try {
+                        response = await this.client.chat.completions.create({
+                            model: 'llama-3.3-70b',
+                            messages: [
+                                { role: 'system', content: currentSystemPrompt },
+                                ...messages
+                            ],
+                            tools: tools.length > 0 ? tools : undefined,
+                            tool_choice: tools.length > 0 ? 'auto' : undefined,
+                        });
+                        break; // Success
+                    } catch (err: any) {
+                        console.error(`Cerebras attempt ${retryCount + 1} failed:`, err);
+                        if (err.status === 503 || err.status === 500 || err.status === 429) {
+                            retryCount++;
+                            if (retryCount === maxRetries) throw err;
+                            // Wait 1s, 2s, 4s...
+                            await new Promise(resolve => setTimeout(resolve, 1000 * Math.pow(2, retryCount - 1)));
+                        } else {
+                            throw err; // Fatal error
+                        }
+                    }
+                }
+
+                if (!response) {
+                    throw new Error('Failed to get response after retries');
+                }
 
                 const responseMessage = response.choices[0]?.message;
                 if (!responseMessage) {
@@ -208,7 +227,7 @@ Do NOT act out the tool call in text. Just call it.
         } catch (error) {
             console.error('Lex Error:', error);
             return {
-                response: "I'm sorry, I encountered an error while processing your request.",
+                response: `I'm sorry, I encountered an error: ${String(error)}`,
                 steps: []
             };
         }

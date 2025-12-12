@@ -30,6 +30,8 @@ app.use('*', logger());
 // Protect Dashboard & Projects Routes
 app.use('/api/dashboard/*', jwt({ secret: JWT_SECRET }));
 app.use('/api/projects/*', jwt({ secret: JWT_SECRET }));
+app.use('/api/lex/*', jwt({ secret: JWT_SECRET }));
+app.use('/api/user/*', jwt({ secret: JWT_SECRET }));
 
 // Health check endpoint
 app.get('/health', (c) => {
@@ -317,9 +319,9 @@ app.post('/api/user/context', async (c) => {
     }
 
     // Save to SmartMemory (Procedural)
-    // We use a fixed key 'current_user' for this single-user demo
+    const payload = c.get('jwtPayload');
     const memory = await c.env.USER_CONTEXT.getProceduralMemory();
-    await memory.putProcedure('current_user', JSON.stringify({
+    await memory.putProcedure(`user_${payload.userId}`, JSON.stringify({
       businessName,
       businessType,
       description,
@@ -897,10 +899,11 @@ app.post('/api/lex/chat', async (c) => {
     }
 
     // Fetch User Context from SmartMemory
+    const payload = c.get('jwtPayload');
     let userContext = '';
     try {
       const memory = await c.env.USER_CONTEXT.getProceduralMemory();
-      userContext = await memory.getProcedure('current_user') || '';
+      userContext = await memory.getProcedure(`user_${payload.userId}`) || '';
       console.log('Lex Context:', userContext);
     } catch (e) {
       console.warn('Failed to fetch user context', e);

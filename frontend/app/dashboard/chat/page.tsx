@@ -46,7 +46,13 @@ export default function ChatPage() {
 
     // 1. Load Sessions from LocalStorage & Deduplicate
     useEffect(() => {
-        const storedSessions = localStorage.getItem('lex_chat_sessions');
+        const userStr = localStorage.getItem('user');
+        const user = userStr ? JSON.parse(userStr) : null;
+        if (!user || !user.id) return;
+
+        const storageKey = `lex_chat_sessions_${user.id}`;
+        const storedSessions = localStorage.getItem(storageKey);
+
         if (storedSessions) {
             try {
                 const parsed = JSON.parse(storedSessions);
@@ -150,8 +156,12 @@ export default function ChatPage() {
 
     // 3. Save Sessions to LocalStorage
     useEffect(() => {
-        if (sessions.length > 0) {
-            localStorage.setItem('lex_chat_sessions', JSON.stringify(sessions));
+        const userStr = localStorage.getItem('user');
+        const user = userStr ? JSON.parse(userStr) : null;
+
+        if (user && user.id && sessions.length > 0) {
+            const storageKey = `lex_chat_sessions_${user.id}`;
+            localStorage.setItem(storageKey, JSON.stringify(sessions));
         }
     }, [sessions]);
 
@@ -193,36 +203,46 @@ export default function ChatPage() {
         }
     };
 
-    const updateCurrentSession = (newMessages: Message[]) => {
-        if (!currentSessionId) {
-            // New Session logic
-            const newId = `chat-${Date.now()}`;
-            const firstUserMsg = newMessages.find(m => m.role === 'user')?.content || 'New Chat';
-            const title = firstUserMsg.split(' ').slice(0, 5).join(' ') + '...';
+    const updateCurrentSession = (newMessages: Message[], explicitId?: string) => {
+        const targetId = explicitId || currentSessionId;
 
-            const newSession: ChatSession = {
-                id: newId,
-                title: title,
-                lastMessage: newMessages[newMessages.length - 1].content,
-                timestamp: Date.now(),
-                messages: newMessages
-            };
-            setSessions(prev => [newSession, ...prev]);
-            setCurrentSessionId(newId);
-        } else {
-            setSessions(prev => prev.map(s => {
-                if (s.id === currentSessionId) {
-                    return {
-                        ...s,
-                        messages: newMessages,
-                        lastMessage: newMessages[newMessages.length - 1].content,
-                        title: s.title === 'New Conversation'
-                            ? (newMessages.find(m => m.role === 'user')?.content.split(' ').slice(0, 5).join(' ') + '...') || s.title
-                            : s.title
-                    };
-                }
-                return s;
-            }));
+        if (!targetId) return; // Should not happen with new logic
+
+        setSessions(prev => {
+            const existingSession = prev.find(s => s.id === targetId);
+
+            if (existingSession) {
+                return prev.map(s => {
+                    if (s.id === targetId) {
+                        return {
+                            ...s,
+                            messages: newMessages,
+                            lastMessage: newMessages[newMessages.length - 1].content,
+                            title: s.title === 'New Conversation'
+                                ? (newMessages.find(m => m.role === 'user')?.content.split(' ').slice(0, 5).join(' ') + '...') || s.title
+                                : s.title
+                        };
+                    }
+                    return s;
+                });
+            } else {
+                // New Session Logic
+                const firstUserMsg = newMessages.find(m => m.role === 'user')?.content || 'New Chat';
+                const title = firstUserMsg.split(' ').slice(0, 5).join(' ') + '...';
+
+                const newSession: ChatSession = {
+                    id: targetId,
+                    title: title,
+                    lastMessage: newMessages[newMessages.length - 1].content,
+                    timestamp: Date.now(),
+                    messages: newMessages
+                };
+                return [newSession, ...prev];
+            }
+        });
+
+        if (targetId !== currentSessionId) {
+            setCurrentSessionId(targetId);
         }
     };
 
@@ -303,21 +323,29 @@ export default function ChatPage() {
         }
     };
 
-    const handleSubmit = async (e: React.FormEvent) => {
-        e.preventDefault();
-        if (!input.trim() || loading) return;
-        const userMessage = input.trim();
-        setInput('');
+    // --- Message Processing Helper ---
+    const handleSuggestionClick = async (text: string) => {
+        if (loading) return;
 
-        const updatedMsgs = [...messages, { role: 'user', content: userMessage } as Message];
+        const updatedMsgs = [...messages, { role: 'user', content: text } as Message];
         setMessages(updatedMsgs);
-        updateCurrentSession(updatedMsgs);
+
+        let activeSessionId = currentSessionId;
+        if (!activeSessionId) {
+            activeSessionId = `chat-${Date.now()}`;
+            setCurrentSessionId(activeSessionId);
+        }
+        updateCurrentSession(updatedMsgs, activeSessionId);
+
         setLoading(true);
 
         try {
             const response = await fetch(`${API_BASE_URL}/api/lex/chat`, {
                 method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${localStorage.getItem('token')}`
+                },
                 body: JSON.stringify({
                     messages: updatedMsgs.map(m => ({ role: m.role, content: m.content }))
                 })
@@ -326,7 +354,51 @@ export default function ChatPage() {
             if (data.success) {
                 const finalMsgs = [...updatedMsgs, { role: 'assistant', content: data.response, steps: data.steps } as Message];
                 setMessages(finalMsgs);
-                updateCurrentSession(finalMsgs);
+                updateCurrentSession(finalMsgs, activeSessionId);
+            } else {
+                setMessages(prev => [...prev, { role: 'assistant', content: 'Error: ' + data.error }]);
+            }
+        } catch (error) {
+            setMessages(prev => [...prev, { role: 'assistant', content: 'Network error.' }]);
+        } finally {
+            setLoading(false);
+        }
+    };
+
+    const handleSubmit = async (e: React.FormEvent) => {
+        e.preventDefault();
+        if (!input.trim() || loading) return;
+        const userMessage = input.trim();
+        setInput('');
+
+        const updatedMsgs = [...messages, { role: 'user', content: userMessage } as Message];
+        setMessages(updatedMsgs);
+
+        let activeSessionId = currentSessionId;
+        if (!activeSessionId) {
+            activeSessionId = `chat-${Date.now()}`;
+            setCurrentSessionId(activeSessionId);
+        }
+        updateCurrentSession(updatedMsgs, activeSessionId);
+
+        setLoading(true);
+
+        try {
+            const response = await fetch(`${API_BASE_URL}/api/lex/chat`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${localStorage.getItem('token')}`
+                },
+                body: JSON.stringify({
+                    messages: updatedMsgs.map(m => ({ role: m.role, content: m.content }))
+                })
+            });
+            const data = await response.json();
+            if (data.success) {
+                const finalMsgs = [...updatedMsgs, { role: 'assistant', content: data.response, steps: data.steps } as Message];
+                setMessages(finalMsgs);
+                updateCurrentSession(finalMsgs, activeSessionId);
             } else {
                 setMessages(prev => [...prev, { role: 'assistant', content: 'Error: ' + data.error }]);
             }
@@ -342,7 +414,7 @@ export default function ChatPage() {
             <audio ref={audioRef} className="hidden" onPlay={() => setIsPlaying(true)} onEnded={() => setIsPlaying(false)} onPause={() => setIsPlaying(false)} />
 
             {/* Sidebar Toggle - Floating on top (z-50) */}
-            <div className="absolute top-4 right-4 z-50">
+            <div className="absolute top-4 right-10 z-50">
                 <button
                     onClick={() => setSidebarOpen(!sidebarOpen)}
                     className={`p-2 backdrop-blur border rounded-lg transition-colors ${sidebarOpen ? 'bg-blue-600 text-white border-blue-500' : 'bg-black/40 border-white/10 text-gray-400 hover:text-white'}`}
@@ -419,6 +491,22 @@ export default function ChatPage() {
                 </div>
 
                 <div className="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/80 to-transparent pt-10">
+
+                    {/* Suggested Questions (Only show when empty) */}
+                    {messages.length === 1 && !loading && (
+                        <div className="max-w-4xl mx-auto mb-4 grid grid-cols-1 md:grid-cols-3 gap-2 px-2">
+                            <button onClick={() => handleSuggestionClick("Check zoning for 500 E 6th St")} className="text-sm bg-blue-600/10 hover:bg-blue-600/20 text-blue-300 border border-blue-600/20 hover:border-blue-600/40 p-3 rounded-xl transition-all text-left">
+                                Check zoning for 500 E 6th St
+                            </button>
+                            <button onClick={() => handleSuggestionClick("Calculate permit fees for a $150,000 kitchen remodel")} className="text-sm bg-blue-600/10 hover:bg-blue-600/20 text-blue-300 border border-blue-600/20 hover:border-blue-600/40 p-3 rounded-xl transition-all text-left">
+                                Calculate fees for $150k remodel
+                            </button>
+                            <button onClick={() => handleSuggestionClick("How do I apply for a commercial building permit?")} className="text-sm bg-blue-600/10 hover:bg-blue-600/20 text-blue-300 border border-blue-600/20 hover:border-blue-600/40 p-3 rounded-xl transition-all text-left">
+                                How do I apply for a permit?
+                            </button>
+                        </div>
+                    )}
+
                     <div className="max-w-4xl mx-auto bg-black/40 backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl">
                         <form onSubmit={handleSubmit} className="flex items-center gap-4 p-2">
                             <button

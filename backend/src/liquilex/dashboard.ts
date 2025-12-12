@@ -88,27 +88,36 @@ export class DashboardService {
 
             for (const item of items.slice(0, 5)) {
                 const titleMatch = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || item.match(/<title>(.*?)<\/title>/);
+                const linkMatch = item.match(/<link>(.*?)<\/link>/);
                 const dateMatch = item.match(/<pubDate>(.*?)<\/pubDate>/);
 
                 if (titleMatch && titleMatch[1]) {
                     const title = titleMatch[1];
+                    const link = linkMatch ? linkMatch[1] : '#';
                     const dateStr = dateMatch && dateMatch[1] ? dateMatch[1] : new Date().toISOString();
 
-                    newAlerts.push({
-                        title: title,
-                        severity: title.toLowerCase().includes('urgent') || title.toLowerCase().includes('alert') ? 'high' : 'medium',
-                        date_text: new Date(dateStr).toLocaleDateString()
-                    });
+                    // Filter for relevance
+                    const KEYWORDS = ['zoning', 'permit', 'fee', 'ordinance', 'council', 'development', 'plan', 'code'];
+                    const isRelevant = KEYWORDS.some(k => title.toLowerCase().includes(k));
+
+                    if (isRelevant) {
+                        newAlerts.push({
+                            title: title,
+                            link: link,
+                            severity: title.toLowerCase().includes('urgent') || title.toLowerCase().includes('alert') ? 'high' : 'medium',
+                            date_text: new Date(dateStr).toLocaleDateString()
+                        });
+                    }
                 }
             }
         } catch (e) {
             console.error('RSS Parsing failed, using Simulation', e);
             // Fallback
             newAlerts = [
-                { title: 'City Council: New Zoning Overlay Proposed for East Austin', severity: 'high', date_text: 'Today' },
-                { title: 'Permit Fee Restructuring Workshop Scheduled', severity: 'medium', date_text: 'Yesterday' },
-                { title: 'Downtown Density Bonus Program Expanded', severity: 'low', date_text: '2 days ago' },
-                { title: 'Update: Food Truck Water Safety Regulations', severity: 'medium', date_text: '3 days ago' }
+                { title: 'City Council: New Zoning Overlay Proposed for East Austin', link: 'https://austintexas.gov/news', severity: 'high', date_text: 'Today' },
+                { title: 'Permit Fee Restructuring Workshop Scheduled', link: 'https://austintexas.gov/department/development-services', severity: 'medium', date_text: 'Yesterday' },
+                { title: 'Downtown Density Bonus Program Expanded', link: 'https://austintexas.gov/page/downtown-density-bonus-program', severity: 'low', date_text: '2 days ago' },
+                { title: 'Update: Food Truck Water Safety Regulations', link: 'https://austintexas.gov/department/mobile-food-vendors', severity: 'medium', date_text: '3 days ago' }
             ];
         }
 

@@ -283,6 +283,7 @@ export default function DashboardPage() {
                                     <WatchdogItem
                                         key={alert.id}
                                         title={alert.title}
+                                        link={alert.link}
                                         date={alert.date_text || new Date(alert.created_at).toLocaleDateString()}
                                         severity={alert.severity}
                                     />
@@ -438,11 +439,14 @@ function WatchdogSkeleton() {
     );
 }
 
-function WatchdogItem({ title, date, severity }: any) {
-    const color = severity === 'high' ? 'text-orange-400' : 'text-center-blue-400';
+function WatchdogItem({ title, link, date, severity }: any) {
     return (
         <div className="border-l-2 border-white/10 pl-4 py-1">
-            <h4 className={`text-sm font-medium ${severity === 'high' ? 'text-orange-400' : 'text-blue-400'} mb-0.5`}>{title}</h4>
+            <h4 className={`text-sm font-medium ${severity === 'high' ? 'text-orange-400' : 'text-blue-400'} mb-0.5`}>
+                <a href={link} target="_blank" rel="noopener noreferrer" className="hover:underline">
+                    {title}
+                </a>
+            </h4>
             <p className="text-xs text-gray-500">Effective from {date}</p>
         </div>
     );
