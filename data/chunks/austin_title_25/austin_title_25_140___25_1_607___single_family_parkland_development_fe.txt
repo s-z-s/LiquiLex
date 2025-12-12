@@ -1,0 +1,32 @@
+§ 25-1-607 - SINGLE-FAMILY PARKLAND DEVELOPMENT FEE.
+(A) Except as provided in Subsection (C), an applicant proposing single-family development must pay a parkland development fee as a condition to
+subdivision or site plan approval to ensure that land is developed with recreational amenities sufficient for park use.
+(B) The amount of the development fee is established in the annual fee schedule based on a recommendation by the director in accordance with this
+subsection.
+(1) Parkland Development Fee:
+Density Classification Development Fee Amount
+Low Density: Not more than 6 units per acre 2.8 × Park Development Cost Per Person
+Medium Density: More than 6 and not more than 12 units per acre 2.2 × Park Development Cost Per Person
+High Density: More than 12 units per acre 1.7 × Park Development Cost Per Person
+(2) For purposes of determining the parkland development fee under Subdivision (B)(1):
+Park Development Cost =
+Park Development Cost Factor
+Park Facilities Level-of-Service
+where:
+(a) "Park Development Cost Factor" is determined by the director based on the average cost of developing an acre of parkland up to the standards of
+a neighborhood park; and
+(b) "Park Facilities Level-of-Service" is:
+City Population
+Number of Developed Parks
+where "City Population" is determined by the city demographer and "Number of Developed Parks" is the total number of parks developed with a
+recreational amenity or trail, as determined by the director prior to adoption of the annual fee ordinance by the city council.
+(C) The director may allow an applicant to construct recreational amenities on public parkland or private parkland, if applicable, in lieu of paying the
+development fee required by this section. In order to utilize this option, the applicant must:
+(1) post fiscal surety in an amount equal to the development fee;
+(2) if a dedication of land is required, construct recreational amenities prior to the dedication in a manner consistent with the Parkland Dedication
+Operating Procedures; and
+(3) document the required amenities concurrent with subdivision or site plan approval, in a manner consistent with the Parkland Dedication Operating
+Procedures.
+about:blank 42/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Source: Ord. No. 20231130-087, Pt. 2, 1-1-24.

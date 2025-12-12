@@ -1,0 +1,25 @@
+§ 25-9-331 - SERVICE UNITS WHERE A METER IS PURCHASED.
+(A) This section applies to the determination of service units for both water and wastewater service.
+(B) Service units shall be determined by the size and type of the water meter purchased according to the following schedule:
+Meter Size (Inch) Type Service Units
+⅝ Simple 1
+¾ Simple 1.5
+1 Simple 2.5
+1½ Simple 5
+2 Simple 8
+2 Compound 8
+2 Turbine 10
+3 Compound 16
+3 Turbine 24
+4 Compound 25
+4 Turbine 42
+about:blank 475/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+6 Compound 50
+8 Compound 80
+6 Turbine 92
+10 Compound 115
+8 Turbine 160
+10 Turbine 250
+12 Turbine 330
+Source: Section 13-3A-5(a) and (b); Ord. 990225-70; Ord. 031211-11.

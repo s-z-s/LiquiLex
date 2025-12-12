@@ -1,0 +1,37 @@
+"Heating
+systems d, e, j, k","Fuel Type: Same as proposed design Capacity: same as proposed
+design and in accordance with Section R403.7",As proposed,,
+,Product class: Same as proposed design,As proposed,,
+,Efficiencies:,As proposed,,
+,Heat pump: Complying with 10 CFR §430.32,As proposed,,
+,Fuel gas and liquid fuel furnaces: Complying with 10 CFR §430.32,As proposed,,
+"Cooling
+systems d, f, k","Fuel Type: Electric
+Capacity: same as proposed design and in accordance with Section
+R403.7",As proposed,,
+,Efficiencies: Complying with 10 CFR §430.32,As proposed,,
+"Service water
+heating d, g, k","Use, in units of gal/day = 25.5 + (8.5 x N )
+br
+Where:
+N = number of bedrooms
+br","Use, in units of gal/day = (25.5 + (8.5 x N ))*(1 -
+br
+HWDS)
+Where:
+N = number of bedrooms.
+br
+HWDS = factor for the compactness of the hot water
+distribution system",,
+,,Compactness ratio i factor,,HWDS
+,,1 story,"2 or more
+stories",
+,,>60%,>30%,0
+,,>30% to ≤60%,>15% to ≤30%,0.05
+,,>15% to ≤30%,>7.5% to ≤15%,0.10
+,,≤15%,≤7.5%,0.15
+,Fuel Type: Same as proposed design,As proposed,,
+,Rated Storage Volume: Same as proposed design,As proposed,,
+,Draw Pattern: Same as proposed design,As proposed,,
+,Efficiencies: Uniform Energy Factor complying with 10 CFR §430.32,As proposed,,
+,Tank Temperature: 120° F (48.9° C),Same as standard reference design,,

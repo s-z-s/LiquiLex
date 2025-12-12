@@ -1,0 +1,32 @@
+ZONING USE SUMMARY TABLE (LAND DEVELOPMENT CODE),,,,,,,,,,,,,,,,,,,,,
+P = Permitted Use C = Conditional Use Permit — = Not permitted,,,,,,,,,,,,,,,,,,,,,
+,AL,RR,1-FS,2-FS,3-FS,A4-FS,B4-FS,5-FS,6-FS,1-FM,2-FM,3-FM,4-FM,5-FM,6-FM,HM,ON,OL,OG,RC,
+RESIDENTIAL USES,,,,,,,,,,,,,,,,,,,,,
+"Bed & Breakfast
+(Group 1)",—,—,P,P,P,—,—,P,P,P,P,P,P,P,P,—,P,P,P,P,
+"Bed & Breakfast
+(Group 2)",—,—,—,—,—,—,—,P,P,P,P,P,P,P,P,—,P,P,P,P,
+"Condominium
+Residential",—,—,—,—,—,—,—,P,P,P,P,P,P,P,P,—,—,—,—,—,
+"Conservation
+Single Family
+Residential",—,—,P,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,
+Duplex Residential,—,—,P,P,P,—,—,P,P,P,P,P,P,P,P,—,—,—,—,—,
+Group Residential,—,—,—,—,—,—,—,—,—,—,—,C,P,P,P,—,—,—,—,—,
+"Mobile Home
+Residential",—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,P,—,—,—,—,
+"Multifamily
+Residential",—,—,—,—,—,—,—,—,—,P,P,P,P,P,P,—,—,—,—,—,
+"Retirement
+Housing (Small
+Site)",—,—,—,—,P,—,—,P,P,P,P,P,P,P,P,—,—,—,—,—,
+"Retirement
+Housing (Large
+Site)",—,—,—,—,—,—,—,C,C,C,C,C,C,C,C,—,—,—,—,—,
+"Single-Family
+Attached
+Residential",—,—,—,—,P,—,—,P,P,P,P,P,P,P,P,—,—,—,—,—,
+"Single-Family
+Residential",P,P,P,P,P,—,—,P,P,P,P,P,P,P,P,—,—,—,—,—,
+"Small Lot Single-
+Family Residential",—,—,P,P,P,P,P,P,P,—,—,—,—,—,—,—,—,—,—,—,

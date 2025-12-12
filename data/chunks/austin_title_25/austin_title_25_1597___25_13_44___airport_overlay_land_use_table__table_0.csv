@@ -1,0 +1,25 @@
+Land Use,AO-1,AO-2,AO-3
+Residential Uses,,,
+All residential,X,X,R
+Public Uses,,,
+Schools,X,X,R
+Hospitals and nursing homes,P-30db,P-30db,P-25db
+"Churches, auditoriums, and
+concert halls",P-30db,P-30db,P-25db
+Government services,P-25db,P,P
+Transportation,P-25db certain areas,P,P
+Parking,P-25db certain areas,P,P
+Commercial Uses,,,
+Hotel or motel,P-30db,P-25db,P-25db
+"Offices, business and professional",P-25db,P,P
+"Wholesale and retail - building
+materials, hardware, and farm
+equipment",P-25db certain areas,P,P
+Retail trade - general,P-25db,P,P
+Utilities,P-25db certain areas,P,P
+Communication,P-25db,P,P
+"Manufacturing and Production
+Uses",,,
+"Manufacturing, general",P-25db certain areas,P,P
+Photographic and optical,P-25db,P,P
+"Farming, ranching, and forestry",P-30db residential,P-25db residential,P-25db residential

@@ -1,0 +1,29 @@
+§ 25-8-213 - WATER QUALITY CONTROL STANDARDS.
+(A) A water quality control must be designed in accordance with the Environmental Criteria Manual.
+(1) The control must provide at least the treatment level of a sedimentation/filtration system under the Environmental Criteria Manual.
+(2) An impervious liner is required for structural water quality controls over the Edwards Aquifer recharge zone. If a liner is required and there are
+multiple controls in series, liners are only required for the first control in the series.
+(3) The control must be accessible for maintenance and inspection as prescribed in the Environmental Criteria Manual.
+(B) A water quality control must capture and treat the water draining to the control from the contributing area. The required capture volume is:
+(1) the first one-half inch of runoff; and
+(2) for each 10 percent increase in impervious cover over 20 percent of gross site area, an additional one-tenth of an inch of runoff.
+(C) The required water quality treatment must be provided using green stormwater control measures, as prescribed in the Environmental Criteria Manual.
+(D) Notwithstanding Subsection (C), all or part of the required water quality treatment may be provided using other water quality controls for:
+about:blank 429/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(1) areas with land uses or activities that may generate highly contaminated runoff, as described in the Environmental Criteria Manual;
+(2) a project that provides water quality treatment for currently untreated, developed off-site areas of at least ten acres in size; or
+(3) sites with impervious cover of greater than 90 percent gross site area.
+(E) The location of a water quality control:
+(1) must avoid recharge features to the greatest extent possible;
+(2) must be shown on the slope map, preliminary plan, site plan, or subdivision construction plan, as applicable; and
+(3) in a water supply rural watershed, may not be in the 40 percent buffer zone, unless the control disturbs less than 50% of the buffer, and is located to
+maximize overland flow and recharge in the undisturbed remainder of the 40 percent buffer zone.
+(F) This subsection provides additional requirements for the Barton Springs Zone.
+(1) Approval by the Watershed Protection Department is required for a proposed water quality control that is not described in the Environmental Criteria
+Manual. The applicant must substantiate the pollutant removal efficiency of the proposed control with published literature or a verifiable engineering
+study.
+(2) Water quality controls must be placed in sequence if necessary to remove the required amount of pollutant. The sequence of controls must be:
+(a) based on the Environmental Criteria Manual or generally accepted engineering principles; and
+(b) designed to minimize maintenance requirements.
+Source: Sections 13-7-18, 13-7-19, and 13-7-34; Ord. 990225-70; Ord. 010329-18; Ord. 031211-11; Ord. 20131017-046; Ord. No. 20221027-045, Pt. 18, 11-7-22.

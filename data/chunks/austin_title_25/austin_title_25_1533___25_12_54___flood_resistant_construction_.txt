@@ -1,0 +1,266 @@
+§ 25-12-54 - FLOOD-RESISTANT CONSTRUCTION.
+(A) Statutory Authorization. As a home-rule city, the City of Austin has the responsibility and power to adopt regulations designed to minimize flood losses.
+The Legislature of the State of Texas has in Sections 16.3145 and 16.315 of the Texas Water Code authorized local government units to adopt regulations
+designed to minimize flood losses.
+(B) Administration.
+(1) Purpose. The purpose of this section is to promote the public health, safety and general welfare and to minimize public and private losses due to
+flood conditions in specific flood hazard areas through the establishment of comprehensive regulations for management of flood hazard areas
+designed to:
+(a) prevent unnecessary disruption of commerce, access and public service during times of flooding;
+(b) manage the alteration of natural flood plains, stream channels and shorelines;
+about:blank 537/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(c) manage filling, grading, dredging and other development which may increase flood damage or erosion potential;
+(d) prevent or regulate the construction of flood barriers which will divert floodwaters or which can increase flood hazards;
+(e) contribute to improved construction techniques in the flood plain;
+(f) restrict or prohibit uses that are dangerous to health, safety or property in times of flood, or cause excessive increases in flood heights or
+velocities; and
+(g) require that uses vulnerable to floods, including facilities which serve such uses, be protected against flood damage at the time of initial
+construction.
+(2) Objectives. The objectives of this section are to protect human life, minimize the expenditure of public money for flood control projects, minimize the
+need for rescue and relief efforts associated with flooding, minimize prolonged business interruption, minimize damage to public facilities and
+utilities, help maintain a stable tax base by providing for the sound use and development of flood-prone areas, contribute to improved construction
+techniques in the flood plain and ensure that potential owners and occupants are notified that property is within flood hazard areas.
+(3) Scope. The provisions of this section shall apply to all proposed development in a flood hazard area established in Section 25-12-53 (Flood Loads) of
+this code.
+(4) Alternative provisions. As an alternative to the requirements applicable to building and structures subject to Article 11 (Residential Code), ASCE 24 is
+permitted subject to the limitations of this code and the limitations therein.
+(5) Structural systems. Structural systems of buildings and structures shall be designed, connected and anchored to resist flotation, collapse or
+permanent lateral movement due to structural loads and stresses from flooding equal to the design flood elevation.
+(6) Flood-resistant construction. Buildings and structures erected in areas prone to flooding shall be constructed by methods and practices that
+minimize flood damage.
+(C) Applicability.
+(1) General. This section, in conjunction with other applicable provisions in this chapter, provides minimum requirements for development located in
+flood hazard areas, including:
+(a) the subdivision of land;
+(b) site improvements and installation of utilities;
+(c) placement and replacement of manufactured homes;
+(d) placement of recreational vehicles;
+(e) new construction and repair, reconstruction, rehabilitation, or additions to new construction;
+(f) substantial improvement of existing buildings and structures, including restoration after damage; and
+(g) the installation of tanks.
+(2) Abrogation and greater restrictions. This section is not intended to repeal, abrogate, or impair any existing easements, covenants, or deed
+restrictions. However, where this section and another city code provision, easement, covenant, or deed restriction conflict or overlap, whichever
+imposes the more stringent restrictions shall prevail.
+(3) Establishment of flood hazard areas. Flood hazard areas are established in Section 25-12-53(B) (Establishment of flood hazard areas).
+(4) Nonconforming Uses. A structure, or the use of a structure or premises, which was lawful before the adoption of the Building Code, but which does
+not conform with the requirements of these regulations, may be continued subject to the following conditions:
+(a) No such use shall be expanded, changed, enlarged, or altered in a way which increases its nonconformity.
+(b) No substantial improvement of the structure shall be made unless the structure is changed to conform to these regulations.
+(c) If a nonconforming use is discontinued for a period of 90 days, any future use of the building or premises shall conform to these regulations.
+(d) Any nonconforming use or structure which is destroyed by any means, including floods, to an extent of 50 percent or more of its market value,
+shall not be reconstructed except in conformance with the provisions of these regulations.
+(D) Powers and Duties.
+(1) Permit applications. All applications for permits shall comply with the following:
+(a) The building official shall review all permit applications to determine whether proposed development is located in flood hazard areas established
+in Section 25-12-53(B) (Establishment of flood hazard areas).
+(b) Where a proposed development site is in a flood hazard area, all development to which this section is applicable as specified in Subsection (C)(1)
+(General) shall be designed and constructed with methods, practices and materials that minimize flood damage and that are in accordance with
+the applicable provisions in Chapter 25-12 (Technical Code) and ASCE 24.
+(2) Other Permits. It shall be the responsibility of the building official to ensure that approval of a proposed development shall not be given until proof
+that necessary approvals and/or permits have been granted by federal, state, or local agencies having jurisdiction over such development.
+(3) Establishing the design flood elevation. The design flood elevation defines areas prone to flooding and describes, at a minimum, the base flood
+elevation at the depth of peak elevation of flooding based upon:
+about:blank 538/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(a) For areas amended to incorporate Atlas 14 data, the 100-year floodplain calculated under fully developed conditions in accordance with the City
+of Austin Drainage Criteria Manual as amended to incorporate Atlas 14 data;
+(b) For areas not yet amended to incorporate Atlas 14 data, the 500-year floodplain either as depicted on the FEMA Flood Insurance Rate Map as of
+January 6, 2016, as subsequently revised, or as calculated under existing conditions as prescribed by the Drainage Criteria Manual using data
+predating Atlas 14; or
+(c) For the Colorado River, the 100-year floodplain as depicted on the FEMA Flood Insurance Rate Map dated January 6, 2016, or as subsequently
+revised.
+(4) Determination of design flood elevations. If design flood elevations are not specified, the building official is authorized to require the applicant to:
+(a) Obtain, review and reasonably utilize data available from a federal, state or other source; or
+(b) Determine the design flood elevation in accordance with the 100-year floodplain as defined in the Austin City Code. Such analyses shall be
+performed and sealed by a Professional Engineer licensed by the State of Texas. Studies, analyses and computations shall be submitted in
+sufficient detail to allow review and approval by the building official. The accuracy of data submitted for such determination shall be the
+responsibility of the applicant.
+(5) Determination of impacts. In a riverine flood hazard area where design flood elevations are specified but floodways have not been designated, an
+applicant shall demonstrate that the effect of the proposed building or structure on design flood elevations, including fill, when combined with all
+other existing and anticipated flood hazard area encroachments, will not increase the design flood elevation at any point within the jurisdiction.
+(6) Activities in riverine flood hazard areas. In riverine situations, the building official shall not permit any new construction, substantial improvement or
+other development, including fill, unless the applicant submits an engineering analysis prepared by a registered design professional, demonstrating
+that the cumulative effect of the proposed development, when combined with all other existing and anticipated development, will not increase the
+design flood elevation at any point that results in additional adverse flooding on other property.
+(7) Lowest floor. The lowest floor shall be the floor of the lowest enclosed area, including basement. The lowest floor does not include any unfinished
+flood-resistant enclosure that is used only for vehicle parking, building access, or limited storage, unless the enclosure is built to cause the building or
+structure to violate this section.
+Exception: An unfinished enclosure used for storage of property, materials, or equipment that constitute a safety hazard if contacted by flood
+waters is a lowest floor.
+(8) Protection of mechanical, plumbing and electrical systems. Electrical systems, equipment and components; heating, ventilating, air-conditioning;
+plumbing appliances and plumbing fixtures; duct systems; and other service equipment shall be located at or above the elevation required in Section
+25-12-53(C)(1) (Elevation Requirements). If replaced as part of a substantial improvement, electrical systems, equipment and components; heating,
+ventilating, air-conditioning and plumbing appliances and plumbing fixtures; duct systems; and other service equipment shall meet the requirements
+of this section. Systems, fixtures, and equipment and components shall not be mounted on or penetrate through walls intended to break away under
+flood loads.
+Exception: Locating electrical systems, equipment and components; heating, ventilating, air-conditioning; plumbing appliances and plumbing
+fixtures; duct systems; and other service equipment is permitted below the elevation required in Section 25-12-53(C)(1) (Elevation Requirements)
+provided that they are designed and installed to prevent water from entering or accumulating within the components and to resist hydrostatic
+and hydrodynamic loads and stresses, including the effects of buoyancy, during the occurrence of flooding to the required elevation in
+accordance with ASCE 24. Electrical wiring systems are permitted to be located below the required elevation provided that they conform to the
+provisions of the electrical part of this code for wet locations.
+(9) Protection of water supply and sanitary sewage systems. New and replacement water supply systems shall be designed to minimize or eliminate
+infiltration of flood waters into the systems in accordance with the plumbing provisions of this code. New and replacement sanitary sewage systems
+shall be designed to minimize or eliminate infiltration of floodwaters into systems and discharges from systems into floodwaters in accordance with
+the plumbing provisions of this code and Chapter 3 of the International Private Sewage Disposal Code.
+(10) Flood-resistant materials. Building materials and installation methods used for flooring and interior and exterior walls and wall coverings below the
+elevation required in Section 25-12-53(C)(1) (Elevation Requirements) shall be flood damage-resistant materials that conform to the provisions of
+FEMA TB-2.
+(11) Floodway encroachment. Prior to issuing a permit for any floodway encroachment, including fill, new construction, substantial improvements and
+other development or land-disturbing activity, the building official shall require submission of a certification prepared by a Professional Engineer
+licensed by the State of Texas, along with supporting technical data in accordance with the City of Austin Drainage Criteria Manual, demonstrating
+that such development will not cause any increase of the level of the design flood.
+(12) Floodway revisions. A floodway encroachment that increases the level of the design flood may be considered for a variance only if the applicant has
+applied for a conditional Flood Insurance Rate Map (FIRM) revision and has received the approval of the Federal Emergency Management Agency
+(FEMA) provided the conditional Flood Insurance Rate Map (FIRM) revision is required by the City of Austin Drainage Criteria Manual.
+(13)
+about:blank 539/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Watercourse alteration. Prior to issuing a permit for any alteration or relocation of any watercourse, the building official shall require the applicant to provide
+notification of the proposal to the appropriate authorities of all affected adjacent government jurisdictions, as well as appropriate state agencies. A copy of the
+notification shall be maintained in the permit records and submitted to FEMA.
+(14) Engineering analysis. The building official shall require submission of an engineering analysis in accordance with the City of Austin Drainage Criteria
+Manual performed and sealed by a Professional Engineer licensed by the State of Texas demonstrating that the flood-carrying capacity of the altered
+or relocated portion of the watercourse will not be decreased. Such watercourses shall be maintained in a manner which preserves the channel's
+flood-carrying capacity.
+(15) Records. The building official shall maintain a permanent record of all permits issued in flood hazard areas, including copies of inspection reports and
+certifications required in Section 25-12-53(D) (Flood hazard documentation).
+(16) Inspections. Development for which a permit under this section is required shall be subject to inspection. The building official or the building official's
+designee shall make, or cause to be made, inspections of all development in flood hazard areas authorized by issuance of a permit under this section.
+(E) Permits.
+(1) Required. Any person, owner or owner's authorized agent who intends to conduct any development in a flood hazard area shall first make application
+to the building official and shall obtain the required permit.
+(2) Application for permit. The applicant shall file an application in writing on a form furnished by the building official. Such application shall:
+(a) Identify and describe the development to be covered by the permit.
+(b) Describe the land on which the proposed development is to be conducted by legal description, street address or similar description that will
+readily identify and definitely locate the site.
+(c) Include a site plan showing the delineation of flood hazard areas, floodway boundaries, flood zones, design flood elevations, ground elevations,
+proposed lowest floor elevation, proposed fill and excavation and drainage patterns and facilities.
+(d) Include in subdivision proposals and other proposed developments with more than 50 lots or larger than 5 acres (20,234 m 2 ), base flood
+elevation data in accordance with Section 25-12-53(B) (Establishment of flood hazard areas).
+(e) Indicate the use and occupancy for which the proposed development is intended.
+(f) Be accompanied by construction documents, grading and filling plans and other information deemed appropriate by the building official.
+(g) State the valuation of the proposed work.
+(h) Be signed by the applicant or the applicant's authorized agent.
+(3) Validity of permit. The issuance of a permit under this section shall not be construed to be a permit for, or approval of, any violation of this section or
+any other ordinance of the jurisdiction. The issuance of a permit based on submitted documents and information shall not prevent the building
+official from requiring the correction of errors. The building official is authorized to prevent occupancy or use of a structure or site which is in violation
+of this section or other ordinances of the City of Austin.
+(4) Time Limitation on Application; Permit Expiration and Reactivation. Article 13 (Administration of Technical Codes) of this chapter establishes permit
+application time limits and requirements applicable to permit expiration and reactivation, including a review fee for expired permits.
+Exception: Permits issued under Section 105.1.1 (Annual permit) are only valid for a period of 360 days from the date of issuance and cannot be
+extended.
+(5) Suspension or revocation. The building official is authorized to suspend or revoke a permit issued under this section wherever the permit is issued in
+error or on the basis of incorrect, inaccurate or incomplete information, or in violation of any ordinance or code of the City of Austin.
+(F) Variances.
+(1) General. The City Council shall decide requests for variances from the floodplain regulations in this code and Chapter 25-7 (Drainage) after conducting
+a public hearing. The City Council shall base its determination on technical justifications and has the right to attach such conditions to variances as it
+deems necessary to further the purposes and objectives of this article.
+(2) Records. The building official shall maintain a permanent record of all variance actions, including justification for their issuance.
+(3) Historic structures. A variance may be issued for the repair or rehabilitation of a historic structure upon a determination that the proposed repair or
+rehabilitation will not preclude the structure's continued designation as a historic structure, and the variance is the minimum necessary to preserve
+the historic character and design of the structure.
+Exceptions: Within flood hazard areas, historic structures that are not:
+(a) listed or preliminarily determined to be eligible for listing in the National Register of Historic Places; or
+(b) determined by the Secretary of the U.S. Department of Interior as contributing to the historical significance of a registered historic district or a
+district preliminarily determined to qualify as a historic district; or
+(c) designated as historic under a state or local historic preservation program that is approved by the Department of Interior.
+(4) Functionally dependent facilities. A variance may be issued for the construction or substantial improvement of a functionally dependent facility
+provided the criteria in Section 25-12-53(A) (General) are met and the variance is the minimum necessary to allow the construction or substantial
+improvement, and that all due consideration has been given to methods and materials that minimize flood damages during the design flood and
+about:blank 540/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+create no additional threats to public safety.
+(5) Restrictions. The City Council shall not issue a variance for any proposed development in a floodway if any increase in flood levels would result during
+the design flood discharge.
+(6) Considerations. In reviewing applications for variances, the City Council shall consider all technical evaluations, all relevant factors, all other portions
+of this section, and each of the following:
+(a) The danger that materials and debris may be swept onto other lands resulting in further injury or damage.
+(b) The danger to life and property due to flooding or erosion damage.
+(c) The susceptibility of the proposed development, including contents, to flood damage and the effect of such damage on current and future
+owners.
+(d) The importance of the services provided by the proposed development to the community.
+(e) The availability of alternate locations for the proposed development that are not subject to flooding or erosion.
+(f) The compatibility of the proposed development with existing and anticipated development.
+(g) The relationship of the proposed development to the comprehensive plan and flood plain management program for that area.
+(h) The safety of access to the property in times of flood for ordinary and emergency vehicles.
+(i) The expected heights, velocity, duration, rate of rise and debris and sediment transport of the floodwaters and the effects of wave action, if
+applicable, expected at the site.
+(j) The costs of providing governmental services during and after flood conditions including maintenance and repair of public utilities and facilities
+such as sewer, gas, electrical and water systems, streets and bridges.
+(7) Conditions for issuance. Variances shall only be issued by the City Council upon:
+(a) a technical showing of good and sufficient cause based on the unique characteristics of the size, configuration or topography of the site;
+(b) a determination that failure to grant the variance would result in exceptional hardship by rendering the lot undevelopable;
+(c) a determination that the granting of a variance will not result in increased flood heights, additional threats to public safety, extraordinary public
+expense, nor create nuisances, cause fraud on or victimization of the public or conflict with existing local laws or ordinances;
+(d) a determination that the variance is the minimum necessary, considering the flood hazard, to afford relief; and
+(e) notification to the applicant in writing over the signature of the building official that the issuance of a variance to construct a structure below the
+base flood level will result in increased premium rates for flood insurance, and that such construction below the base flood level increases risks to
+life and property.
+(G) Subdivisions.
+(1) General. Any subdivision proposal, including proposals for manufactured home parks and subdivisions, or other proposed new development in a
+flood hazard area shall be reviewed to verify all of the following:
+(a) all such proposals are consistent with the need to minimize flood damage;
+(b) all public utilities and facilities, such as sewer, gas, electric and water systems are located and constructed to minimize or eliminate flood damage;
+and
+(c) adequate drainage is provided to reduce exposure to flood hazards.
+(2) Subdivision requirements. The following requirements shall apply in the case of any proposed subdivision, including proposals for manufactured
+home parks and subdivisions, any portion of which lies within a flood hazard area:
+(a) The flood hazard area, including floodways, as appropriate, shall be delineated on tentative and final subdivision plats.
+(b) Design flood elevations shall be shown on tentative and final subdivision plats.
+(c) Residential building lots shall be provided with adequate buildable area outside the flood hazard area.
+(d) The design criteria for utilities and facilities set forth in this section, Section 25-12-53 (Flood Loads), ASCE 24, the City of Austin Drainage Criteria
+Manual, and applicable FEMA design criteria shall be met.
+(H) Site Improvement.
+(1) Development in floodways. Development or land disturbing activity shall not be authorized in the floodway unless it has been demonstrated through
+hydrologic and hydraulic analyses performed and sealed by a Professional Engineer licensed by the State of Texas in accordance with the City of
+Austin Drainage Criteria Manual, that the proposed encroachment will not result in any increase in the level of the design flood.
+(2) Sewer facilities. All new or replaced sanitary sewer facilities, private sewage treatment plants (including all pumping stations and collector systems)
+and on-site waste disposal systems shall be designed in accordance with Chapter 7, ASCE 24, to minimize or eliminate infiltration of floodwaters into
+the facilities and discharge from the facilities into floodwaters, or impairment of the facilities and systems.
+(3) Water facilities. All new replacement water facilities shall be designed in accordance with the provisions of Chapter 7, ASCE 24, to minimize or
+eliminate infiltration of floodwaters into the systems.
+(4) Storm drainage. Storm drainage shall be designed to convey the flow of surface waters to minimize or eliminate damage to persons or property.
+about:blank 541/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(5) Streets and sidewalks. Streets and sidewalks shall be designed to minimize potential for increasing or aggravating flood levels.
+(I) Manufactured Homes.
+(1) Elevation.
+(a) All new and replacement manufactured homes to be placed or substantially improved in a flood hazard area shall be elevated such that the
+lowest floor of the manufactured home is elevated to a minimum of two feet above the design flood elevation. Elevation certification required by
+Section 25-12-53(D) (Flood hazard documentation) shall be submitted to the building official.
+(b) The bottom of the frame of new and replacement manufactured homes on foundations that conform to the requirements of Section 25-12-53(C)
+(1) (Elevation Requirements), as applicable, shall be elevated to or above the elevations specified in Section 25-12-53(C)(1) (Elevation
+Requirements). The anchor and tie-down requirements of the applicable state or federal requirements shall apply. The foundation and anchorage
+of manufactured homes to be located in identified floodways shall be designed and constructed in accordance with ASCE 24.
+(2) Foundations. All new and replacement manufactured homes, including substantial improvement of existing manufactured homes, shall be placed on
+a permanent, reinforced foundation that is designed in accordance with Section 25-12-53 (Flood Loads).
+(3) Anchoring. All new and replacement manufactured homes to be placed or substantially improved in a flood hazard area shall be installed using
+methods and practices which minimize flood damage. Manufactured homes shall be securely anchored to an adequately anchored foundation system
+to resist flotation, collapse and lateral movement. Methods of anchoring are authorized to include, but are not limited to, use of over-the-top or frame
+ties to ground anchors. This requirement is in addition to applicable state and local anchoring requirements for resisting wind forces.
+(4) Protection of mechanical equipment and outside appliances. Mechanical equipment and outside appliances shall be elevated a minimum of two
+foot above the design flood elevation to or above the design flood elevation.
+Exception: Where such equipment and appliances are designed and installed to prevent water from entering or accumulating within their
+components and the systems are constructed to resist hydrostatic and hydrodynamic loads and stresses, including the effects of buoyancy, during
+the occurrence of flooding up to the elevation required by Section 25-12-53(C)(1) (Elevation Requirements), the systems and equipment shall be
+permitted to be located below the elevation required by 25-12-53(C)(1) (Elevation Requirements). Electrical wiring systems shall be permitted below
+the design flood elevation provided they conform to the provisions of NFPA 70.
+(5) Enclosures. Fully enclosed areas below elevated manufactured homes shall comply with the requirements of 25-12-53(C) (Design and Construction).
+(J) Recreational Vehicles.
+(1) Placement prohibited. The placement of recreational vehicles shall not be authorized in floodways.
+(2) Temporary placement. Recreational vehicles in flood hazard areas shall be fully licensed and ready for highway use; and shall be placed on a site for
+less than 180 consecutive days.
+(3) Permanent placement. Recreational vehicles that are not fully licensed and ready for highway use, or that are to be placed on a site for more than
+180 consecutive days, shall meet the requirements of Subsection (I) (Manufactured Homes) for manufactured homes.
+(K) Tanks. Underground and above-ground tanks shall be designed, constructed, installed and anchored in accordance with ASCE 24.
+(L) Foundation design and construction. This subsection applies to a building or structure subject to Article 11 (Residential Code).
+(1) A foundation wall in a building or structure erected in a flood hazard area shall meet the requirements in Residential Code, Chapter 4 (Foundations).
+Exceptions: Unless designed consistent with Residential Code, Section R404 (Foundation and Retaining Walls):
+(a) the unsupported height of a 6-inch (152 mm) plain masonry wall shall not exceed 3 feet (914 mm);
+(b) the unsupported height of an 8-inch (203 mm) plain masonry wall shall not exceed 4 feet (1219 mm); and
+(c) the unsupported height of an 8-inch (203 mm) reinforced masonry wall shall not exceed 8 feet (2438 mm).
+(2) For purposes of the exception in subsection (1), unsupported height is measured from the finished grade of the under-floor space to the top of the
+wall.
+(Ord. No. 20210603-059, Pt. 4, 9-1-21)

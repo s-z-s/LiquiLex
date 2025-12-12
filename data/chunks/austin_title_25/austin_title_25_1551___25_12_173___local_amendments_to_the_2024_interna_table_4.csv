@@ -1,0 +1,10 @@
+COMPLIANCE REQUIREDb,,BATTERY TECHNOLOGY,,,,"OTHER ESS AND
+BATTERY
+TECHNOLOGIESb","CAPACITOR
+ESSb"
+Feature,Section,Lead-Acid,Ni-CD & NiMH,Lithium - Ion,Flow,,
+"Exhaust
+ventilation",1207.6.1,Yes,Yes,No,Yes,Yes,Yes
+"Explosion
+control",1207.6.3,No,Yes a,Yes,No,Yes,Yes
+Safety caps,1207.6.4,Yes,Yes,No,No,Yes,Yes

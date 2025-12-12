@@ -1,0 +1,419 @@
+§ 25-12-3 - LOCAL AMENDMENTS TO THE INTERNATIONAL BUILDING CODE.
+Each provision in this section is a substitute for the identically numbered provision deleted in Section 25-12-1(B) (International Building Code) or is an addition to
+the 2024 International Building Code.
+[A] 101.4.1 Gas. The provisions of the International Fuel Gas Code and the Plumbing Code shall apply to the installation of gas piping from the point of
+delivery, gas appliances, and related accessories as covered in this code. The Plumbing Code supersedes the International Fuel Gas Code to the extent of
+conflict. These requirements apply to gas piping systems extending from the point of delivery to the inlet connections of appliances and the installation and
+operation of residential and commercial gas appliances and related accessories.
+[A] 101.4.2 Mechanical. The provisions of the International Mechanical Code and the Mechanical Code shall apply to the installation, alterations, repairs,
+and replacement of mechanical systems, including equipment, appliances, fixtures, fittings, and/or appurtenances, including ventilating, heating, cooling,
+air conditioning, and refrigeration systems, incinerators, and other energy related systems. The Mechanical Code supersedes the International Mechanical
+Code to the extent of conflict.
+[A] 101.4.3 Plumbing. The provisions of the International Plumbing Code and the Plumbing Code shall apply to the installation, alteration, repairs, and
+replacement of plumbing systems, including equipment, appliances, fixtures, fittings, and appurtenances, and where connected to a water or sewage
+system and all aspects of a medical gas system. The Plumbing Code supersedes the International Plumbing Code to the extent of conflict. The provisions of
+the International Private Sewage Disposal Code and the Plumbing Code shall apply to private sewage disposal systems. The Plumbing Code supersedes the
+International Private Sewage Code to the extent of conflict.
+101.4.8 Wildland-Urban Interface. The provisions of the International Wildland-Urban Interface Code shall apply to matters governing the construction,
+alteration, movement, repair, maintenance, and use of any building, structure, or premises within the wildland-urban interface areas in this jurisdiction.
+101.4.9 Building Criteria Manual. Additional information on procedures and rules for administration of this code are available in the Building Criteria
+Manual.
+SECTION 103 BUILDING OFFICIAL
+103.1 Building Official. The building official administers, enforces, and interprets this code. The building official may designate one or more deputy building
+officials.
+[A] 104.3.1 Determination of Substantially Improved or Substantially Damaged Existing Buildings and Structures in Flood Hazard Areas. For
+applications for reconstruction, rehabilitation, repair, alteration, addition or other improvement of existing buildings or structures located in flood hazard
+areas, the building official shall examine or cause to be examined the construction documents and shall prepare a finding with regard to the value of the
+proposed work. If the work is a substantial improvement as defined in Section 25-12-52(Definitions), the proposed work shall comply with Chapter 25-12,
+Article 3 (Flood Hazard Areas).
+[A] 105.1.1 Annual Permit. Instead of an individual permit for each alteration to an already approved electrical, gas, mechanical or plumbing installation,
+and minor building alterations and repairs, the building official is authorized to issue an annual permit upon application to any person, firm or corporation
+regularly employing one or more qualified trade persons in the building, structure or on the premises owned or operated by the applicant for the permit.
+The facility shall maintain records on all work performed under the annual permit in accordance with Section 105.1.2 (Annual Permit Records).
+105.1.1.1 Authorized Scope of Work. See Building Criteria Manual, Section 1.1.2 (Building Inspection Processes) for scope of work authorized under the
+annual permit.
+[A] 105.2 Work Exempt from Permit. A permit is not required for the work described in this provision. Work exempt from a permit shall still comply with
+this code and all other applicable laws and City Code requirements.
+Building:
+1. One-story detached accessory structures used as tool and storage sheds, playhouses, shade cloth structures constructed for outdoor covered areas that
+are not A2 or E occupancies, and similar uses, provided the floor area is not greater than 120 square feet (11 m2); provided they are not located within a
+flood hazard area.
+2. Fences not over seven feet (2,134 mm) high; provided they are not located within a flood hazard area.
+3. Oil derricks; provided they are not located within a flood hazard area.
+4.
+about:blank 522/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Retaining walls that are not over four feet (1,219 mm) in height measured from the bottom of the footing to the top of the wall, unless supporting a surcharge or
+impounding Class I, II or IIIA liquids; provided they are not located within a flood hazard area.
+5. Water tanks supported directly on grade if the capacity is not greater than 5,000 gallons (18,925 L) and the ratio of height to diameter or width is not
+greater than 2:1; provided they are not located within a flood hazard area.
+6. Sidewalks and driveways not more than 30 inches (762 mm) above adjacent grade, and not over any basement or story below and are not part of an
+accessible route; provided they are not located within a flood hazard area.
+7. Painting, papering, tiling, carpeting, cabinets, countertops, and similar finish work.
+8. Temporary motion picture, television, and theater stage sets and scenery.
+9. Prefabricated swimming pools accessory to a Group R-3 occupancy that are less than 24 inches (610 mm) deep, are not greater than 5,000 gallons (18,925
+L) and are installed entirely above ground; provided they are not located within a flood hazard area.
+10. Shade cloth structures constructed for nursery or agricultural purposes, not including service systems; provided they are not located within a flood
+hazard area.
+11. Swings and other playground equipment accessory to detached one- and two-family dwellings; provided they are not located within a flood hazard area.
+12. Window awnings in Group R-3 and U occupancies, supported by an exterior wall that do not project more than 54 inches (1,372 mm) from the exterior
+wall and do not require additional support.
+13. Non-fixed and movable fixtures, cases, racks, counters, and partitions not over five feet nine inches (1,753 mm) in height.
+14. Repair and replacement to gypsum board and backer board that are not part of a fire resistance-rated wall, a shear assembly, or wet areas if it is limited
+to a maximum of 96 square feet.
+15. Emergency removal of water damaged material such as, but not limited to gypsum board, insulation, wood paneling, etc., in order to avoid health hazard
+issues; a permit is required for the repairs.
+16. Repair to exterior siding that is not part of a fire-rated assembly wall or shear assembly if it is limited to a maximum of 96 square feet.
+17. Other work as determined by the building official.
+Electrical:
+1. Exemptions authorized in the National Electrical Code.
+2. Other work as determined by the building official.
+Mechanical:
+1. Exemptions authorized in the Mechanical Code.
+2. Other work as determined by the building official.
+Plumbing:
+1. Exemptions authorized in the Plumbing Code.
+2. Other work as determined by the building official.
+105.5 Time Limits. Article 13 (Administration of Technical Codes) of Chapter 25-12 establishes permit application time limits and requirements applicable
+to permit expiration and reactivation, including a review fee for expired permits.
+[A] 107.2.6 Site Plan. The construction documents submitted with the application for permit shall be accompanied by a site plan showing to scale the size
+and location of new construction and existing structures on the site, distances from lot lines, the established street grades and the proposed finished
+grades, and as applicable, flood hazard areas, floodways, and design flood elevations; and it shall be drawn in accordance with an accurate boundary line
+survey. In the case of demolition, the site plan shall show construction to be demolished and the location and size of existing structures and construction
+that are to remain on the site or plot. For a building or structure involving below-grade construction, the site plan shall show the location of proposed earth
+retention system components allowed under Section 3202.1.4 (Earth Retention System Components). The building official is authorized to waive or modify
+the requirement for a site plan when the application for permit is for alteration or repair or when otherwise warranted.
+108.5 Temporary Earth Retention Systems. Temporary earth retention system components used to facilitate below-grade construction of a building or
+structure shall conform to Sections 1811 (Earth Retention Systems) and Section 3202.1.4 (Earth Retention System Components).
+109.7 Plan Review Fees. An applicant shall pay a plan review fee, adopted by separate ordinance, when plans and specifications are submitted for review
+under Section 107 (Construction Documents). The building official shall charge an additional plan review fee if plans are incomplete or changed so as to
+require additional plan review. The plan review fees referenced in this section are in addition to the permit fees referenced in Section 109.1 (Payment of
+Fees).
+110.3 Required inspections. The building official, upon notification, shall make inspections set forth in Sections 110.3.1 through 110.3.12.1 and the Building
+Criteria Manual.
+about:blank 523/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+112.3 Authority to Disconnect Service Utilities. The building official shall have the authority to authorize disconnection of utility service to the building,
+structure or system regulated by this code and the referenced codes and standards in case of emergency where necessary to eliminate an immediate
+hazard to life or property, where one or more circumstances listed in Section 15-9-101(A)(2) (Basis for Termination of Sendee) exist, or where such utility
+connection has been made without the approval required by Section 112.1 or 112.2. The building official shall provide notice in accordance with Section 15-
+9-106 (Notice of Service Disconnection) of the decision to disconnect prior to taking such action. If not notified prior to disconnecting, the owner or the
+owner's authorized agent or occupant of the building, structure or service system shall be notified in writing, as soon as practical thereafter in accordance
+with Section 15-9-106 (Notice of Service Disconnection).
+113 Building and Fire Code Board of Appeals. Regulations regarding the Building and Fire Code Board of Appeals are found in Chapter 2-1 (City Boards).
+Section 202 Definitions.
+202.1 Supplemental definitions. The definitions in this subsection apply throughout this code and supplement the definitions in Section 202 (General
+Definitions) in the 2024 International Building Code.
+BED AND BREAKFAST. A private residence having a limited number of sleeping rooms which are available for transient guests who have paid for
+accommodations. For the different classifications of bed and breakfast structures refer to Section 25-2-781(Bed and Breakfast Residential Use Structures
+Classified).
+START OF CONSTRUCTION. The date a permit is issued for new construction or substantial improvements to existing structures if construction, repair,
+reconstruction, rehabilitation, addition, placement or other improvement starts within 180 days from the date the permit is issued. Construction starts
+when permanent construction of a building (including a manufactured home) is first placed and includes pouring a slab or footing, installing pilings, or
+constructing columns. Permanent construction does not include preparing land (clearing, excavating, grading, or filing); installing streets or walkways;
+excavating for a basement, footing, pier, or foundation; or erecting temporary forms or installing accessory buildings not occupied as dwelling units or not
+part of the main building. For a substantial improvement, construction starts when a wall, ceiling, floor, or other structural part of a building is altered even
+if the alteration does not affect the external dimensions of the building.
+SUBSTANTIAL DAMAGE. Damage of any origin sustained by a structure, whereby the cost of restoring the structure to its before-damage condition would
+equal or exceed 50 percent of the market value of the structure before the damage occurred.
+414.1.3 Information Required. Separate floor plans shall be submitted for buildings and structures with an occupancy in Group H, identifying the locations
+of anticipated contents and processes, to reflect the nature of each occupied portion of every building and structure. The floor plan shall identify the
+hazards associated with the contents and processes. A report identifying hazardous materials including, but not limited to, materials representing hazards
+that are classified in Group H to be stored or used, shall be submitted and the methods of protection from such hazards shall be indicated on the
+construction documents. The building official or fire marshal may also require a technical opinion that addresses the adequacy of the protective measures
+provided. The opinion and report shall be prepared by a qualified individual, firm or corporation approved by the building official and fire marshal and shall
+be provided without charge to the City.
+503.1.4 Occupiable Roofs. A roof level or portion thereof shall not be used as an occupiable roof unless the occupancy of the roof is an occupancy that is
+permitted by Table 504.4 for the story immediately below the roof. The area of the occupiable roof shall not be included in the building area as regulated
+by Section 506. An occupiable roof shall not be included in the building height or number of stories as regulated by Section 504, provided that the
+penthouses and other enclosed rooftop structures comply with Section 1511.
+Exceptions:
+1. The occupancy located on an occupied roof shall not be limited to the occupancies allowed on the story immediately below the roof where the building is
+equipped throughout with an automatic sprinkler system in accordance with Sections 903.3.1.1 or 903.3.1.2 and occupant notification in accordance with
+Sections 907.5.2.1 and 907.5.2.3 is provided in the area of the occupied roof. Emergency voice/alarm communication system notification per Section
+907.5.2.2 shall also be provided in the area of the occupied roof where such system is required elsewhere in the building.
+2. Assembly occupancies shall be permitted on roofs of open parking spaces of Type I or Type II construction, in accordance with the exception to Section
+903.2.1.6.
+3. An open noncombustible trellis or similar overhead shading device complying with the structural requirements of this code shall not be considered an
+enclosure, covering, or roof provided that the trellis or shade has an evenly distributed net free area of 50 percent or greater.
+503.1.4.1 Enclosures over occupiable roof areas. Elements or structures enclosing the occupiable roof areas shall not extend more than 48 inches (1220
+mm) above the surface of the occupiable roof.
+Exceptions:
+1. Penthouses constructed in accordance with Section 1511.2 and towers, domes, spires, and cupolas constructed in accordance with Section 1511.5.
+2. Elements or structures enclosing the occupiable roof areas where the roof deck is located more than 75 feet (22,860 mm) above the lowest level of fire
+department vehicle access.
+CHAPTER 9 FIRE PROTECTION AND LIFE SAFETY SYSTEMS.
+about:blank 524/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+901.1 Scope. The provisions of this chapter shall specify where fire protection and life safety systems are required and shall apply to the design, installation
+and operation of fire protection and life safety systems. For those requirements, see Chapter 25-12, Article 7 (Fire Code).
+TABLE 1004.5 MAXIMUM FLOOR AREA ALLOWANCES PER OCCUPANT
+Function of Space Occupant Load Factora
+Accessory storage areas, mechanical equipment room 300 gross
+Agricultural building 300 gross
+Aircraft hangars 500 gross
+Airport terminal
+Baggage claim 20 gross
+Baggage handling 300 gross
+Concourse 100 gross
+Waiting areas 15 gross
+Assembly
+Gaming floors (keno, slots, etc.) 11 gross
+Exhibit Gallery and Museum 30 net
+Assembly with fixed seats See Section 1004.5
+Assembly without fixed seats
+Concentrated 7 net
+Standing space 7 net
+Unconcentrated (tables and chairs) 15 net
+Bowling centers, allow 5 persons for each lane including 15 feet of runway, and for additional 7 net
+areas
+Business areas 150 gross
+Courtrooms—other than fixed seating areas 40 net
+Day care 35 net
+Dormitories 50 gross
+Educational
+Classroom area 20 net
+Shops and other vocational room areas 50 net
+Exercise rooms 50 gross
+about:blank 525/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Group H-5 Fabrication and manufacturing areas 200 gross
+Industrial areas 100 gross
+Information technology equipment facilities 300 gross
+Institutional areas
+Inpatient treatment areas 240 gross
+Outpatient areas 100 gross
+Sleeping areas 120 gross
+Kitchens, commercial 200 gross
+Library
+Reading rooms 50 net
+Stack area 100 gross
+Locker rooms 50 gross
+Mall buildings—covered and open See Section 402.8.2
+Mercantile 60 gross
+Storage, stock, shipping areas 300 gross
+Parking garages 200 gross
+Residential 200 gross
+Skating rinks, swimming pools
+Rink and pool 50 gross
+Decks 15 gross
+Stages and platforms 15 net
+Warehouses 500 gross
+For SI: 1 square foot = 0.0929 m2.
+a. Floor area in square feet per occupant.
+1010.1.2 Egress door types. Egress doors shall be of the pivoted or side-hinged swinging type.
+Exceptions:
+1. Private garages, office areas, factory and storage areas with an occupant load of 10 or less.
+2. Group I-3 occupancies used as a place of detention.
+3. Critical or intensive care patient rooms within suites of health care facilities.
+4. Doors within or serving a single dwelling unit in Groups R-2 and R-3.
+5. In other than Group H occupancies, revolving doors complying with Section 1010.3.1 (Revolving Doors).
+about:blank 526/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+6. In other than Group H-1, H-2, H-3, and H-4 occupancies, special purpose horizontal sliding, accordion or folding door assemblies complying with Section
+1010.3.3 (Special Purpose Horizontal Sliding, Accordion or Folding Doors).
+7. Power-operated doors in accordance with Section 1010.3.2 (Power-operated Doors).
+8. Doors serving a bathroom within an individual dwelling unit or sleeping unit in Group R- 1.
+9. In other than Group H occupancies, manually operated horizontal sliding doors are permitted in a means of egress from spaces with an occupant load of
+10 or less.
+1010.3.3 Special Purpose Horizontal Sliding, Accordion or Folding Doors. In other than Group H-1, H-2, H3 and H-4 occupancies, special purpose
+horizontal sliding, accordion or folding door assemblies permitted to be a component of a means of egress in accordance with Exception 6 to Section
+1010.1.2 (Egress Door Types) shall comply with all of the following criteria:
+1. The doors shall be power operated and shall be capable of being operated manually in the event of power failure.
+2. The doors shall be openable by a simple method without special knowledge or effort from the egress side or sides.
+3. The force required to operate the door shall not exceed 30 pounds (133 N) to set the door in motion and 15 pounds (67 N) to close or open the door
+to the minimum required width.
+4. The door shall be openable with a force not to exceed 15 pounds (67 N) when a force of 250 pounds (1100 N) is applied perpendicular to the door
+adjacent to the operating device.
+5. The door assembly shall comply with the applicable fire protection rating and, where rated, shall be self-closing or automatic closing by smoke
+detection in accordance with Section 716.2.6.6 (Smoke-activated Doors), shall be installed in accordance with NFPA 80 and shall comply with Section
+716 (Opening Protectives).
+6. The door assembly shall have an integrated standby power supply.
+7. The door assembly power supply shall be electrically supervised.
+8. The door shall open to the minimum required width within 10 seconds after activation of the operating device.
+1025.6 Active Egress Path Illumination System. An active egress path illumination system shall be in accordance with Sections 1025.6.1 (Luminaires)
+through 1025.6.6.3 (Instrumentation and Annunciation). Designs complying with this section are equivalent to the requirements in Sections 1025.1
+(General) through 1025.5 (Illumination).
+The level of the egress illumination shall be in accordance with Section 1008 (Means of Egress Illumination).
+1025.6.1 Luminaires. Luminaires shall be listed for emergency illumination and contain a lamp with an integral battery, battery charger and manual test
+switch and comply with Article 700 of the Electrical Code. The unit equipment shall be housed in a rated fixture for indoor wet locations. Luminaire
+batteries shall be listed for use as a secondary power supply in accordance with UL 924. Luminaires shall not be equipped with an occupancy sensor. Every
+luminaire shall have a test switch to confirm the lamp's availability for service when operating on primary or emergency power.
+Exception: The integral battery and battery charger is not required when luminaires are connected to a Stored Energy Emergency Power Supply System
+(SEPSS) complying with Section 1025.6.6 (Stored Energy Emergency Power Supply System).
+1025.6.2 Primary and Secondary Electrical Power. A primary and secondary power source shall be provided for each luminaire. Primary power shall be a
+dedicated electrical branch circuit supplied from utility power. Secondary power shall be a branch circuit connected to an Emergency Power system
+complying with the International Fire Code Section 1203.2.15 (Means of Egress Illumination). The primary and emergency source for each luminaire shall be
+connected to a dedicated primary and emergency power branch circuit.
+1025.6.3 Location. Luminaires for the active egress path illumination system shall be located at each intermediate landing and stair landing within each
+interior exit stairway.
+1025.6.4 Functional Test and Records. The luminaires shall be tested in accordance with Fire Code Section 1032.10 (Emergency Lighting Equipment
+Inspection and Testing) except that the frequency of activation tests shall be weekly. Documentation records for the location of each luminaire and the
+results of the weekly activation and annual power tests shall be in accordance with Fire Code Section 1032.10 (Emergency Lighting Equipment Inspection
+and Testing). Records shall be available to the fire code official upon request. Operational testing and maintenance reports produced by the SEPSS are
+permitted provided they comply with NFPA 110 Chapter 8.
+1025.6.5 Lamp Failure. Luminaire lamps that do not operate because of a test or an incident shall be replaced. Any battery that cannot operate a lamp for
+a minimum of 90 minutes shall be replaced.
+1025.6.6 Stored Energy Emergency Power Supply System (SEPSS). When provided, the SEPSS with an integral alternating current - to - direct current
+inverter shall comply with International Fire Code Section 1203.1.3 (Installation) and be listed in accordance with UL 924. The SEPSS shall be designed as
+Level 1 system in accordance with NFPA 111.
+The SEPSS shall be located in a room separated from the remainder of the building by a minimum one-hour fire-resistance rated construction and required
+opening protectives in accordance with this code. The design temperature and humidity of the room housing the SEPSS shall be in accordance the
+manufacture installation instructions.
+about:blank 527/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+SEPSS is prohibited inside a Fire Command Center.
+1025.6.6.1 Load Carrying Capacity. Battery systems complying with NFPA 111 shall be used to supply the emergency power to luminaires serving the active
+egress path illumination system. Batteries shall be rated for a minimum 90-minute discharge time and sized based on the total combined load of
+luminaires connected to the SEPSS.
+1025.6.6.2 Required SEPSS. In buildings where the highest occupied floor is less than or equal to 120 feet above the lowest level of fire department access,
+one SEPSS shall be provided that complies with Section 1025.6.6 (Stored Energy Emergency Power Supply System) for all required interior exit stairways. A
+SEPSS shall be provided for each required interior exit stairway that serves floors greater than 120 feet above the lowest level of fire department access.
+1025.6.6.3 Instrumentation and Annunciation. Instrumentation and annunciation shall be in accordance with NFPA 111. A remote annunciator displaying
+the status of the SEPSS shall be provided in the Fire Command Center. The SEPSS and its annunciator shall display the following information and its
+function shall be identified in the Fire Command Center:
+1. Electrical load on utility power;
+2. Electrical load on emergency power;
+3. Output circuit breaker open;
+4. Output overload or overcurrent;
+5. High temperature;
+6. Emergency conversion equipment is bypassed;
+7. Low battery capacity; and
+8. Any major or minor alarms prescribed by the SEPSS manufacturer.
+1102.1 Design. Buildings and facilities shall be designed and constructed to be accessible in accordance with this code and ICC A117.1.
+Exception: Components of projects designed in accordance with and regulated by the Architectural Barriers Division of the Texas Department of Licensing
+and Regulation shall be deemed to be in compliance with the requirements of this chapter, provided the scope of accessible features complies with the
+building code.
+1203.1.1 (1) Required Air Conditioning.
+1. An owner shall:
+a. provide, and maintain, in operating condition, refrigerated air equipment capable of maintaining a room temperature of at least 15 degrees cooler
+than the outside temperature, but in no event higher than 85°F in each habitable room;
+b. maintain all fixed air conditioning systems, including air conditioning unit covers, panels, conduits, and disconnects, in operating condition,
+properly attached; and
+2. The required room temperatures shall be measured three feet (914 mm) above the floor near the center of the room and two feet (610 mm) inward
+from the center of each exterior wall.
+1204.1 General. Every space intended for human occupancy shall be provided with natural light by means of exterior glazed openings in accordance with
+Section 1204.2 (Natural Light) and shall be provided with artificial light in accordance with Section 1204.3 (Artificial Light). Exterior glazed openings shall
+open directly onto a public way or onto a yard or court in accordance with Section 1205 (Yards or Courts).
+Exceptions:
+1. Any room or space that is not within a dwelling unit or sleeping unit shall not be required to provided natural light in accordance with Section 1204.2.
+2. Any room or space with an area of 70 square feet or less and is not a sleeping room shall not be required to provide natural light in accordance with
+Section 1204.2.
+3. Sleeping rooms within an existing dwelling unit shall not be required to provide natural light in accordance with Section 1204.2 when alterations do
+not increase the total number of sleeping rooms within the dwelling unit.
+1204.2 Natural Light. The minimum net exterior glazed opening area shall be not less than eight percent of the floor area of the room(s) served.
+1204.2.1 Adjoining Spaces. For the purpose of natural lighting, any room is permitted to be considered as a portion of an adjoining room where the
+common wall provides an opening of not less than one-tenth of the floor area of the interior room or 24 square feet (2.23 m 2 ), whichever is greater.
+Openings required for natural light in common walls may be windows or glazed doors.
+Exception: Openings required for natural light shall be permitted to open into a sunroom with thermal isolation or a patio cover where the common wall
+provides a glazed area of not less than one-tenth of the floor area of the interior room.
+1204.2.2 Exterior Openings. Exterior openings required by Section 1204.2 (Natural Light) for natural light shall open directly onto a public way, yard, or
+court, as set forth in Section 1205 (Yards or Courts).
+Exceptions:
+about:blank 528/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+1. Required exterior openings are permitted to open into a roofed porch where the porch meets all of the following criteria:
+1.1 Abuts a public way, yard, or court;
+1.2 Has a ceiling height of not less than seven feet; and
+1.3 Has a longer side at least 65 percent open and unobstructed.
+2. Skylights are not required to open directly onto a public way, yard, or court.
+1204.3 Artificial Light. Artificial light shall be provided that is adequate to provide an average illumination of 10 footcandles (107 lux) over the area of the
+room at a height of 30 inches (762 mm) above the floor level.
+1204.4 Stairway Illumination. Stairways within dwelling units and exterior stairways serving a dwelling unit shall have an illumination level on tread runs of
+not less than 1 footcandle (11 lux). Stairways in other occupancies shall be governed by Chapter 10.
+1204.4.1 Controls. The control for activation of the required stairway lighting shall be in accordance with NFPA 70.
+1204.5 Emergency Egress Lighting. The means of egress shall be illuminated in accordance with Section 1008.1.
+1301.1 Energy Efficiency. Buildings shall be designed and constructed in accordance with the Energy Code.
+TABLE 1006.3.4(1)
+STORIES WITH ONE EXIT OR ACCESS TO ONE EXIT FOR R-2 OCCUPANCIES
+STORY OCCUPANCY MAXIMUM NUMBER OF MAXIMUM EXIT ACCESS TRAVEL
+DWELLING UNITS DISTANCE
+Basement, first, second, third, R-2 a, b, c, d 4 dwelling units 125 feet
+fourth, or fifth story above grade
+plane and occupiable roofs over
+the first, second, third, or fourth
+story.
+Sixth story above grade plane and NP NA NA
+higher
+For SI: 1 foot = 304.8 mm.
+NP = Not Permitted.
+NA = Not Applicable.
+a. Buildings classified as Group R-2 equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1 or Section 903.3.1.2 and
+provided with emergency escape and rescue openings in accordance with Section 1031.
+b. This table is used for Group R-2 occupancies consisting of dwelling units. For Group R-2 occupancies consisting of sleeping units, use Table 1006.3.4(2).
+c. This table is for occupiable roofs accessed through and serving individual dwelling units in Group R-2 occupancies. For Group R-2 occupancies with
+occupiable roofs that are not accessed through and serving individual units, use Table 1006.3.4(2).
+d. Five-story buildings and four-story buildings with an occupiable roof above the third story shall also comply with Section 1006.3.4.2.
+1006.3.4.2 Single Exit Four- or Five-story Group R-2 Occupancies. Four- or five-story buildings with a single exit for Group R-2 occupancies shall comply
+with Table 1006.3.4(1) and all the following:
+1. The net floor area of each floor served by a single exit shall not exceed 4,000 square feet (418.5 m).
+2. An exterior exit stairway or interior exit stairway shall be provided at each story served by a single exit. Exit Access Doors into the exit stairway shall
+swing in the direction of egress travel regardless of the occupant load served.
+3. Regardless of the stairway construction type, automatic sprinkler locations in interior exit stairways shall comply with the requirements of NFPA 13 for
+combustible stairways.
+4. There shall be no more than 20 feet (6096 mm) of travel to the exit stairway from the entry/exit door of any dwelling unit.
+5. The exit shall not terminate in an egress court where the court depth exceeds the court width unless it is possible to exit in either direction to the
+public way.
+6.
+about:blank 529/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Other occupancies shall not communicate with the Group R occupancy portion of the building or with the single-exit stairway. Exception: parking garages and
+occupied roofs accessory to the Group R occupancy are permitted to communicate with the exit stairway.
+7. The exit serving the Group R occupancy shall not discharge through any other occupancy, including an accessory parking garage.
+8. Openings to the interior exit stairway enclosure shall be limited to those required for exit access into the enclosure from normally occupied spaces,
+those required for egress from the enclosure, and openings to the exterior. Elevators shall not open into the interior exit stairway enclosure.
+9. The fire department connection (FDC) shall be located adjacent to, and be visible from, the primary fire department vehicle access location.
+10. A manual fire alarm system and automatic smoke detection system that activates the occupant notification system in accordance with Section 907.5
+shall be provided. Smoke detectors shall be in common spaces outside of dwelling units, including but not limited to gathering areas, laundry rooms,
+mechanical equipment rooms, storage rooms, interior corridors, interior exit stairways, and exit passageways.
+11. Electrical receptacles shall be prohibited in the single exit stairway.
+12. Elevator access shall be provided.
+1607.8.2 Fire Truck and Emergency Vehicles. Where a structure or portions of a structure are accessed by fire department vehicles and other similar
+emergency vehicles, those portions of the structure subject to such loads shall be designed for the greater of the following loads:
+1. As specified in the International Fire Code Section 503.2.6 (Bridges and Elevated Surfaces), or
+2. The live loading specified in Section 1607.8.1 (Loads).
+Emergency vehicle loads need not be assumed to act concurrently with other uniform live loads.
+SECTION 1612 FLOOD LOADS.
+1612.1 General. A building or structure in a flood hazard area shall be designed and constructed according to Chapter 25-12, Article 3 (Flood Hazard Areas).
+1612.2 Design and Construction. A building or structure in a flood hazard area shall be designed in accordance with Chapter 25-12, Article 3 (Flood Hazard
+Areas).
+1612.3 Establishment of Flood Hazard Areas. Flood hazard areas are established in Chapter 25-12, Article 3 (Flood Hazard Areas).
+1612.4 Flood Hazard Documentation.Chapter 25-12, Article 3 (Flood Hazard Areas) describes the documentation necessary for a building or structure
+located in a flood hazard area.
+SECTION 1811 EARTH RETENTION SYSTEMS
+1811.1 Tieback Anchors and Soil and Rock Nails. Tieback anchors and soil and rock nails that are allowed in the public right-of-way as components of
+earth retention systems as provided in Section 3202.1.4 (Earth Retention System Components) shall comply with Sections 1811.1.1 (Depth of Tiebacks
+Anchors and Soil and Rock Nails) through 1811.1.3 (Length of Tiebacks Anchors and Soil and Rock Nails).
+1811.1.1 Depth of Tieback Anchors and Soil and Rock Nails. At the right-of-way line, tieback anchors and soil and rock anchors shall be at least 6 feet
+(1,829 mm) below the elevation of the adjacent street curb.
+1811.1.2 Separation Distance from Buried Utilities. Tieback anchors and soil and rock nails shall be below and at least five feet (1,524 mm) away from the
+nearest outside surface of any existing or planned buried utility in the public right-of-way.
+1811.1.3 Length of Tieback Anchors and Soil and Rock Nails. Tieback anchors and soil and rock nails that extend beyond the center of the public right-of-
+way are prohibited.
+2901.1 Scope. The provisions of this chapter and the Plumbing Code shall govern the design, construction, erection and installation of plumbing
+components, appliances, equipment, and systems used in buildings and structures covered by this code.
+3201.1 Encroachments Scope. The provisions of this chapter shall govern the encroachment of structures into the public right-of-way, including
+components of earth retention systems used to facilitate below-grade construction of a building or structure.
+3202.1 Encroachments Below Grade. Encroachments below grade shall comply with Sections 3202.1.1 (Structural Support) through 3202.1.4 (Earth
+Retention System Components).
+3202.1.4 Earth Retention System Components. Components of earth retention systems that are required for structural support of a building or structure
+are prohibited in the public right-of-way. Components of earth retention systems that are needed only during construction of the below-grade portion of a
+building or structure are subject to the following conditions:
+1. Approval of the Director of the Public Works Department is required before construction of earth retention system components in public right-of-way
+commences.
+2. All components of an earth retention system are prohibited in the public right-of-way except for (1) tieback anchors that are part of a soldier pile and
+lagging system; (2) tieback anchors that are part of a diaphragm or slurry wall system; (3) tieback anchors that are part of a sheet pile wall system; (4)
+tieback anchors that are part of a secant wall system; and (5) soil or rock nails that are part of a nail wall.
+about:blank 530/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+3. Tieback anchors or soil or rock nails that are necessary as functional components of the earth retention system for longer than 12 months are
+prohibited in the public right-of-way.
+4. Tieback anchors and soil and rock nails allowed in the public right-of-way shall be designed according to the criteria in Section 1811 (Earth Retention
+Systems).
+3202.3.4 Pedestrian Walkways. An approved encroachment agreement that complies with Chapter 14-11 (Use of Right-of-Way) is required prior to the
+installation of a pedestrian walkway and all associated utilities over a public right-of-way. The vertical clearance from the public right-of-way to the lowest
+part of a pedestrian walkway shall be not less than 16 feet 6 inches over roadway and alley subject to truck traffic, and not less than 15 feet over other
+areas in the right-of-way.
+Source: Ord. No. 20170928-096, Pt. 1, 1-1-18; Ord. No. 20191114-064, Pts. 13—17, 11-25-19; Ord. No. 20210603-059, Pt. 1, 9-1-21; Ord. No. 20240418-062, Pt. 1, 5-20-
+24; Ord. No. 20250410-045, Pt. 1, 7-10-25.
+Division 2. - Noise Level Reduction Measures for Certain Airport Compatible Land Uses.

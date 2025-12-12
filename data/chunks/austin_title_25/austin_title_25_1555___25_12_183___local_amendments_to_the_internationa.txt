@@ -1,0 +1,649 @@
+§ 25-12-183 - LOCAL AMENDMENTS TO THE INTERNATIONAL WILDLAND-URBAN INTERFACE CODE.
+The following provisions are local amendments to the 2024 International Wildland-Urban-Interface Code. Each provision of this section is a substitute for the
+identically numbered provision amended or deleted in Section 25-12-181(B) or (C) (International Wildland-Urban Interface Code) or is an addition to the 2024
+International Wildland-Urban Interface Code.
+101.2 Scope. The provisions of the code shall apply to the construction, alteration, movement, repair, maintenance, and use of any building, structure, or
+premises within the wildland-urban interface areas in this jurisdiction. Buildings or conditions in existence at the time of the adoption of this code are
+allowed to have their use or occupancy continued, if such condition, use, or occupancy was legal at the time of the adoption of this code, provided that
+such continued use does not constitute a distinct danger or an extreme hazard to life or property. Buildings or structures moved into or within the
+jurisdiction shall comply with the provisions of this code for new buildings or structures.
+101.4 Retroactivity. The provisions of this code apply to conditions that arise beginning on and after the effective date of this code. If, in the opinion of the
+code official, the existing conditions constitute a distinct danger or extreme hazard to life or property, the code official may require compliance with
+provisions of this code to mitigate those existing conditions.
+101.5 Additions or alterations. Additions or alterations shall be permitted to be made to any existing building or structure without requiring the unaltered
+portion of the existing building or structure to comply with the requirements of this code, provided that the entire addition or alteration to the existing
+structure conforms to that required for a new building or structure. Additions or alterations shall not create an unsafe condition to the existing structure or
+about:blank 610/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+site as determined by the authority having jurisdiction (AHJ). Additions or alterations for a Limited Access Residential Infill Project are required to complete
+a Fire Hazard Severity Form in accordance with Appendix C and provide mitigation per Section 502.2 where the project receives a score of 15 or more for
+Part 1, 30 or more for Part 2, or a combined score of 40 or above.
+102.4 Referenced codes and standards. The codes and standards referenced in this code shall be those that are listed in Chapter 7 (Referenced Standards)
+and Chapter 80 (Referenced Standards) of the Fire Code. Such codes and standards shall be considered as part of the requirements of this code to the
+prescribed extent of each such reference and as further regulated in Sections 102.4.1, 102.4.2, and 102.4.3.
+102.4.1 Conflicts. Except as otherwise provided in City Code, the provisions of this code prevail over a referenced code or standard that conflicts with this
+code.
+102.4.3 Fire Protection Criteria Manual. Additional information on procedures and rules for administration of this code are available in the Fire Protection
+Criteria Manual.
+103.1 Creation of agency. The office of the Fire Marshal at the Austin Fire Department, under the direction of the Fire Chief, is authorized to implement,
+administer, and enforce the provisions of this code.
+103.2 Appointment. The fire chief is appointed by the City Manager in accordance with the policies and procedures of the City of Austin and in compliance
+with state law. The fire chief serves as the fire code official. Within the Wildland-Urban Interface Code the term "code official" means fire code official.
+103.3 Deputies. The fire chief appoints the fire marshal and assistant fire marshals, inspectors, or other employees and delegates duties consistent with
+the policies and procedures of the Austin Fire Department. Where the terms "code official", "fire code official", "fire chief, "chief', "fire department", or "fire
+marshal" are used in the Wildland-Urban Interface Code, the provisions apply to assistant fire marshals, inspectors, engineering professionals, and other
+fire department employees in the execution of their assigned duties.
+SECTION 104 DUTIES AND POWERS OF THE FIRE CODE OFFICIAL
+The code official in this code has the powers of the fire code official in Section 104 of the Fire Code. Where the term "this code" or "Fire Code" are used
+within the Fire Code, the provisions apply to the Wildland-Urban Interface Code.
+SECTION 105 PERMITS
+105.1 General. Where not otherwise provided in the requirements of the Land Development Code, the Building Code, the Fire Code, or the Residential
+Code, permits are required in accordance with Sections 105.2 and 105.3.
+105.2 Permits required. Unless otherwise exempted, buildings or structures regulated by this code shall not be erected, constructed, altered, repaired,
+moved, removed, converted, demolished, or changed in use or occupancy without an approved applicable city permit. For buildings or structures erected
+for temporary uses, see Appendix A, Section A108.3, of this code.
+105.2.1 Extreme hazard condition. A permit shall not be issued to construct a structure on a site designated as an extreme hazard as defined and set forth
+by the provisions of this code.
+105.3 Work Exempt from Permit. Except as required by the Building Code, Fire Code, or Residential Code, or other adopted codes, a permit is not required
+for the following:
+1. a one-story detached non-habitable accessory structure provided the use and floor area meet the exceptions of those allowed by Section 501.1 of this
+code; and
+2. a fence that does not exceed seven feet (2133.6 mm) high where subject to compliance with the Building Code and eight feet (2438 mm) high where
+subject to compliance with the Residential Code.
+A structure or fence constructed without a permit, as allowed by this provision, must comply with this code. Exemption from the permit requirements of
+this code shall not be deemed to grant authorization for any work to be done in any manner in violation of the provisions of this code or any other laws or
+ordinances of this jurisdiction. The code official is authorized to stipulate conditions for permits. Permits shall not be issued where public safety would be
+at risk, as determined by the code official.
+105.4 Additional Permit Requirements. For additional permitting requirements including but not limited to application, approval, issuance, and time
+limitations, see Section 105 of the Fire Code; Section 105 of the Building Code; and Section 105 of the Residential Code.
+105.5 Time limits. Article 13 (Administration of Technical Code) of this chapter establishes permit application time limits and requirements applicable to
+permit expiration and reactivation, including a review fee for expired permits. See also Section 105 of the Fire Code.
+106.1 General. Plans, engineering calculations, diagrams, and other data shall be submitted in a digital format with each application for a permit. The
+construction documents shall meet the requirements of the Fire Code and be prepared by a registered design professional where required by the
+applicable Texas law or City rule or regulation. Where special conditions exist, the code official is authorized to require additional documents to be
+prepared by a registered design professional.
+about:blank 611/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+106.2 Information on plans and specifications. Plans and specifications shall be drawn to scale in digital format and shall be of sufficient clarity to indicate
+the location, nature, and extent of the work proposed. Plans shall show in detail that it will conform to the provisions of this code and relevant laws,
+ordinances, rules, and regulations.
+106.3 Site Plan. In addition to the requirements for plans in the Building Code, the Fire Code, and the current Land Development Code, site plans shall
+include topography, width and percent of grade of access roads, landscape and vegetation details, locations of structures or building envelopes, existing or
+proposed overhead utilities, occupancy classification of buildings, types of ignition-resistant construction of buildings, structures and their appendages,
+and site water supply systems. The code official is authorized to waive or modify the requirement for a site plan where the application for permit is for
+alteration, repair, or where otherwise warranted.
+106.7 Vicinity plan. When required by the code official and in addition to a site plan, a vicinity plan shall be prepared and shall be submitted to the code
+official for review and approval. The vicinity plan shall be prepared by a Texas licensed Engineer, a Texas licensed Architect, a Texas licensed Landscape
+Architect, or by other sources when approved by the AHJ.
+106.8 Additional construction document requirements. For additional construction document requirements including but not limited to retention of
+plans, examination of documents, amended construction documents, previous approvals, and phased approval see Section 106 of the Fire Code.
+SECTION 107 TEMPORARY STRUCTURES AND USES. For temporary structures and uses see Chapter 31 of the Fire Code.
+SECTION 108 FEES. For fee requirements see Section 108 of the Fire Code.
+SECTION 109 INSPECTION AND ENFORCEMENT. For inspection and enforcement see Sections 109 and 113 of the Fire Code.
+SECTION 110 CERTIFICATE OF OCCUPANCY. For certificate of occupancy requirements see Chapter 25-1 Article 9 (Certificates of Compliance and
+Occupancy), Section 111 of the Building Code; and Section R110 of the Residential Code.
+SECTION 111 SERVICE UTILITIES. For service utilities see Section 111 of the Fire Code.
+SECTION 112 MEANS OF APPEALS. For appeals see Section 112 of the Fire Code.
+SECTION 113 STOP WORK ORDER. For stop work orders see Section 114 of the Fire Code.
+202.1 Supplemental and replacement definitions. The following definitions in this subsection apply throughout this code and supplement the definitions
+in Section 202 (Definitions) of the 2024 International Wildland-Urban Interface Code, as published.
+ACCESSORY STRUCTURE. An accessory structure is a non-habitable structure that does not contain any type of plumbing and that is used for such things as
+general storage buildings, lawn and garden sheds, green houses, pump houses, and similar structures.
+BUILDING. Any structure intended for supporting or sheltering any occupancy that would not be considered an accessory structure.
+CODE OFFICIAL. The fire chief or the fire chiefs designee designated to interpret and enforce the fire code and this code.
+DRIVEWAY. A vehicular ingress and egress route that serves no more than three buildings or structures on an individual lot, including accessory structures,
+and no more than three dwelling units on an individual lot.
+DWELLING UNIT. A single unit providing complete, independent living facilities for one or more persons, including permanent provisions for living,
+sleeping, eating, cooking, and sanitation.
+EXTREME HAZARD. A condition that, in the opinion of the code official, makes a site or structure located within wildland-urban interface areas unusually
+more dangerous due to, but not limited to, restrictions in access, lack of adequate water supply, types of fuels, topography or the lack of surrounding open
+space to conduct safe fire-fighting operations. Properties that score a 40 or higher on the Fire Hazard Severity form in Appendix C of this code also qualify
+as an Extreme Hazard.
+FIRE SEPARATION DISTANCE. Fire Separation Distance between structures shall be compliant with the definitions as provided in the Building Code and
+Residential Code. Fire Separation Distance between a structure and the wildland shall be per Section 603.2 of this code.
+FLAME SPREAD INDEX. A comparative measure, expressed as a dimensionless number, derived from visual measurements of the spread of flame versus
+time for a material tested in accordance with ASTM E 84, UL 723, or ASTM E 2768.
+FUEL, HEAVY. Vegetation consisting of round wood three to eight inches (76 to 203 mm) in diameter. See fuel models for Closed Juniper Woodland and
+Mixed Juniper Hardwood Forest described in Appendix D.
+FUEL, LIGHT. Vegetation consisting of herbaceous plants and round wood less than one-fourth inch (6.4 mm) in diameter. See fuel models for Sparse Dry
+Climate Grass described in Appendix D.
+FUEL, MEDIUM. Vegetation consisting of round wood one-fourth to three inches (6.4 to 76 mm) in diameter. See fuel models for Aggrading Juniper Shrub
+described in Appendix D.
+about:blank 612/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+GREEN BELT. A series of connected open spaces that may follow natural features such as ravines, creeks or streams.
+IGNITION-RESISTANT (IR) CONSTRUCTION. A construction method that uses building materials that when used alone or when assembled as a unit will
+resist exterior ignition and sustained combustion from direct flame impingement, radiant heat, or embers. IR Construction shall also resist interior ignition
+of materials by reducing the radiant heat transfer from direct flame in close proximity to the structure through windows or doors. The extent of the
+required IR Construction shall be dependent on the proximity to the wildland based on the proximity zone designation of the structure.
+LIMITED ACCESS COMMUNITY. A residential area or subdivision that contains more than 30 dwelling units and only has one main entrance or exit to a
+primary road connecting the area or subdivision to the broader road network.
+LIMITED ACCESS RESIDENTIAL INFILL PROJECT. The addition of one or more new dwelling units in a Limited Access Community.
+PROXIMITY ZONE. The designation given to a structure to determine the enhanced ignition-resistant construction required to reduce the effects of a
+wildfire on the structure. The proximity zone is based on the distance of the structure from the wildland per Section 302.4.
+TURNOUT. A turnout is a section of road parallel to a driveway or access road where a vehicle can pull to the side to allow other vehicles to pass.
+WILDLAND. An area in which development is essentially nonexistent including but not limited to grassland, pastures and farmland, shrub-covered and
+treed areas, easements, unmitigated parkland, and other natural surfaces that are not regularly maintained.
+WILDLAND-URBAN INTERFACE (WUI) AREA. An area designated by the City Council, based on formulation and input from the Texas A&M Forest Service
+and modified and implemented by Austin Fire Department Wildfire Division, where conditions affecting the combustibility of both wildland and built fuels
+allow for the ignition and spread of fire through the combined fuel complex.
+302.2 Mapping. The wildland-urban interface (WUI) areas shall be recorded on maps available for inspection by the public. Due to the complexity of the
+areas and limitations in the mapping programs, some areas that are in the WUI may not show up as such in the map. It shall be by the determination of
+this code and the code official to determine if the property is in the Wildland-Urban Interface and the Proximity Zone designation as provided in Section
+302.4 of this code. Distance to the wildland shall be measured from the structure to the actual wildland, regardless of the location of the property line.
+302.4 Proximity Zone designation. Structures located in a designated wildland-urban interface area shall be designated as either Proximity Zone A,
+Proximity Zone B, or Proximity Zone C depending on the distance from the wildland and shall comply with the applicable Sections 504 through 506 of this
+code and the requirements of the Building or Residential Codes and the Fire Code as applicable.
+Proximity Zone A structures are those that are 50 feet or closer to 40 acres of wildland.
+Proximity Zone B structures are those that are greater than 50 feet and up to 150 feet from 40 acres of wildland.
+Proximity Zone C structures are those that are greater than 150 feet up to 0.5 miles from 40 acres of wildland and up to 1.5 miles from 750 acres of
+wildland.
+302.4.1 Proximity Zone Conflicts. When a structure is located on a lot where there is a conflict with the Proximity Zone designation, the most restrictive
+Proximity Zone shall be used for the entire structure.
+401.1 Scope. Wildland-urban interface areas shall be provided with emergency vehicle access and water supply in accordance with this chapter and the Fire
+Code.
+402.1 Subdivisions. All subdivisions, as described in the City Code Chapter 25-4(Subdivision), that are wholly or partially located in a designated wildland-
+urban interface area and platted after the adoption of this code shall comply with the Land Development Code, Sections 402.1.1 and 402.1.2 of this code,
+and the Fire Code.
+402.1.1 Access. New subdivisions and resubdivisions, as determined by this jurisdiction, shall be provided with fire apparatus access roads and access
+requirements in accordance with the Chapter 5 of the Fire Code, Section 403 of this code, and the currently adopted Land Development Code. Where more
+than 30 dwelling units are served by a single fire apparatus access road, including Limited Access Residential Infill Projects, a completed Fire Hazard
+Severity form in accordance with Appendix C shall be submitted to the code official and mitigation provided per Section 502.2 if the project receives a score
+of 15 or more for Part 1, 30 or more for Part 2, or a combined score of 40 or above.
+402.1.2 Water supply. New subdivisions as determined by this jurisdiction shall be provided with a conforming water supply in accordance with Section
+404 of this code and Chapter 5 of the Fire Code.
+402.2 Individual structures. Individual structures shall comply with Sections 402.2.1 and 402.2.2 of this code and the Fire Code.
+402.2.1 Access. Individual structures hereafter constructed or relocated into or onto a site located within a wildland-urban interface area shall be provided
+with fire apparatus access in accordance with Chapter 5 of the Fire Code and required driveways in accordance with Section 403.2 of this code. Any
+structures served by a single fire apparatus access road serving more than 30 dwelling units, including Limited Access Residential Infill Projects, shall
+about:blank 613/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+submit a completed Fire Hazard Severity form in accordance with Appendix C to the code official and mitigation shall be provided per Section 502.2 where
+the project receives a score of 15 or more for Part 1, 30 or more for Part 2, or a combined score of 40 or above. Marking of fire protection equipment and
+the site's address markers shall be provided in accordance with Chapter 5 of the Fire Code and Sections 403.5 and 403.6 of this code.
+402.2.2 Water supply. Individual structures hereafter constructed, remodeled, or relocated into or onto a site located within a wildland-urban interface
+area shall be provided with a conforming water supply in accordance with Chapter 5 of the Fire Code. For residential one- and two-family dwellings in WUI
+areas where a conforming water supply is not available an automatic sprinkler system in accordance with Section 602.1 shall be installed, regardless of the
+size of the structure.
+403.1 Restricted access. Where emergency vehicle access is restricted because of secured access roads or driveways or where immediate access is
+necessary for lifesaving or firefighting purposes, the code official is authorized to require a key box to be installed in an approved location. The key box
+shall be of a type approved by the code official and shall contain keys to gain necessary access as required by the code official. Restricted access shall allow
+occupant egress at all times.
+403.2 Driveways. The requirements of this section shall apply exclusively to buildings constructed to meet the Residential Code. Driveways shall be
+provided where any portion of an exterior wall of the first story of a building is located more than 150 feet (45 720 mm) from a fire apparatus access road.
+An approved fire apparatus access road shall be provided where required by the Fire Code.
+Exception:
+1. For a property located within Zone C, the dimension for a required driveway is increased from 150 feet (45 720 mm) to 200 feet (60 960 mm).
+2. An increase greater than 200 feet when an alternative is approved by the fire code official.
+403.2.1 Dimensions. Driveways shall provide a minimum unobstructed width of 12 feet (3658 mm) and a minimum unobstructed height of 14 feet (4268
+mm).
+403.2.3 Service limitations. A driveway shall not serve more than three buildings or structures on an individual lot, including accessory structures, and not
+more than three dwelling units on an individual lot.
+Exception: A driveway may serve more buildings or structures, if the driveway meets the requirements for a fire apparatus access road (fire lane) as set
+forth in Section 503 of the Fire Code. The exact number of buildings or structures that can be served will be determined by the code official.
+403.2.4 Turnarounds. Driveway turnarounds shall have inside turning radii of not less than 25 feet (7620 mm) and outside turning radii of not less than 50
+feet (15 240 mm). Driveways that connect with a road or roads at more than one point shall be considered as having a turnaround if all changes of
+direction meet the radii requirements for driveway turnarounds.
+403.3 Fire apparatus access road. When required, a fire apparatus access road must comply with the Chapter 5 of the Fire Code.
+403.7 Grade. The gradient for fire apparatus access roads and driveways shall be per Section 503.2.7 of the Fire Code.
+403.8 Service limitations. Multi-family residential projects having more than 30 dwelling units shall be equipped throughout with two separate and
+approved fire apparatus access roads.
+403.9 Remoteness. Where two fire apparatus access roads are required, they shall be placed a distance apart equal to not less than one-half of the length
+of the maximum overall diagonal dimension of the lot or area to be served, measured in a straight line between accesses.
+SECTION 404 WATER SUPPLY. For conforming water supply requirements see Section 507 of the Fire Code and Appendix B of the Fire Code.
+501.1 Scope. All buildings and structures located in a designated wildland-urban interface area shall be constructed in accordance with the Building Code,
+the Residential Code, and this code.
+Exceptions:
+1. Accessory structures not exceeding 100 square feet (9.29 m 2 ) in floor area where located more than 50 feet (15,420 mm) from the nearest adjacent
+structure.
+2. Agricultural buildings located more than 50 feet (15,420 mm) from the nearest adjacent structure.
+501.2 Objective. Chapter 5 establishes minimum standards to locate, design, and construct buildings, structures, or portions thereof. The purpose of the
+minimum standards is to protect life and property, to resist damage from wildfires, and to reduce the spread of building and structure fires to wildland
+fuels by providing a more ignition-resistant structure. Minimum standards vary based on proximity to the wildland fuels. These standards are intended to
+provide, above Fire Code requirements, increased protection from the various levels of hazards in wildland-urban interface areas.
+SECTION 502 EXTREME HAZARD
+502.1 General. A site located within a wildland-urban interface area shall be considered an extreme hazard if:
+(1) The site meets all of the following conditions:
+about:blank 614/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(a) Site has fuels classified as medium or heavy as defined by this code;
+(b) Does not have a conforming water supply;
+(c) Does not have defensible space; and
+(d) Does not have sufficient fire department access; or
+(2) The site receives a score of 15 or higher for Part 1, 30 or higher for Part 2, or a combined score of 40 or higher as set forth by fire hazard severity form
+in Appendix C.
+A permit to construct or move a structure onto a site designated an extreme hazard shall not be issued unless mitigation to reduce the extreme hazard
+designation has occurred per Section 502.2 of this code.
+Exception: The fire chief is authorized to classify fuel type based on the historic fuel type for the area.
+502.1.1 Existing structures. Existing structures, accessory structures, agricultural buildings, and appendages (fences, decks, etc.) shall not be issued a
+permit for additions or to modify any existing structure on a site classified as an extreme hazard unless mitigation to reduce the extreme hazard
+designation has occurred per Section 502.2 of this code.
+Exception: Interior only remodels where additional dwelling units are not created. Window or exterior door replacements shall not be considered interior
+only components in extreme hazard designated areas.
+502.2 Extreme hazard severity reduction. Construction, modification, or relocation of a structure onto a site classified as an extreme hazard shall require
+mitigation of conditions described in Section 502.1 as determined by the code official so that the site is no longer considered an extreme hazard.
+503.1 General. A building or structure constructed, modified, located in, relocated into a designated wildland-urban interface area shall comply with
+Chapter 5. Proximity Zone A, Proximity Zone B, or Proximity Zone C ignition-resistant construction shall be constructed in accordance with Sections 504,
+505, and 506 respectively. Any material required to be ignition resistant shall comply with Section 503.2. When defensible space is required, it shall comply
+with Section 603.
+503.2 Ignition-resistant building material. Ignition-resistant building materials shall comply with any one of the requirements in Sections 503.2.1 through
+503.2.5.
+503.2.3 Wood roof coverings. No roof covering in the Wildland-Urban Interface areas, regardless of the distance from the wildland, shall be allowed to be
+made from wood shake, wood shingle, or similar combustible material, including fire-retardant-treated wood.
+503.2.4 Ignition-resistant building material. Material shall be tested on the front and back faces in accordance with the extended ASTM E84 or UL 723 test,
+for a total test period of 30 minutes, or with the ASTM E2768 test. The materials shall bear identification showing the fire test results. Panel products shall
+be tested with a ripped or cut longitudinal gap of ⅛ inch (3.2 mm). The materials, when tested in accordance with the test procedures set forth in ASTM E84
+or UL 723 for a test period of 30 minutes, or with ASTM E2768, shall comply with Sections 503.2.4.1 through 503.2.4.3.
+Exceptions:
+1. Materials composed of a combustible core and a noncombustible exterior covering made from either aluminum at a minimum 0.019-inch (0.48 mm)
+thickness or corrosion resistant steel at a minimum 0.0149-inch (0.38 mm) thickness shall not be required to be tested with a ripped or cut
+longitudinal gap.
+2. Structures designated as Proximity Zone B or C shall be allowed to use materials designated as a Class A rated material, designed for exterior use,
+when tested to the ASTM E84 or UL 723 Standard 10-minute test.
+503.2.5 Other Approved Materials. Other materials as approved by the fire code official.
+SECTION 504 PROXIMITY ZONE A IGNITION-RESISTANT CONSTRUCTION
+504.1 General. Proximity Zone A Ignition-resistant construction shall be in accordance with Sections 504.2 through 504.11.
+504.2.1.1 Woven roof valleys. Valley shingles that have been weaved or woven (closed valley) to create a continuous layer of shingles over the valley may
+be flashed using 26 gage (0.019 inch) galvanized sheet metal running the full length of the valley and extending at least 12 inches on both planes of the roof
+surface. Flashing shall be viewable from the end of the valley at the roof eave for inspections.
+504.2.2 Materials and systems installed over a roof assembly. Materials and systems installed over a roof assembly shall comply with the requirements of
+Sections 504.2.2.1 through 504.2.2.3.
+504.2.2.1 Raised-deck systems. Raised-deck systems as defined by the Building Code installed above a roof assembly shall comply with Section 1511.9 and
+subsections of the Building Code.
+Exception: Structures constructed to meet the Residential Code shall comply with Access and Egress requirements of the Residential Code.
+504.2.2.2 Skylight housing. Skylight frame material shall be noncombustible.
+about:blank 615/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+504.2.2.3 Walkway pad. The use and application of walkway pad material shall not compromise the ASTM E 108 or UL 790 rating of the roof. The material
+shall meet ASTM E 108 or UL 790, or meet the requirements of section 503.2.
+504.2.2.4 Vegetative roofs and landscaped roofs. Vegetative roofs and landscaped roofs, regardless of the distance from the wildland, shall not be allowed
+within the Wildland-Urban Interface.
+504.3 Protection of eaves. Protection of eaves, soffits, fasciae, rafter tails, and exterior ceilings shall comply with the requirements of Sections 504.3.1
+through 504.3.5.
+504.3.1 Eaves. Eaves shall be protected on the exposed underside of soffits by ignition resistant materials or by materials approved for not less than one-
+hour fire-resistance-rated construction, two-inch (51 mm) nominal dimension lumber, ⅝ inch Type-X Sheetrock, or one-inch (25 mm) nominal fire-
+retardant-treated lumber, or three-quarter inch (19.1 mm) nominal fire-retardant-treated plywood, identified for exterior use and meeting the
+requirements of Section 2303.2 of the Building Code.
+504.3.2 Fasciae. Ignition-resistant fasciae are required and shall be constructed with one of the following:
+1. Three-quarter-inch (19.1 mm) solid ignition-resistant material complying with Section 503.2.
+2. One-hour fire-resistance-rated construction protected on the exterior by an ignition-resistant building material complying with Section 503.2.
+3. Two-inch (51 mm) nominal dimension lumber protected on the exterior by an ignition-resistant building material complying with Section 503.2.
+504.3.3 Gaps between materials. Gaps between exterior facing materials within the eaves or between eave materials and the wall or and roof assembly
+caused by normal construction techniques or any other unsealed roof opening providing access to the attic space shall be provided with ember protection
+according to Section 506.5 of this code.
+504.3.4 Exposed rafter tails. Exposed rafter tails are allowed when built of material classified as heavy timber per the Building Code, provided that the
+exterior wall be rated for at least one hour and extend from foundation to bottom of roof deck. The roof deck shall be a noncombustible or ASTM E 84
+Class A rated material per 503.2.4 and shall extend a distance of not less than 48 inches on both the exterior and interior side of the exterior wall.
+504.3.5 Exterior ceilings. Exterior ceilings below covered patio roofs, porches, balconies, decks, floors above, and all similar structures shall be built using
+ignition-resistant building materials that comply with Section 503.2. Rated ceiling assemblies shall have an ignition resistant building material as the
+exterior finish.
+504.4 Gutters and downspouts. Gutters and downspouts shall be constructed of noncombustible materials. Gutters shall be provided with an approved
+means to prevent the accumulation of leaves and debris in the gutter and be constructed of a non-corrosive and noncombustible material.
+504.7 Appendages and structures. For an unenclosed appendage or projection that is attached to a building, or a detached unenclosed accessory
+structure, such as a deck, balcony, carport, pergola, patio cover, awning, canopy, or similar structure, the entire appendage, projection, or structure must
+be constructed using at least one-hour fire-resistance-rated materials, heavy timber, or one of the following:
+1. Approved non-combustible materials;
+2. Fire-retardant-treated wood approved for exterior use that complies with Section 2303.2 of the Building Code; or
+3. Ignition-resistant building materials that comply with Section 503.2.
+Exceptions:
+1. Coated materials shall not be used as the walking surface of decks.
+2. The underside of a deck, not subject to Subsection 504.7.1, consisting of the columns, beams, bracing, and floor joists, shall be allowed to be built
+from any approved material provided that the entire underside of the deck is completely enclosed with a wall meeting the requirements of Section
+504.5. Ventilation shall be provided per Section 504.10. Storage or access points to allow storage under the deck shall not be allowed.
+Deck boards shall not have gaps larger than one-eighth inch between the boards or ember protection shall be provided per Section 504.10 attached
+directly to the underside of the deck boards. Guard rails, handrails, columns, and steps leading to grade shall comply with these materials.
+504.7.1 Underfloor areas. Where the structure is located and constructed so that the structure or any portion thereof projects over a descending slope
+surface greater than 10 percent, the area below the structure shall be enclosed with exterior walls constructed in accordance with Section 504.5.
+Ventilation shall be provided per Section 504.10. Storage or access points to allow storage under the deck shall not be allowed.
+504.7.2 Fences. Any portion of a fence within 10 feet (3038 mm) of a building or structure shall be built using a material that complies with section 503.2 of
+this code. New and replacement fences shall comply with this section. Separation distance between structures shall be per the definition of the Building
+Code or the Residential Code.
+504.10 Vents. Where provided in accordance with 504.10.3, ventilation, exhaust, or outside air intake openings shall be in accordance with Section 504.10.1
+or Section 504.10.2 to resist building ignition from the intrusion of burning embers and flame through the ventilation openings. Dryer vents and associated
+ductwork shall be noncombustible.
+Exceptions:
+about:blank 616/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+1. An opening that is prohibited from being obstructed and must remain clear because of another adopted code or Land Development Code
+requirement, provided that any flame or ember that penetrates the opening cannot reach combustible materials or surfaces.
+2. A dryer vent shall not require ember protection in accordance with 504.10.1 or 504.10.2.
+504.10.3 Vent locations. Protection shall be provided for ventilation openings for exhaust, outside air intake, enclosed attics, gable ends, ridge ends,
+underfloor ventilation, foundations and crawl spaces, either in a horizontal or vertical surface. Attic ventilation openings shall not be located in soffits, in
+eave overhangs, between rafters at eaves or in other overhang areas. Gable-end and dormer vents shall be located not less than 10 feet (3048 mm) from
+lot lines. Underfloor ventilation openings shall be located as close to grade as practical.
+504.11 Detached accessory structures. Detached accessory structures located in the wildland-urban interface, including those listed in Section 504.7, shall
+be required to comply with this code.
+504.11.1 Underfloor areas. The underfloor area below the detached accessory structure shall comply with Section 504.6 or Section 504.7.1, as applicable.
+504.11.2 Boat Docks. Boat dock walking surfaces shall be constructed of approved noncombustible materials or ignition-resistant materials that comply
+with Section 503.2. Boat dock roof assemblies shall comply with Section 504.2.
+SECTION 505 PROXIMITY ZONE B IGNITION-RESISTANT CONSTRUCTION
+505.1 General. Proximity Zone B Ignition-resistant construction shall be in accordance with Sections 505.2 through 505.11.
+505.2.1.1 Woven roof valleys. Valley shingles that have been weaved or woven (closed valley) to create a continuous layer of shingles over the valley may
+be flashed using 26 gage (0.019 inch) galvanized sheet metal running the full length of the valley and extending at least 12 inches on both planes of the roof
+surface. Flashing shall be viewable from the end of the valley at the roof eave for inspections.
+505.2.2 Materials and systems installed over a roof assembly. Materials and systems installed over a roof assembly shall comply with the requirements of
+Sections 505.2.2.1 through 505.2.2.3.
+505.2.2.1 Raised-deck systems. Raised-deck systems as defined by the Building Code installed above a roof assembly shall comply with Section 1511.9 and
+subsections of the Building Code.
+Exception: Structures constructed to meet the Residential Code shall comply with Access and Egress requirements of the Residential Code.
+505.2.2.2 Skylight housing. Skylight frame material shall be noncombustible.
+505.2.2.3 Walkway pad. The use and application of walkway pad material may not compromise the ASTM E 108 or UL 790 rating of the roof. The material
+must meet ASTM E 108 or UL 790, or meet the requirements of Section 503.2.
+505.2.2.4 Vegetative roofs and landscaped roofs. Vegetative roofs and landscaped roofs, regardless of the distance from the wildland, shall not be allowed
+within the Wildland-Urban Interface.
+505.3 Protection of eaves. Protection of eaves, soffits, fasciae, rafter tails, and exterior ceilings shall comply with the requirements of Sections 505.3.1
+through 505.3.5.
+505.3.1 Eaves. Eaves shall be completely covered and enclosed by non-combustible materials, by solid combustible materials at least three-quarters inch
+thick, or materials complying with Section 504.3.
+505.3.2 Fasciae. Ignition-resistant fasciae are required and shall be constructed with one of the following:
+1. Three-quarters-inch (19.1 mm) solid ignition-resistant material complying with Section 503.2.
+2. One-hour fire-resistance-rated construction protected on the exterior by an ignition resistant building material complying with Section 503.2.
+3. Two-inch (51 mm) nominal dimension lumber protected on the exterior by an ignition resistant building material complying with Section 503.2.
+505.3.3 Gaps between materials. Gaps between exterior facing materials within the eaves or between eave materials and the wall or and roof assembly
+caused by normal construction techniques or any other unsealed roof opening providing access to the attic space shall be provided with ember protection
+according to Section 506.5 of this code.
+505.3.4 Exposed rafter tails. Exposed rafter tails are allowed when built of material classified as heavy timber per the Building Code, provided that the
+exterior wall be rated for at least one hour and extend from foundation to bottom of roof deck. The roof deck shall be a noncombustible or ASTM E 84
+Class A rated material per 503.2.4 and shall extend a distance of not less than 48 inches on both the exterior and interior side of the exterior wall.
+505.3.5 Exterior ceilings. Exterior ceilings below covered patio roofs, porches, balconies, decks, floors above, and all similar structures shall be built using
+ignition-resistant building materials that comply with Section 503.2. Rated ceiling assemblies shall have an ignition resistant building material as the
+exterior finish.
+505.4 Gutters and downspouts. Gutters and downspouts shall be constructed of noncombustible materials. Gutters shall be provided with an approved
+means to prevent the accumulation of leaves and debris in the gutter and be constructed of a non-corrosive and noncombustible material.
+about:blank 617/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+505.7 Appendages and structures. For an unenclosed appendage, projection, or structure that is attached to or located within 30 feet (9144 mm) of a
+building with habitable spaces, such as a deck, balcony, carport, pergola, patio cover, awning, canopy, or similar structure, the entire appendage,
+projection, or structure must be constructed using at least one-hour fire-resistance-rated materials, heavy timber, or one of the following:
+1. Approved non-combustible materials;
+2. Fire-retardant-treated wood approved for exterior use that complies with Building Code Section 2303.2; or
+3. Ignition-resistant building materials that comply with Section 503.2 of this code.
+Exceptions:
+1. Coated materials shall not be used as the walking surface of decks.
+2. The underside of a deck not subject to Section 505.7.1 consisting of the columns, beams, bracing, and floor joists, shall be allowed to be built from any
+approved material provided that the entire underside of the deck is completely enclosed with a wall meeting the requirements of Section 505.5.
+Ventilation shall be provided per Section 505.10. Storage or access points to allow storage under the deck shall not be allowed.
+Deck boards shall not have gaps larger than one-eighth inch between the boards or ember protection shall be provided per Section 505.10 attached
+directly to the underside of the deck boards. Guard rails, handrails, columns, and steps leading to grade shall comply with these materials.
+505.7.1 Underfloor areas. Where the structure is located and constructed so that the structure or any portion thereof projects over a descending slope
+surface greater than 10 percent, the area below the structure shall be enclosed with exterior walls constructed in accordance with Section 505.5.
+Ventilation shall be provided per Section 505.10. Storage or access points to allow storage under the deck shall not be allowed.
+505.7.2 Fences. Any portion of a fence within 10 feet (3048 mm) of a building or structure shall be built using a material that complies with Section 503.2 of
+this code. New and replacement fences shall comply with this section. Separation distance between structures shall be per the definition of the Building
+Code or the Residential Code.
+505.8 Exterior glazing. Skylights shall be tempered glass, multilayered glazed panels, glass block, or have a fire protection rating of not less than 20
+minutes.
+505.10 Vents. Where provided in accordance with Section 505.10.3, ventilation, exhaust, or outside air intake openings shall be in accordance with Section
+505.10.1 or Section 505.10.2 to resist building ignition from the intrusion of burning embers and flame through the ventilation openings. Dryer vents and
+associated ductwork shall be noncombustible.
+Exceptions:
+1. An opening that is prohibited from being obstructed and must remain clear because of another adopted code or other Land Development Code
+requirements, provided that any flame or ember that penetrates the opening cannot reach combustible materials or surfaces.
+2. A dryer vent shall not require ember protection in accordance with Sections 505.10.1 or 505.10.2.
+505.10.3 Vent locations. Protection shall be provided for ventilation openings for exhaust, outside air intake, enclosed attics, gable ends, ridge ends,
+underfloor ventilation, foundations and crawl spaces, either in a horizontal or vertical surface. Attic ventilation openings shall not be located in soffits, in
+eave overhangs, between rafters at eaves or in other overhang areas. Gable-end and dormer vents shall be located not less than 10 feet (3048 mm) from
+lot lines. Underfloor ventilation openings shall be located as close to grade as practical.
+505.11 Detached accessory structures. Detached accessory structures located in the wildland-urban interface, including those listed in Section 505.7, shall
+be required to comply with this code.
+505.11.1 Underfloor areas. The underfloor area below the detached accessory structure shall comply with Section 505.6 or Section 505.7.1, as applicable.
+505.11.2 Boat Docks. Boat dock walking surfaces shall be constructed of approved noncombustible materials or ignition-resistant materials that comply
+with Section 503.2. Boat dock roof assemblies shall comply with Section 505.2.
+SECTION 506 PROXIMITY ZONE C IGNITION-RESISTANT CONSTRUCTION
+506.1 General. Proximity Zone C Ignition-resistant construction shall be in accordance with Sections 506.2 through 506.11.
+506.2 Roof assembly. Roofs shall have a roof assembly that complies with a Class A rating when tested in accordance with ASTM E108 or UL 790. For roof
+assemblies where the profile allows a space between the roof covering and roof deck, the space at the eave ends shall be firestopped to preclude entry of
+flames or embers, or have one layer of 72-pound (32.4 kg) mineral-surfaced, non-perforated cap sheet complying with ASTM D3909 installed over the
+combustible roof deck.
+Exceptions:
+1. Class A roof assemblies include those with coverings of brick, masonry or an exposed concrete roof deck.
+2. Class A acceptable roof assemblies shall also include ferrous or copper shingles or sheets, metal sheets and shingles, clay or concrete roof tile or slate
+installed on noncombustible decks or ferrous, copper or metal sheets installed without a roof deck on noncombustible framing.
+about:blank 618/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+3. Class A roof assemblies include minimum 16 oz./sq. ft. (0.0416 kg/m 2 ) copper sheets installed over combustible roof decks.
+4. One- and two-family residential structures with roof coverings on roofs sloped greater than 2 units vertical in 12 units horizontal, such as shingles,
+tiles, or metal sheets, tested and certified by ASTM E108 or UL 790 as a Class A roof covering shall be allowed to be installed over a standard
+combustible roof deck with no less than 30 1b felt or equivalent underlayment.
+506.2.1.1 Woven roof valleys. Valley shingles that have been weaved or woven (closed valley) to create a continuous layer of shingles over the valley may
+be flashed using 26 gage (0.019 inch) galvanized sheet metal running the full length of the valley and extending at least 12 inches on both planes of the roof
+surface. Flashing shall be viewable from the end of the valley at the roof eave for inspections.
+506.2.2 Materials and systems installed over a roof assembly. Materials and systems installed over a roof assembly shall comply with the requirements of
+Sections 506.2.2.1 through 506.2.2.3.
+506.2.2.1 Raised-deck systems. Raised-deck systems as defined by the Building Code installed above a roof assembly shall comply with Section 1511.9 and
+subsections of the Building Code.
+Exception: Structures constructed to meet the Residential Code shall comply with Access and Egress requirements of the Residential Code.
+506.2.2.2 Skylight housing. Skylight frame material shall be noncombustible.
+506.2.2.3 Walkway pad. The use and application of walkway pad material may not compromise the ASTM E 108 or UL 790 rating of the roof. The material
+must meet ASTM E 108 or UL 790 or meet the requirements of Section 503.2.
+506.2.2.4 Vegetative roofs and landscaped roofs. Vegetative roofs and landscaped roofs, regardless of the distance from the wildland, shall not be allowed
+within the Wildland-Urban Interface.
+506.4 Protection of eaves. Protection of eaves, soffits, fasciae, rafter tails, and exterior ceilings shall comply with the requirements of Sections 506.4.1
+through 506.4.6.
+506.4.1 Eaves. Eaves shall be completely covered and enclosed by non-combustible materials, by solid combustible materials at least three-quarter inch
+thick, or materials complying with Section 504.3.
+506.4.2 Fasciae. Ignition-resistant fasciae are required and shall be constructed with one of the following:
+1. Three-quarter inch (19.1 mm) solid ignition-resistant material complying with Section 503.2.
+2. One-hour fire-resistance-rated construction protected on the exterior by an ignition resistant building material complying with Section 503.2.
+3. Two-inch (51 mm) nominal dimension lumber protected on the exterior by an ignition resistant building material complying with Section 503.2.
+506.4.3 Gaps between materials. Gaps between exterior facing materials within the eaves or between eave materials and the wall or and roof assembly
+caused by normal construction techniques or any other unsealed roof opening providing access to the attic space shall be provided with ember protection
+according to Section 506.5.
+506.4.4 Exposed rafter tails. Exposed rafter tails are allowed when built of ignition-resistant material complying with Section 503.2 or material classified as
+heavy timber per the Building Code.
+506.4.5 Exterior ceilings. Exterior ceilings below covered patio roofs, porches, balconies, decks, floors above, and all similar structures shall be built using
+ignition-resistant building materials that comply with Section 503.2. Rated ceiling assemblies shall have an ignition-resistant building material as the
+exterior finish.
+506.4.6 Gutters and downspouts. Gutters and downspouts shall be constructed of noncombustible materials. Gutters shall be provided with an approved
+means to prevent the accumulation of leaves and debris in the gutter and be constructed of a non-corrosive and noncombustible material.
+506.5 Vents. Where provided in accordance with Section 506.5.3, ventilation, exhaust, or outside air intake openings shall be in accordance with Section
+506.5.1 or Section 506.5.2 to resist building ignition from the intrusion of burning embers and flame through the ventilation openings. Dryer vents and
+associated ductwork shall be noncombustible.
+Exceptions:
+1. An opening that is prohibited from being obstructed and must remain clear because of another adopted code or other Land Development Code
+requirements, provided that any flame or ember that penetrates the opening cannot reach combustible materials or surfaces.
+2. A dryer vent shall not require ember protection in accordance with Section 506.5.1 or Section 506.5.2.
+506.5.1 Performance requirements. Ventilation openings shall be fully covered with listed vents, tested in accordance with ASTM E2886, to demonstrate
+compliance with all the following requirements:
+1. There shall be no flaming ignition of the cotton material during the Ember Intrusion Test.
+2. There shall be no flaming ignition during the Integrity Test portion of the Flame Intrusion Test.
+about:blank 619/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+3. The maximum temperature of the unexposed side of the vent shall not exceed 662°F (350°C).
+506.5.2 Prescriptive requirements. Where provided, attic ventilation openings, foundation or underfloor vents, or other ventilation openings in vertical or
+horizontal surfaces and vents through roofs shall not exceed 144 square inches (0.0929 m 2 ) each. Such vents shall be covered with noncombustible
+corrosion-resistant mesh with openings not to exceed one-eighth inch (3.2 mm) or shall be designed and approved to prevent flame or ember penetration
+into the structure.
+506.5.3 Vent locations. Protection shall be provided for ventilation openings for exhaust, outside air intake, enclosed attics, gable ends, ridge ends, under
+eaves and cornices, enclosed eave soffit spaces, enclosed rafter spaces formed where ceilings are applied directly to the underside of roof rafters,
+underfloor ventilation, foundations and crawl spaces, plenum, or any other opening intended to permit a flow of air between the outside and inside of the
+structure, either in a horizontal or vertical surface. Gable-end and dormer vents shall be located not less than 10 feet (3048 mm) from lot lines. Underfloor
+ventilation openings shall be located as close to grade as practical.
+506.6 Appendages and structures. For an unenclosed appendage, projection, or structure that is attached to or located within 10 feet (3048 mm) of a
+building with habitable spaces and projections, such as a deck, balcony, carport, pergola, patio cover, awning, canopy, or similar structure, the entire
+appendage or structure must be constructed using at least one-hour fire resistance-rated materials, heavy timber, or one of the following:
+1. Approved non-combustible materials;
+2. Fire-retardant-treated wood approved for exterior use that complies with Section 2303.2 of the Building Code; or
+3. Ignition-resistant building materials that comply with Section 503.2 of this code.
+Exceptions:
+1. Coated materials shall not be used as the walking surface of decks.
+2. The underside of a deck consisting of the columns, beams, bracing, and floor joists, shall be allowed to be built from any approved material provided
+that the entire underside of the deck is completely enclosed with a wall meeting the requirements of Section 504.5. Ventilation shall be provided per
+Section 506.5. Storage or access points to allow storage under the deck shall not be allowed.
+Deck boards shall not have gaps larger than one-eighth inch between the boards or ember protection shall be provided per Section 506.5 attached directly
+to the underside of the deck boards. Guard rails, handrails, columns, and steps leading to grade shall comply with these materials.
+506.6.1 Fences. Any portion of a fence within 10 feet (3038 mm) of a building or structure shall be built using a material that complies with Section 503.2 of
+this code. New and replacement fences shall comply with this section. Separation distance between structures shall be per the definition of the Building
+Code or the Residential Code.
+Exception: For residential fences associated with structures constructed in compliance with the Residential Code, the dimension may be reduced from 10
+feet (3038 mm) to 5 feet (1524 mm).
+506.7 Exterior glazing. Skylights shall be tempered glass, multilayered glazed panels, glass block, or have a fire protection rating of not less than 20
+minutes.
+506.8 Detached accessory structures. Detached accessory structures located in the wildland-urban interface, including those listed in Section 506.6, shall
+be required to comply with this code.
+506.8.1 Underfloor areas. The underfloor area below the detached accessory structure shall comply with Section 506.3 or Section 506.6, as applicable.
+506.8.2 Boat Docks. Boat dock walking surfaces shall be constructed of approved noncombustible materials or ignition-resistant materials that comply with
+Section 503.2. Boat dock roof assemblies shall comply with Section 506.2.
+507.1 General. The roof covering on buildings or structures in existence prior to the adoption of this code that are replaced or have 50 percent or more
+replaced shall be entirely replaced with a roof covering required for new construction as required per Section 504.2.
+602.1 General. In areas of the wildland-urban interface where there is a non-conforming water supply per Section 404 of this code, Section 507 of the Fire
+Code, or Appendix B of the Fire Code, an approved automatic sprinkler system may be installed in all habitable occupancies constructed to meet the
+Residential Code, excluding townhouses, regardless of the size of the fire-flow calculation area of the structure in lieu of providing a conforming water
+supply. The installation of the automatic sprinkler systems shall be in accordance with nationally recognized standards appropriate for the building being
+constructed.
+603 Defensible space and Ember Ignition Zone
+603.2 Fuel modification. When required, buildings or structures within the wildland-urban interface shall comply with the fuel modification distances
+contained in Table 603.2. For all purposes the fuel modification distance shall be not less than 30 feet (9144 mm) or to the lot line, whichever is less.
+Distances specified in Table 603.2 shall be measured on a horizontal plane from the perimeter or projection of the building or structure as shown in Figure
+603.2. Distances specified in Table 603.2 are allowed to be increased by the code official because of a site-specific analysis based on local conditions and
+the fire protection plan.
+about:blank 620/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Exception: An Ember Ignition Zone per Section 603.2.1 of this code is required in all areas of the Wildland-Urban Interface.
+Table 603.2
+Required Defensible Space
+Proximity Zone Fuel Modification
+Distance (feet)a
+Proximity Zone C 30 b
+Proximity Zone B 50 b
+Proximity Zone A 100 b
+For SI: 1 foot = 304.8 mm.
+a. Distances are allowed to be increased due to site-specific analysis based on local conditions and the Fire Protection Plan.
+b. Or to the property line, whichever is less.
+603.2.1 Ember Ignition Zone (EIZ). An area of five feet measured from the edge of the roof overhang that extends around the entire perimeter of the
+structure including covered decks and patios. Uncovered decks shall be measured from the side of the deck on all exposed sides. All buildings or structures
+located within the Wildland-Urban Interface shall be required to comply with Ember Ignition Zone (EIZ) requirements. The EIZ shall be landscaped using
+gravel, pavers, or other non-combustible materials. The EIZ shall be maintained free of all combustible materials at all times. The EIZ shall be maintained
+clear of all weeds, grass, plants, shrubs, trees, branches, and vegetative debris (leaves, needles, cones, bark, etc.). Combustible materials such as lawn
+furniture, door mats, combustible planter boxes, small storage cabinets, and/or similar materials shall not be located in the EIZ.
+Exceptions:
+1. Protected and Heritage trees are allowed to remain within the EIZ of existing buildings and structures. Pruning or removal of Protected and Heritage
+trees within the EIZ shall comply with all requirements of the Land Development Code and the Environmental Criteria Manual. EIZ requirements are
+not a means by which Protected or Heritage trees may be approved for removal.
+2. For structures of Types I & II construction, the EIZ shall only be required in front of and 10 feet to each side of required egress points of the structure
+and fire systems access doors.
+3. Artificial turf shall not be used in the EIZ. Any use within defensible space shall have a Class A Rating per ASTM E108.
+4. Protective mulch for critical root zone (CRZ) is allowable during construction in the EIZ per Environmental Criteria Manual (ECM). Any protective mulch
+used shall be removed at the completion of construction.
+5. Properties within Proximity Zone C shall be allowed green, moist, and closely mowed lawn grass in lieu of hardscape in the EIZ. Dormant grass shall be
+seeded with perennial Rye grass to maintain the fire resistance during the lawn grass dormant periods.
+603.2.2 Responsible party. Persons owning, leasing, controlling, operating, or maintaining buildings or structures requiring defensible spaces are
+responsible for modifying or removing and maintaining nonfire-resistive vegetation on the property owned, leased, or controlled by said person.
+603.2.3 Trees. Trees that comply with Section 604.4 are allowed within a defensible space.
+603.2.4 Ground cover. Deadwood, woody vegetation, and litter shall be regularly removed from and maintained around trees. Where vegetative fuels or
+cultivated ground cover, such as green grass, ivy, succulents or similar plants are used as ground cover, they are allowed to be within the designated
+defensible space, provided that they do not form a means of transmitting fire from the natural growth to any structure or tree canopy.
+604 Maintenance of Defensible space and Ember Ignition Zone.
+604.4 Trees. A person must maintain a tree within a defensible space to prevent fire from entering or spreading through canopies as set forth in City Code
+requirements. Pruning or removal of Protected and Heritage trees shall comply with all requirements of the Land Development Code and the
+Environmental Criteria Manual Section 3 (Tree and Natural Area Preservation). Defensible space requirements are not a means by which Protected or
+Heritage trees may be approved for removal. Overhead electric line clearance requirements set forth in the Utilities Criteria Manual Section 1 (Austin
+Energy Design Criteria) apply to a tree within a defensible space. Allowable tree pruning should focus on removal of limbs located under the eaves of
+structures, and limbs less than six feet (1829 mm) above the ground surface.
+about:blank 621/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+606.1 General. The storage of liquefied petroleum gas (LP-gas) and the installation and maintenance of pertinent equipment shall be in accordance with
+the Fire Code and NFPA 58.
+606.2 Location of containers or tanks. LP-gas containers or tanks shall be located within the defensible space in accordance with the Fire Code and NFPA
+58.
+607.1 General. Firewood and combustible material shall not be stored in unenclosed spaces beneath buildings or structures, or on decks, or under eaves,
+canopies, or other projections or overhangs. Where required by the code official, storage of firewood and combustible materials shall be located not less
+than 20 feet (6096 mm) from structures and separated from the crown of trees by a horizontal distance of not less than 15 feet (4572 mm).
+C101.1 Fire hazard severity form. Where required, Table C101.1 shall be used as an alternative for analyzing the fire hazard severity of building sites.
+TABLE C101.1 FIRE HAZARD SEVERITY FORM
+2024 INTERNATIONAL WILDLAND-URBAN INTERFACE CODE®
+TABLE C101.1—FIRE HAZARD SEVERITY FORM
+PART 1
+A. Subdivision Design Points
+1. Ingress/Egress
+Two or more primary roads 1__
+One road, 30 or less dwelling units (two-way) 3__
+One road, more than 30 dwelling units (two-way) 5__
+One road (one way direction) 10__
+2. Width of Primary Road
+25 feet (7620 mm) or more 1__
+Less than 25 feet (7620 mm) to 20 feet (6096 mm) 3__
+Less than 20 feet (6096 mm) 5__
+3. Accessibility
+Road grade 5% or less 1__
+Road grade more than 5% 3__
+4. Secondary Road Terminus
+Loop roads, cul-de-sacs with an outside turning radius of 50 feet (15 240 mm) or greater 1__
+Cul-de-sac turnaround 2__
+Dead-end roads 150 feet (45 720 mm) or less in length 3__
+Dead-end roads greater than 150 feet (45 720 mm) in length 5__
+5. Site Specific Access (fire lanes, driveways)
+Fire lane provided 1__
+about:blank 622/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Fire lane not required per Fire Code 503.1 and Driveway not required per WUIC 403.2 1__
+12 foot (3658 mm) or greater Driveway provided 3__
+Less than 12-foot (3658 mm) Driveway provided 5__
+6. Street Visible Signage
+Present 1__
+Not present 3__
+B. Proximity to existing structures (includes adjacent properties)
+Greater than 10 feet (3048 mm) from nearest structure 1__
+10 feet (3048 mm) to 5 feet (1524 mm) from nearest structure 5__
+Less than 5 feet (1524 mm) from nearest structure 10__
+C. Fire Protection—Water Source
+Hydrant less than 500 feet or 600 feet for Group R-3 and U occupancies 1__
+With fire sprinklers provided, sufficient fire flow per Appendix B
+Hydrant less than 500 feet or 600 feet for Group R-3 and U occupancies 2__
+With no fire sprinklers provided, sufficient fire flow per Appendix B
+Hydrant farther than 500 feet or 600 feet for Group R-3 and U occupancies 2__
+With fire sprinklers provided, sufficient fire flow per Appendix B
+Hydrant farther than 500 feet or 600 feet for Group R-3 and U occupancies 5__
+With no fire sprinklers provided, sufficient fire flow per Appendix B
+Hydrant farther than 1,000 feet with fire sprinklers provided, sufficient fire flow per Appendix B 7__
+Hydrant farther than 1,000 feet with no fire sprinklers provided, sufficient fire flow per Appendix B 10__
+Fire flow less than required per Fire Code Appendix B 10__
+Part 1 Total
+PART 2
+D. Vegetation (IWUIC Definitions)
+1. Fuel Types
+Light 1__
+Medium 5__
+Heavy 10__
+2. Defensible Space
+about:blank 623/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Meets requirements of Table 603.2 and EIZ (603.2.1) 1__
+Does not meet requirements of Table 603.2 but meets EIZ 603.2.1 10__
+Does not meet requirements of Table 603.2 or EIZ 603.2.1 20__
+E. Topography
+8% or less 1__
+More than 8%, but less than 20% 4__
+20% or more, but less than 30% 7__
+30% or more 10__
+F. Roofing Material
+Class A Fire Rated 1__
+Class B Fire Rated 5__
+Class C Fire Rated 10__
+Nonrated/Unknown 20__
+G. Existing Building Construction Materials
+Noncombustible siding/appendages 1__
+Noncombustible siding/combustible appendages 5__
+Combustible siding and appendages 10__
+H. Utilities (gas and/or electric)
+All underground utilities 1__
+One underground, one above ground 3__
+All above ground 5__
+Part 2 Total
+Total for Subdivision
+Moderate Hazard 20—39
+Extreme Hazard 40+
+APPENDIX D. FUEL MODELS
+As set forth in Section 3.2.1 of the Austin-Travis County Community Wildfire Protection Plan, fuel loads and fire behavior within the region are indicated by
+the following vegetation:
+1. Sparse, dry-climate grass, or grassland, is dominated by generally short grasses that may be sparse or discontinuous (Scott and Burgan 2005).
+Pastures are also considered grasslands.
+about:blank 624/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+2. Aggrading juniper shrub fuel type is dominated by live oak-juniper and juniper savanna. It is present throughout the county. It includes both Ashe
+juniper (Juniperus ashei), predominantly in western Travis County, and eastern redcedar (Juniperus virginiana), predominately in eastern Travis
+County. Juniper scorch and mortality values by size class are nearly identical between these two Juniperus species (Engle and Stritzke 1995).
+3. Closed juniper woodland has sufficient canopy closure to limit growth of tall grass (18 inches or more tall) to less than 50 percent of the ground cover.
+Juniper, including Ashe juniper and/or eastern redcedar, and deciduous trees are the dominant vegetation types.
+4. Mixed juniper hardwood forest fuel type is 25-percent juniper, 75-percent deciduous class.
+Source: Ord. No. 20200409-040, Pt. 2, 1-1-21; Ord. No. 20250410-041, Pt. 1, 7-10-25.

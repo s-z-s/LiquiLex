@@ -1,0 +1,21 @@
+"BUILDING
+COMPONENT",STANDARD REFERENCE DESIGN,PROPOSED DESIGN
+"Above-grade
+walls",Type: mass wall if proposed wall is mass; otherwise wood frame,As proposed
+,Gross area: same as proposed,As proposed
+,U-factor: from Table R402.1.2(2),As proposed
+,Solar reflectance = 0.25,As proposed
+,Emittance = 0.90,As proposed
+"Basement and
+crawl space
+walls",Type: same as proposed,As proposed
+,Gross area: same as proposed,As proposed
+,"U-factor: from Table R402.1.2(2), with insulation layer on interior side
+of walls.",As proposed
+"Above-grade
+floors",Type: wood frame,As proposed
+,Gross area: same as proposed,As proposed
+,U-factor: from Table R402.1.2(2),As proposed
+Ceilings,Type: wood frame,As proposed
+,Gross area: same as proposed,As proposed
+,U-factor: from Table R402.1.2(2),As proposed

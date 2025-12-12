@@ -1,0 +1,40 @@
+§ 25-9-62 - AMOUNT OF COST PARTICIPATION.
+Tables 1 and 2 below set forth the percentage of cost participation in the hard costs of an oversized water or wastewater main. The percentage of cost
+participation is based on the increased percentage in pipe diameter due to oversizing established under Section 25-9-64 (Request for Cost Participation). Cost
+participation is determined by multiplying the percentage set forth in Table 1 and Table 2 by the hard costs of an oversized line.
+(A) The following table sets forth the amount of cost participation for the hard costs associated with an oversized water main:
+Table 1: Amount of Cost Participation (Water)
+Minimum Required Pipe Diameter Percentage of Cost Participation Based on Oversized Pipe Diameter
+for the Property (inches)
+8 12 16 24 30 36 42 48
+8 0% 33% 50% 66% 73% 78% 81% 83%
+12 - 0% 25% 50% 60% 66% 71% 75%
+16 - - 0% 33% 47% 56% 62% 66%
+24 - - - 0% 20% 33% 43% 50%
+30 - - - - 0% 17% 29% 37%
+36 - - - - - 0% 14% 25%
+42 - - - - - - 0% 12%
+48 - - - - - - - 0%
+about:blank 460/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(B) The following table sets forth the amount of cost participation for the hard costs associated with an oversized wastewater main:
+Table 2: Amount of Cost Participation (Wastewater)
+Minimum Required Pipe Percentage of Cost Participation Based on Oversized Pipe Diameter
+Diameter for the Property
+(inches) 8 12 15 18 21 24 30 36 42 48
+8 0% 33% 47% 56% 62% 66% 73% 78% 81% 83%
+12 - 0% 20% 33% 43% 50% 60% 66% 71% 75%
+15 - - 0% 17% 29% 37% 50% 58% 64% 69%
+18 - - - 0% 14% 25% 40% 50% 57% 62%
+21 - - - - 0% 12% 30% 42% 50% 56%
+24 - - - - - 0% 20% 33% 43% 50%
+30 - - - - - - 0% 17% 29% 37%
+36 - - - - - - - 0% 14% 25%
+42 - - - - - - - - 0% 12%
+48 - - - - - - - - - 0%
+(C) The amount of cost participation for hard costs for pump stations, reservoirs, wastewater treatment plants, lift stations, force mains and other
+facilities will be calculated on the percentage of oversizing of the treatment capacity or pumping capacity.
+(D) The amount of cost participation for soft costs may not exceed 15% of the hard costs calculated under subsections (A), (B) and (C) of this section.
+(E) Notwithstanding the above, under no circumstance shall cost participation under this section exceed the amount authorized by council, unless
+council provides authorization for additional cost participation.
+Source: Section 13-3-15(d); Ord. 990225-70; Ord. 031211-11; Ord. 20090820-061; Ord. 20130321-065.

@@ -1,0 +1,8 @@
+CONDITION,VALUE
+"Winter a , Design Dry-bulb (°F)",30
+"Summer a , Design Dry-bulb (°F)",100
+"Summer a , Design Wet-bulb (°F)",74
+Climate Zone,2A
+For SI: deg C=[(°F)-32]/l.8,
+"a Adjustments shall be permitted to reflect local climates, which differ from the tabulated temperatures, or local weather experience
+determined by the building official.",

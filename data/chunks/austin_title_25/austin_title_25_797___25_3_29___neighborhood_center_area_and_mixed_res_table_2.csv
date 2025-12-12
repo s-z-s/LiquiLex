@@ -1,0 +1,30 @@
+Theater,X,P
+,,
+Industrial Uses,MRA,NCA
+Custom Manufacturing,X,P
+,,
+Civic Uses,MRA,NCA
+Club or Lodge,P,P
+College & University Facilities,X,P
+Communication Service Facilities,P,P
+Community Recreation (Private),P,P
+Community Recreation (Public),P,P
+Congregate Living,X,P
+Convalescent Services,X,P
+Cultural Services,P,P
+Day Care Services (Commercial),X,P
+Day Care Services (General),P,P
+Day Care Services (Limited),P,P
+Family Home,P,P
+"Group Home, Class I (General)",P,P
+"Group Home, Class I (Limited)",P,P
+"Group Home, Class II",P,P
+Guidance Services,X,P
+Hospital Services (Limited),X,P
+Local Utility Services,P,P
+Major Utility Facilities,P,P
+Park & Recreation Services (General),P,P
+Park & Recreation Services (Special),P,P
+Postal Facilities,X,P
+Private Primary Educational Facilities,P,P
+Private Secondary Educational Facilities,P,P

@@ -1,0 +1,12 @@
+"Spill control &
+neutralization",1207.6.2,Yes c,Yes c,No,Yes,Yes,Yes
+"Thermal
+runaway",1207.6.5,Yes d,Yes,Yes e,No,Yes e,Yes
+"Thermal
+runaway
+detection
+system",1207.6.7,No,No,Yes,No,No,No
+"b. Applicable to vented-type (i.e., flooded) nickel-cadmium and lead-acid batteries.",,,,,,,
+"c. Not required for vented-type (i.e., flooded) lead-acid batteries.",,,,,,,
+"d. Thermal runaway protection is permitted to be part of a battery management system that has been evaluated with battery as part of the
+evaluation to UL 1973.",,,,,,,

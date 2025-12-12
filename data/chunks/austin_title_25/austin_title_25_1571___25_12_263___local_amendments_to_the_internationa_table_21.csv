@@ -1,0 +1,8 @@
+Projection Factor,"SHGC Multiplier (Glazed fenestration from
+45 to 135 degrees and 225 to 315 degrees)","SHGC Multiplier (Glazed fenestration from 135
+to 225 degrees)"
+0.10—0.25,0.85,0.75
+0.26—0.50,0.75,0.60
+0.51—0.75,0.60,0.40
+0.76—1.00,0.40,0.20
+>1.00,0.20,0.10

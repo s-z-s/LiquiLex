@@ -1,0 +1,31 @@
+§ 25-2-946 - DETERMINATION OF NONCONFORMING USE REGULATION GROUP.
+(A) The table in this section determines whether a nonconforming use must comply with the nonconforming use regulations of Group "A", Group "B", Group
+"C", or Group "D" as prescribed by Section 25-2-947 (Nonconforming Use Regulation Groups).
+(B) To use the table:
+(1) find the column with the zoning district in which the nonconforming use is located;
+(2) find the row that describes the nonconforming use; and
+(3) find the nonconforming use regulation group for the nonconforming use at the intersection of the column and the row.
+(C) In the table, the phrase "allowed in" includes permitted and conditional uses.
+NONCONFORMING USE TABLE
+LA SF-4 MF-4 NO L CS LI AG
+RR SF-5 MF-5 LO GO CS-1 IP DR
+SF-1 SF-6 MF-6 LR GR CH
+SF-2 MF-1 MH CBD
+SF-3 MF-2 DMU
+MF-3
+Residential uses B C D D D D D D
+Commercial uses allowed in a LO or A B C D D D D D
+GO district
+Commercial uses allowed in a A A B C D D D D
+commercial district other than LO or
+GO
+Industrial uses allowed in a A A B B C D D D
+commercial district
+Industrial uses not allowed in a A A A B B C D D
+commercial district
+Civic uses allowed in a residential B C D D D D D D
+district
+Civic uses not allowed in a residential B B C C D D D D
+district
+Agricultural uses B B B B B C C C
+Source: Section 13-2-345; Ord. 990225-70; Ord. 031211-11.

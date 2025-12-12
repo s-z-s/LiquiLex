@@ -1,0 +1,24 @@
+CLIMATE ZONE,2
+VERTICAL FENESTRATION U-FACTOR,0.35
+SKYLIGHT U-FACTOR,0.60
+GLAZED VERTICAL FENESTRATION SHGC,0.25
+SKYLIGHT SHGC,0.28
+CEILING R-VALUE,38
+"ATTIC ROOFLINE R-VALUE b, c, f, g",25&0ci or 0&25ci
+"WOOD FRAME WALL R-VALUE b, c","19, 15&2ci, 13&3ci, or 0&15ci"
+MASS WALL R-VALUE h,4/6
+"FLOOR R-VALUE b, c",13 OR 7&5ci OR 0&10ci
+"BASEMENT WALL R-VALUE b, e",0
+UNHEATED SLAB R-VALUE & DEPTH d,0
+"HEATED SLAB R-VALUE & DEPTH b, c, d",R-5ci edge and R-5 full slab
+"CRAWL SPACE WALL R-VALUE b, c",0
+For SI: 1 foot = 304.8 mm,
+NR = Not Required.,
+ci = continuous insulation.,
+"a R-values are minimums. U-factors and SHGC are maximums. When insulation is installed in a cavity which is less than the label or design
+thickness of the insulation, the installed R-value of the insulation shall not be less than the R-value specified in the table.",
+"b ""5ci or 13"" means R-5 continuous insulation (ci) on the interior or exterior surface of the wall or R-13 cavity insulation on the interior side of
+the wall. ""10ci or 13"" means R-10 continuous insulation (ci) on the interior or exterior surface of the wall or R-13 cavity insulation on the interior
+side of the wall. ""15ci or 19 or 13&5ci"" means R-15 continuous insulation (ci) on the interior or exterior surface of the wall; or R-19 cavity
+insulation on the interior side of the wall; or R-13 cavity insulation on the interior of the wall in addition to R-5 continuous insulation on the
+interior or exterior surface of the wall.",

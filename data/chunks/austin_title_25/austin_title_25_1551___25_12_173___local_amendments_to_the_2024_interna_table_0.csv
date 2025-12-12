@@ -1,0 +1,6 @@
+Flammability,Rating,Quantity
+4,Extreme,0.5 pounds or 5 gallons
+3,High,12 pounds or 10 gallons
+2,Moderate,60 pounds or 120 gallons
+Health,Rating,Quantity
+4,Extreme,0.35 ounces or 0.3 fluid ounces

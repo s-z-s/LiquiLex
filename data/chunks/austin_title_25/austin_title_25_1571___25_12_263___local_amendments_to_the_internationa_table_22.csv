@@ -1,0 +1,20 @@
+,Total leakage cfm/100 ft2(LPM/9.29 m2),Total leakage cfm (LPM)
+"Space conditioning equipment is not
+installed b, c",3 (85),30 (850)
+"All components of the duct system are
+installed c
+Space conditioning equipment is not
+installed, but the ductwork is located entirely
+in conditioned spacec, d
+All components of the duct system are
+installed and entirely located in conditioned
+spacec",4 (113),42 (1189)
+"a A ducted return is a duct made of sheet metal or flexible duct that connects one or more return grilles to the return-side inlet of the air-
+handling unit. Any other method to convey air from return or transfer grille(s) to the air-handling unit does not constitute a ducted return for
+the purpose of determining maximum total duct system leakage allowance.",,
+";i \ i; Duct systemtesting is permitted where space conditioning equipment is not installed, provided the return ductwork is installed, and the measured leakage from the supply and
+return ductwork is included.",,
+"c For duct systems to be considered inside a conditioned space, where the ductwork is located in ventilated attic spaces or unvented attics with
+vapor diffusion ports, duct system leakage to outside must comply with Item 2.1 of Section R403.3.4.",,
+"d Prior to the issuance of a certificate of occupancy, where the air-handling unit is not verified as being located in conditioned space, the total
+duct system leakage must be re-tested.",,

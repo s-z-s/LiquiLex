@@ -1,0 +1,15 @@
+§ 25-10-5 - SIGN AREA CALCULATIONS.
+(A) For a wall sign, the sign area is the lesser of:
+(1) the area of the smallest rectangle within which the face of the sign can be enclosed; or
+(2) the smallest area of not more than three contiguous rectangles enclosing different sections of the sign.
+(B) For a single sign having two faces with only one face visible from any point, the sign area is measured using only one face.
+(C) For a three-dimensional sign, the sign area is the smallest rectangle within which the largest silhouette of the sign can be enclosed.
+(D) Sign area includes a sign apron or similar feature and an area displaying a sign company name or symbol. Sign area does not include a supporting
+structure, pole cover, or landscape feature unless used to convey a message.
+(E) A door surface sign is not included in calculating maximum allowable sign area.
+(F)
+about:blank 487/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+For a sign on a corner site whose allowable sign area is based on linear feet of street frontage, the maximum sign area is calculated using only the single largest
+street frontage.
+Source: Sections 13-2-885 and 13-2-867; Ord. 990225-70; Ord. 031211-11; Ord. 040205-29; Ord. No. 20170817-072, Pt. 1, 8-28-17.

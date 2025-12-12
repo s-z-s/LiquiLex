@@ -1,0 +1,28 @@
+category,trade,min_sq_ft,max_sq_ft,base_fee,incremental_fee,incremental_threshold
+Plan Review,Building,0,1500,2940.02,0,0
+Plan Review,Building,1501,5000,3155.36,1.764,1500
+Plan Review,Building,5001,10000,3788.00,1.268,5000
+Plan Review,Building,10001,25000,4420.79,0.559,10000
+Plan Review,Building,25001,50000,5259.05,0.5884,25000
+Plan Review,Building,50001,100000,6730.02,0.405,50000
+Plan Review,Building,100001,999999999,8216.67,0.220,100000
+New Construction,Building,0,1000,209.54,0,0
+New Construction,Building,1001,5000,271.93,0.02873,1000
+New Construction,Building,5001,10000,386.82,0.04996,5000
+New Construction,Building,10001,25000,636.61,0.00412,10000
+New Construction,Building,25001,50000,699.06,0.007494,25000
+New Construction,Building,50001,999999999,886.41,0.002123,50000
+New Construction,Electrical,0,1000,273.50,0,0
+New Construction,Electrical,1001,5000,335.95,0.03122,1000
+New Construction,Electrical,5001,10000,460.85,0.04996,5000
+New Construction,Electrical,10001,25000,710.65,0.00824,10000
+New Construction,Electrical,25001,50000,838.54,0.009902,25000
+New Construction,Electrical,50001,999999999,1085.34,0.006495,50000
+New Construction,Plumbing,0,1000,332.55,0,0
+New Construction,Plumbing,1001,5000,395.00,0.03122,1000
+New Construction,Plumbing,5001,10000,519.90,0.04996,5000
+New Construction,Plumbing,10001,25000,769.70,0.0001,10000
+New Construction,Plumbing,25001,50000,894.60,0.009992,25000
+New Construction,Plumbing,50001,999999999,1144.39,0.003997,50000
+Mobile Food Vendor,Permit,0,999999,580.00,0,0
+Mobile Food Vendor,Fire Inspection,0,999999,223.00,0,0

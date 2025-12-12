@@ -1,0 +1,89 @@
+# LiquiLex
+
+**Civic Compliance, Decoded by AI.**
+
+LiquiLex is an advanced AI-powered platform designed to help businesses and developers navigate complex zoning regulations, building codes, and permit fees in Austin, Texas.
+
+## 🚀 Features
+
+-   **🤖 Lex Agent**: An intelligent AI assistant that understands context (zoning, fees, site details) and provides accurate, sourced answers using RAG (Retrieval-Augmented Generation).
+-   **🗺️ Interactive Zoning Map**: Visualize zoning districts with dynamic data layers, powered by connection to a Vultr PostgreSQL database.
+-   **💲 Smart Fee Calculator**: Instantly estimate permit fees for new construction or remodels based on accurate fee schedules.
+-   **🐕 Regulatory Watchdog**: A real-time monitoring system that tracks RSS feeds (e.g., Austin Monitor) for regulatory changes and alerts users to critical updates.
+-   **🔒 Secure Dashboard**: User-isolated project management with secure authentication (JWT) and data persistence.
+
+## 🛠️ Technology Stack
+
+### Backend (Raindrop Framework)
+-   **Framework**: [Raindrop](https://github.com/liquidmetal-ai/raindrop) (Hono.js based serverless).
+-   **Database**: PostgreSQL (Hosted on Vultr, accessed via Bridge).
+-   **Caching**: Valkey (KvCache) for high-performance API responses.
+-   **AI & Memory**:
+    -   `SmartBucket`: Vector storage for regulatory documents (RAG).
+    -   `SmartMemory`: Persistent user context and session management.
+    -   `SmartSql`: Natural language to SQL translation.
+
+### Frontend
+-   **Framework**: Next.js 14 (App Router).
+-   **Styling**: Tailwind CSS + Framer Motion.
+-   **Maps**: React Leaflet (OpenStreetMap).
+-   **State**: React Hooks + LocalStorage.
+
+## 📂 Project Structure
+
+```
+liquilex/
+├── backend/                # Raindrop Backend
+│   ├── src/
+│   │   ├── liquilex/       # Main Service Logic (API Types)
+│   │   ├── agent/          # Lex Agent Logic (LLM Integration)
+│   │   ├── tools/          # AI Tools (CheckZoning, CalculateFee)
+│   │   └── auth/           # Authentication Service
+│   └── raindrop.manifest   # Infrastructure Configuration
+├── frontend/               # Next.js Frontend
+│   ├── app/                # App Router Pages
+│   └── components/         # Reusable UI Components
+└── vultr-bridge/           # Database Bridge (Middleware)
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+-   Node.js 18+
+-   Raindrop CLI
+-   Vultr Account (for DB) & Cerebras/ElevenLabs Keys (for AI).
+
+### Installation
+
+1.  **Clone the Repository**
+    ```bash
+    git clone https://github.com/yourusername/liquilex.git
+    cd liquilex
+    ```
+
+2.  **Backend Setup**
+    ```bash
+    cd backend
+    npm install
+    # Set up environment variables in raindrop.manifest (or .env for dev)
+    npm start
+    ```
+
+3.  **Frontend Setup**
+    ```bash
+    cd ../frontend
+    npm install
+    npm run dev
+    ```
+
+4.  **Access**
+    -   Frontend: `http://localhost:3000`
+    -   Backend API: `http://localhost:8080/api/hello`
+
+## 🔒 Security
+-   **JWT Authentication**: All dashboard routes are protected.
+-   **Data Isolation**: Projects and data are strictly scoped to the authenticated user.
+-   **Secure Storage**: Sensitive keys managed via Raindrop Secrets.
+
+## 📄 License
+Private / Proprietary.

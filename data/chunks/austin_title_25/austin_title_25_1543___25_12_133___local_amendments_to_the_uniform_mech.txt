@@ -1,0 +1,142 @@
+§ 25-12-133 - LOCAL AMENDMENTS TO THE UNIFORM MECHANICAL CODE.
+about:blank 549/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+The following provisions are local amendments to the commercial provisions of the 2024 Uniform Mechanical Code. Each provision in this section is a substitute
+for an identically numbered provision deleted by Section 25-12-131(B) or an addition to the 2024 Uniform Mechanical Code.
+Chapter 1 Administration.
+104.1.1 Commercial Mechanical Change-Out Program. For buildings not covered under the Residential Code, the building official may establish, by rule,
+an inspection program for commercial mechanical components identified in this section or a change-out program authorized in other technical or building
+codes. The buildings must be located within the zoning jurisdiction of the City, outside of the zoning jurisdiction under agreement with a municipal utility
+district, where the City provides electrical service, or as determined by the building official.
+104.2 Exempt Work. A mechanical permit is not required for the work described in this provision. Work exempt from a permit must still comply with this
+code and all other applicable laws and City Code requirements.
+1. A portable heating appliance, portable ventilating equipment, a portable cooling unit, or a portable evaporative cooler.
+2. Replacing a component part that does not alter the original approval and complies with other applicable requirements of this code.
+3. Refrigerating equipment that is part of equipment subject to a permit issued under this code.
+4. Replacement or relocation of controls and thermostats (less than 24 volts).
+5. Installing self-contained refrigerators or freezers.
+6. Servicing and repairing ice machines.
+7. Relocation of return and supply grilles within range of existing duct lengths if they remain within the same space.
+8. Other work as determined by the building official.
+104.3.3 Time Limits. Article 13 (Administration of Technical Codes) of Chapter 25-12(Technical Codes) establishes permit application time limits and
+requirements applicable to permit expiration and reactivation, including a review fee for expired permits.
+104.5 Fees. Fees applicable to this code are set by a separate ordinance.
+104.6 Registration of Air Conditioning and Refrigeration Contractors. An air conditioning and refrigeration contractor must register with the City before
+performing work regulated by this code. A contractor must provide the contractor's name and State of Texas license number. A contractor must pay a
+registration fee, established by separate ordinance, for an initial registration, registration after a license suspension, and registration after the license
+expires. A new registration fee is not required to renew a license that is not suspended or expired.
+107.0 Appeals. A person aggrieved by an order, decision, or determination of the building official related to an application or interpretation of this code
+may appeal the order, decision, or determination consistent with the procedures set forth in Chapter 25-1, Article 7, Division 1 (Appeals). The Mechanical
+and Plumbing Board, established in Section 2-1-161 (Mechanical and Plumbing Board), hears appeals authorized by this section.
+Chapter 2 Definitions.
+202.1.1 Amended and Supplemented Definitions. The definitions in this subsection apply throughout this code and amend or supplement the definitions
+in Chapter 2.
+Bleed-off (Blowdown). The circulating water in a cooling tower which is discharged to help keep the dissolved solids in the water below a maximum
+allowable concentration limit.
+Blow-Down Meter. A meter that tracks the amount of water discharged from a cooling tower system.
+Concentration. The recirculated water in a cooling tower that has elevated levels of total dissolved solids as compared to the original make-up water.
+Conductivity Controller. A device used to measure the conductivity of total dissolved solids in the water of a cooling system to control the discharge of
+water in order to maintain efficiency.
+Cooling Tower. An open- or closed-loop water recirculation system that uses fans or natural draft to force or draw air to contact and cool water through
+the evaporative process that removes heat from water-cooled A/C systems and from industrial processes.
+Cycle of Concentration. The ratio of the dissolved solids in recirculating water to the dissolved solids in the makeup water.
+Drift Eliminator. A device that captures large water droplets caught in the cooling tower air stream to prevent the water droplets and mist from escaping
+the cooling tower.
+Insanitary Location. An area, space, public/private balcony, or room where the air is unfit or undesirable for circulation to occupiable parts of a building.
+Makeup. The amount of water required to replace normal losses caused by bleed-off (blowdown), drift, and evaporation.
+Makeup Meter. A meter that measures the amount of water entering a cooling tower system.
+about:blank 550/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Overflow Alarm. A system that includes a level switch and an electronic signaling device that sends an audible signal or provides an alert via the energy
+management control system to the tower operator in case of sump overflow.
+Chapter 3 General Regulations.
+303.8.4 Roof Drainage and Rails. Equipment shall be installed on a well-drained surface of the roof. Guards must be provided where an appliance,
+equipment, fan, solar system, or other components require service and are located within 10 feet (3,048 mm) of a roof edge or open side of a walking
+surface and the edge or walking surface is located 30 inches above the grade below. Rigid fixed rails or guards at least 42 inches (1,067 mm) in height must
+be provided on the exposed side. The guard must be constructed to prevent a 21-inch-diameter (533 mm) sphere from passing through and must extend
+at least 30 inches (762 mm) beyond each end of the appliance, equipment, fan, or component. If a parapet or other building structure is used in lieu of a
+guard, it must be at least 42 inches (1,067 mm) in height.
+Exception: Guards shall not be required where a permanent fall arrest anchorage connector system in accordance with ASSE Z359.1 is installed.
+304.3.1.2.1 Ladders. Permanent ladders to access equipment located on a roof shall be provided at parapet walls that exceed 30 inches in height.
+304.4.5 Concealed Space Designed for Appliances. An unobstructed access panel with a minimum of 22 inches by 30 inches at each point of maintenance
+and repair access shall be required. An opening as large as the largest component of an appliance is not required if:
+1. the largest appliance can be removed by other means;
+2. a plan for removal of the appliance is clearly documented on the approved plans; and
+3. fire protection components, any part of the electrical installation, or structural load resisting systems and plumbing are not being affected.
+310.1.2 Sling-Style Equipment. Sling-style A/C equipment that reintroduces condensation back into the atmosphere is prohibited.
+318 Cooling Systems. Interior spaces intended for human occupancy shall be provided with active or passive cooling systems capable of maintaining an
+indoor temperature of not more than 80°F (27°C) at a point three feet (914 mm) above floor on the design cooling day. The installation of portable cooling
+systems shall not be used to achieve compliance with this section.
+Exceptions:
+1. Interior spaces where the primary purpose is not associated with human comfort.
+2. Group F, H, S, and U occupancies.
+Chapter 4 Ventilation Air.
+403.7.3 Occupied Spaces Accessory to Public Garages. Connecting offices, waiting rooms, ticket booths, and similar uses accessory to a public garage
+must be maintained at a positive pressure and must include ventilation consistent with Section 403.0 Ventilation Rates.
+405.4.1 Residential Kitchen Exhaust Rate. For intermittent-controlled operations, the exhaust rate shall be not less than 100 ft 3 /min (47.2 L/s) and 300 ft 3
+/min (142 L/s) for downdraft appliances. For continuous operation the exhaust rate shall be not less than 50 ft 3 /min (23.6 L/s).
+Chapter 5 Exhaust Systems.
+504.1.2 Environmental Exhaust Duct Termination Over Covered Walkway. An exhaust duct serving a domestic clothes dryer shall not terminate over a
+covered walkway unless the duct is extended to the outer edge of the covered walkway.
+1. An exhaust duct serving a domestic range or bathroom exhaust fan shall not terminate over a covered walkway unless three sides are open for
+dilution air movement.
+Exception: If adequate dilution air cannot be provided, an exhaust duct serving a domestic range or bathroom exhaust fan shall be extended to
+the outer edge of the covered walkway.
+2. An exhaust duct shall terminate over a private use balcony if the balcony serves the same space or dwelling unit as the duct serves and required
+clearances from openings are maintained.
+504.4.2 Domestic Cloth Dryers. Section 504, subsections, and associated tables and references and duct support requirements in Subsection B of the
+International Mechanical Code, 2024 Edition, apply to a clothes dryer installation. Alternatively, clothes dryer installation may qualify as an alternate
+engineered system if it meets the requirements of this section.
+1. Alternate Engineered Systems. If the dryer duct system is designed by a professional engineer, the system must comply with ANSI Z21.5.I/CSA 7.1. The
+design professional must provide calculations and design criteria on plans submitted under Section 104.0 of this code and must demonstrate dryer
+vent system is equivalent to a system that complies with the International Mechanical Code, 2024 Edition.
+2. Duct Supports. Ducts shall be supported in accordance with SMACNA HVAC Duct Construction Standards - Metal and Flexible.
+520.0 Hazardous Materials. Sections 502.8 through 502.8.5., associated tables and referenced sections of the International Mechanical Code, 2024 Edition,
+shall apply except for Section 502.8.4 that is replaced with the following:
+about:blank 551/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Where gases, liquids, or solids in amounts exceeding the maximum allowable quantity per control area and having a hazard ranking of 2, 3, or 4
+accordance with NFPA 704 are dispensed or used, mechanical exhaust ventilation shall be provided to capture gases, fumes, mists, or vapors at the point
+of generation.
+521.0 Hazardous Materials - Requirements for Specific Materials. Section 502.9, subsections, associated tables, and referenced sections of the
+International Mechanical Code, 2024 Edition, apply.
+522.0 Hazardous Production Materials (HPM). Section 502.10, subsections, associated tables and referenced sections of the International Mechanical
+Code, 2024 Edition, apply.
+523.0 Hazardous Exhaust Systems. Section 509, subsections, and associated tables and referenced sections of the International Mechanical Code, 2024
+Edition, apply.
+524.0 Manicure and pedicure stations. Section 502.20, subsections, and associated tables and referenced sections of the International Mechanical Code,
+2024 Edition, apply.
+Chapter 6 Duct Systems.
+603.10.1 Cross Contamination. A non-hazardous duct under positive or negative pressure may be routed through a duct or plenum or occupied space
+when longitudinal and traverse joints (seal class A per SMACNA) are sealed with materials designed for that use and sealed consistent with acceptable
+methods.
+609 Smoke Detection Systems Control. Section 606, subsections, and associated tables and referenced sections of the International Mechanical Code,
+2024 Edition apply.
+Chapter 9 Installation of Specific Appliances.
+939.0 Sauna Heaters. Section 914, subsections, and associated tables and references of the International Mechanical Code, 2024 Edition, apply.
+Chapter 10 Boilers and Pressure Vessels.
+1015.0 Efficiency Standards for Steam Boilers. A steam boiler shall:
+1. Be equipped with conductivity controllers that control blowdown and a coldwater makeup meter. If the system is a 50 Boiler Horsepower or greater,
+the meter must be connected to the building's energy management system or utility monitoring dashboard;
+2. Include a steam condensate return system;
+3. Be fitted with a blowdown heat exchanger to transfer heat from blowdown to the feed water; and
+4. If the boiler exceeds 15 psi and 100 Boiler Horsepower, and the heat recovery can be used to heat boiler makeup water or other purposes, the boiler
+blowdown must be directed to a heat recovery system that reduces the temperature of the blowdown discharge to below 140 degrees Fahrenheit
+without using tempering water.
+Chapter 11 Refrigeration.
+1126.0 Standards for Cooling Towers.
+1. A cooling tower shall:
+a. Achieve a minimum of five cycles of concentration if the cooling tower utilizes potable water as its primary source of make-up water;
+b. Be fitted with overflow sensors and alarms, make-up water, and blowdown meters to manage water consumption, and conductivity controllers;
+c. Be equipped with drift eliminators with a drift rate of not more than 0.005% of the circulated water flow rate for crossflow towers and 0.002% for
+counterflow towers when operated consistent with the equipment manufacturer's instructions and with the cooling tower, evaporative
+condensers, and fluid coolers; and
+d. If the cooling tower is 100 tons or more, the make-up and blowdown meters and overflow alarm shall be connected to the building's central
+energy management system or utility monitoring dashboard.
+2. A biocide shall be used to treat the cooling system recirculation to minimize the growth of Legionella and other microorganisms and to increase water
+use efficiency.
+3. Commercial and multifamily facilities constructed after September 5, 2017, with an evaporative cooling tower system with a combined cooling
+capacity equal to or greater than 100 tons, shall have a minimum of 10 percent of the cooling tower make-up water offset with reclaimed or onsite
+water reuse.
+Source: Ord. 20130606-090; Ord. 20140410-011, Pt. 6, 4-21-14; Ord. No. 20170608-056, Pt. 4, 9-6-17; Ord. No. 20191114-064, Pt. 18, 11-25-19; Ord. No. 20210603-
+058, Pt. 1, 9-1-21; Ord. No. 20250410-044, Pt. 1, 7-10-25.

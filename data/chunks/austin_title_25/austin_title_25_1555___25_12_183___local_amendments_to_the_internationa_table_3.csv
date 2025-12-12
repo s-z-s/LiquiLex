@@ -1,0 +1,30 @@
+Fire lane not required per Fire Code 503.1 and Driveway not required per WUIC 403.2,1__
+12 foot (3658 mm) or greater Driveway provided,3__
+Less than 12-foot (3658 mm) Driveway provided,5__
+6. Street Visible Signage,
+Present,1__
+Not present,3__
+B. Proximity to existing structures (includes adjacent properties),
+Greater than 10 feet (3048 mm) from nearest structure,1__
+10 feet (3048 mm) to 5 feet (1524 mm) from nearest structure,5__
+Less than 5 feet (1524 mm) from nearest structure,10__
+C. Fire Protection—Water Source,
+"Hydrant less than 500 feet or 600 feet for Group R-3 and U occupancies
+With fire sprinklers provided, sufficient fire flow per Appendix B",1__
+"Hydrant less than 500 feet or 600 feet for Group R-3 and U occupancies
+With no fire sprinklers provided, sufficient fire flow per Appendix B",2__
+"Hydrant farther than 500 feet or 600 feet for Group R-3 and U occupancies
+With fire sprinklers provided, sufficient fire flow per Appendix B",2__
+"Hydrant farther than 500 feet or 600 feet for Group R-3 and U occupancies
+With no fire sprinklers provided, sufficient fire flow per Appendix B",5__
+"Hydrant farther than 1,000 feet with fire sprinklers provided, sufficient fire flow per Appendix B",7__
+"Hydrant farther than 1,000 feet with no fire sprinklers provided, sufficient fire flow per Appendix B",10__
+Fire flow less than required per Fire Code Appendix B,10__
+Part 1 Total,
+PART 2,
+D. Vegetation (IWUIC Definitions),
+1. Fuel Types,
+Light,1__
+Medium,5__
+Heavy,10__
+2. Defensible Space,

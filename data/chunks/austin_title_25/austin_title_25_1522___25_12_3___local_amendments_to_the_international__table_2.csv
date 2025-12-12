@@ -1,0 +1,10 @@
+STORY,OCCUPANCY,"MAXIMUM NUMBER OF
+DWELLING UNITS","MAXIMUM EXIT ACCESS TRAVEL
+DISTANCE"
+"Basement, first, second, third,
+fourth, or fifth story above grade
+plane and occupiable roofs over
+the first, second, third, or fourth
+story.","R-2 a, b, c, d",4 dwelling units,125 feet
+"Sixth story above grade plane and
+higher",NP,NA,NA

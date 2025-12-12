@@ -1,0 +1,25 @@
+Meets requirements of Table 603.2 and EIZ (603.2.1),1__
+Does not meet requirements of Table 603.2 but meets EIZ 603.2.1,10__
+Does not meet requirements of Table 603.2 or EIZ 603.2.1,20__
+E. Topography,
+8% or less,1__
+"More than 8%, but less than 20%",4__
+"20% or more, but less than 30%",7__
+30% or more,10__
+F. Roofing Material,
+Class A Fire Rated,1__
+Class B Fire Rated,5__
+Class C Fire Rated,10__
+Nonrated/Unknown,20__
+G. Existing Building Construction Materials,
+Noncombustible siding/appendages,1__
+Noncombustible siding/combustible appendages,5__
+Combustible siding and appendages,10__
+H. Utilities (gas and/or electric),
+All underground utilities,1__
+"One underground, one above ground",3__
+All above ground,5__
+Part 2 Total,
+Total for Subdivision,
+Moderate Hazard 20—39,
+Extreme Hazard 40+,

@@ -1,0 +1,35 @@
+§ 25-9-32 - DEFINITIONS.
+In this division:
+(1) CONSTRUCTION, with reference to a facility, means only the actual physical construction of the facility. The term does not include the engineering and
+project management for a facility.
+(2) COST PARTICIPATION means a calculated percentage, as set forth in Section 25-9-62 (Amount of Cost Participation), of hard costs, plus up to 15% of
+the calculated percentage of hard costs to reimburse soft costs. The City would pay the sum of these amounts to the entity executing the agreement
+identified in Section 25-9-67 (Agreement).
+(3) DECENTRALIZED WASTEWATER SYSTEM means a wastewater system other than one that is connected to a City wastewater treatment plant, and
+includes an on-site wastewater disposal system, a cluster wastewater system, or a small wastewater treatment plant.
+(4) DIRECTOR means the director, or his designee, of the City's Austin Water department or successor department.
+(5) FACILITY means an apparatus or improvement that is used in conjunction with a water or wastewater main that provides water or wastewater service
+to a property, regardless of where the facility is located. The term includes a lift station, force main, wastewater treatment plant, pump station,
+reservoir, Pressure Reducing Valve station, a decentralized wastewater system component, alternative wastewater system, or an addition to an
+existing facility that increases the capability of the existing facility to provide water or wastewater service.
+(6) HARD COSTS means the actual cost of construction and materials determined after completion and final acceptance of a project.
+(7) OVERSIZE, with reference to a water or wastewater main or facility, means an increase in the size or capacity of the main or facility above the
+minimum size or capacity required by the Utilities Criteria Manual, including fire flow requirements, that is necessary to provide utility service to meet
+the projected demands of the property to be served.
+(8) SERVICE EXTENSION means a water or wastewater main or facility that provides new or additional water or wastewater service to a property.
+(9) SOFT COSTS means the cost of preliminary engineering reports, surveying, geotechnical studies, design, and project management of the construction
+and installation of a main or facility. This term does not include costs such as financing, interest, fiscal security, permitting, accounting, insurance,
+governmental fees (including inspection fees), legal services, easements, and all other soft costs associated with the construction of a main or facility.
+(10) SUITABLE AND SUFFICIENT SERVICE means the ability of the existing water and wastewater system at the property to appropriately serve the property
+and meet the size and capacity criteria as defined in the Utilities Criteria Manual.
+(11) WATER means potable water or reclaimed water as defined by Section 210.3(24) of Title 30 of the Texas Administrative Code.
+(12) WATER OR WASTEWATER MAIN means an appurtenance to a water distribution or wastewater collection system. The term includes all components
+and equipment necessary to make the water distribution or wastewater collection system operable in compliance with the design criteria and
+standards in the Utilities Criteria Manual, or the equivalent design criteria and standards as determined by the Director.
+(13) WATER OR WASTEWATER SERVICE LINE means the branch of pipe extending from the water or wastewater main to the approximate location of the
+property or easement boundary intended to provide direct retail service to a property.
+(14) WASTEWATER INTERCEPTOR means a wastewater main generally considered to be 18-inches in diameter or larger and to which direct connections for
+retail service to a property are not allowed, unless an exception is approved by the Director.
+(15) WATER TRANSMISSION MAIN means a potable water main generally considered to be 24-inches in diameter or larger and to which direct connections
+for retail service to a property are not allowed, unless an exception is approved by the Director.
+Source: Section 13-3-9(b); Ord. 990225-70; Ord. 000406-87; Ord. 031211-11; Ord. 20090820-061; Ord. 20130321-065; Ord. No. 20240307-037, Pt. 6, 3-18-24.

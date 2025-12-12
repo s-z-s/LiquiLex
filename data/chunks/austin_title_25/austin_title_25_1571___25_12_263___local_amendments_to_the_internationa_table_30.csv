@@ -1,0 +1,69 @@
+"Thermal
+distribution
+systems",Duct insulation: in accordance with Section R403.3.3.,,,,Duct insulation: as proposed m .
+,Duct location:,,,,Duct location: as proposed 1
+,"Foundation
+Type",Slab on grade,"Unconditioned
+crawl space","Basement or
+conditioned
+crawl space",
+,"Duct location
+(supply and
+return)","One-story
+building: 100%
+in
+unconditioned
+attic. All other:
+75% in
+unconditioned
+attic and 25%
+inside
+conditioned
+space","One-story
+building: 100%
+in
+unconditioned
+crawlspace. All
+other: 75% in
+unconditioned
+crawlspace and
+25% inside
+conditioned
+space","75% inside
+conditioned
+space 25%
+unconditioned
+attic",
+,"Duct system leakage to outside: For duct systems serving > 1,000 ft 2
+(92.9 m 2 ) of conditioned floor area, the duct leakage to outside rate
+shall be 4 cfm (113.3 L/min) per 100 ft 2 (9.29 m 2 of conditioned floor
+area. For duct systems serving ≤ 1,000 ft 2 (92.9 m 2 ) of conditioned
+floor area, the duct leakage to outside rate shall be 40 cfm (1132.7
+L/min).",,,,"Duct System Leakage to Outside: The measured
+total duct system leakage rate shall be entered into
+the software as the duct system leakage to outside
+rate.
+Exceptions:
+1. Where duct system leakage to outside is tested in
+Accordance ANSI/RESNET/ICC 380 or ASTME1554,
+the measured value shall be permitted to be
+entered.
+2. Where total duct system leakage is measured
+without the space conditioning equipment installed,
+the simulation value shall be 4 cfm (113.3 L/min) per
+100 ft 2 (9.29 m 2 ) of conditioned floor area."
+,"Distribution System Efficiency (DSE): For hydronic systems and
+ductless systems a thermal distribution system efficiency (DSE) of 0.88
+shall be applied to both the heating and cooling system efficiencies.",,,,"Distribution System Efficiency (DSE): For hydronic
+systems and ductless systems, DSE shall be as
+specified in
+Table R405.4.2(2)."
+Thermostat,"Type: Programmable, cooling temperature setpoint = 75°F
+Heating temperature setpoint = 72°F",,,,Same as standard reference design.
+Dehumidistat,"Where a mechanical ventilation system with latent heat recovery is not
+specified in the proposed design: None.
+Where the proposed design utilizes a mechanical ventilation system
+with latent heat recovery:
+Dehumidistat type: Manual, setpoint = 60% relative humidity.
+Dehumidifier: whole-dwelling with integrated energy factor = 1.77
+liters/kWh.",,,,Same as standard reference design.

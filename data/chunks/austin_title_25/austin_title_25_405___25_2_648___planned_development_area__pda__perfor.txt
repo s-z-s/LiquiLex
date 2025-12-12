@@ -1,0 +1,45 @@
+§ 25-2-648 - PLANNED DEVELOPMENT AREA (PDA) PERFORMANCE STANDARDS.
+(A) This section applies to a planned development area agreement or zoning district. The requirements of this section supersede conflicting provisions of a
+planned development area agreement or ordinance, if any. This section does not apply to a planned development area that does not contain an industrial
+use.
+(B) A planned area development may not produce a dangerous or objectionable element, as described in this section or a City administrative rule.
+(C) Dangerous or objectionable elements include dangerous, injurious, noxious, or objectionable noise, smoke, dust, odor, air pollution, heat, humidity, liquid
+or solid refuse or waste, light or glare, or other substance, condition, radiation, or element that adversely affects property or the use of property in the
+vicinity. This excludes resource recovery systems using solid waste.
+(D) A dangerous or objectionable element is measured in the manner prescribed by this subsection.
+(1) Noise, vibration, light, glare, odor, or radiation is measured at the point on the source property line that has the highest readings, or at any other
+point where the existence of the elements may be more apparent. Noise levels are determined in accordance with Information on Levels of
+Environmental Noise Requisite to Protect Public Health and Welfare with an Adequate Margin of Safety, Environmental Protection Agency, 1974.
+(2) Smoke or toxic or noxious matter is measured at the place of emission into the atmosphere.
+(3) For open industrial operations described in Subsection (E)(6), dust concentration is measured at ground level or a habitable elevation, and either at
+the property line or beyond it, whichever results in the highest measurement.
+about:blank 139/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(E) A dangerous or objectionable element may not exceed the limits prescribed by this subsection.
+(1) Except for noise from a transportation facility or construction work, noise may not exceed 55 decibels LAN during daylight hours and 45 decibels LAN
+during night time hours.
+(2) Earth borne vibrations may not exceed:
+(a) the limits in Column I below; or
+(b) if the point of measurement is a residential area boundary line or within 80 feet of a residential area boundary line that is located in a street right-
+of-way, the limits in Column II below.
+Column I Column II
+Frequency Cycles Per Second Displacement (inches) Displacement (inches)
+0 to 1 .0020 .0008
+1 to 10 .0010 .0004
+10 to 20 .0008 .0002
+20 to 30 .0005 .0001
+30 to 40 .0004 .0001
+40 and over .0003 .0001
+(3) A light or direct welding flash may not exceed 0.4 foot candles across the source property line. Light from these sources must be screened from an
+adjoining property.
+(4) Smoke may not be:
+(a) as dark or darker in shade as that designated as No. 0 on the Ringlemann Chart, as published by the United States Bureau of Mines; or
+(b) of an opacity that obscures an observer's view to a degree equal to or greater than smoke described in Subsection (E)(4)(a).
+(5) An emission of particulates for each one acre of property in a planned development area may not exceed:
+(a) for particulates that are 44 microns or smaller, one pound during any one hour; and
+(b) for particulates that are larger than 44 microns, 0.05 pounds during any one hour.
+(6) Open industrial operations that involve dust-producing equipment, including sandblasting, paint spraying, gravel and concrete batching, and similar
+operations, may not produce dust in a concentration that exceeds one million particles for each cubic foot at the point of measurement.
+(F) A planned development area must comply with the requirements for the storage, use, and manufacturing of explosives and hazardous materials in
+Chapter 6-2 (Hazardous Materials) and Chapter 25-12, Article 7 (Uniform Fire Code).
+Source: Section 13-2-269; Ord. 990225-70; Ord. 000309-39; Ord. 031211-11; Ord. No. 20190523-042, Pt 1, 6-3-19.

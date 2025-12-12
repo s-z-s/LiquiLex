@@ -1,0 +1,103 @@
+§ 25-12-52 - DEFINITIONS.
+(A) Except as otherwise provided, the definitions in this subsection apply to all articles in this chapter:
+(1) BASE FLOOD. A flood that has the following characteristics:
+(a) For areas amended to incorporate Atlas 14 data, a flood that has a one percent chance of being equaled or exceeded in any given year (100-year
+flood) calculated under fully developed conditions as prescribed by the Drainage Criteria Manual as amended to incorporate Atlas 14 data;
+(b) For areas not yet amended to incorporate Atlas 14 data, a flood that has a 0.2 percent chance of being equaled or exceeded in any given year
+(500-year flood) calculated under the conditions underlying the FEMA Flood Insurance Studies listed in Section 25-12-53(B)(1) or as calculated
+under existing conditions as prescribed by the Drainage Criteria Manual using data predating Atlas 14; or
+(c) For the Colorado River, a flood that has a one percent chance of being equaled or exceeded in any given year (100-year flood) calculated under
+the conditions underlying the FEMA Flood Insurance Rate Map dated January 6, 2016, or as subsequently revised.
+(2) BASE FLOOD ELEVATION. The elevation of the base flood, including wave height, relative to the National Geodetic Vertical Datum (NGVD), North
+American Vertical Datum (NAVD) or other datum specified on the Flood Insurance Rate Map (FIRM).
+(3) DESIGN FLOOD. A flood that has the following characteristics:
+(a) For areas amended to incorporate Atlas 14 data, a flood associated with an area of a floodplain subject to a one percent or greater chance of
+being flooded in any year (100-year flood) based on projected full development in accordance with the City of Austin Drainage Criteria Manual as
+amended to incorporate Atlas 14 data;
+(b) For areas not yet amended to incorporate Atlas 14 data, a flood associated with an area of a floodplain subject to a 0.2 percent or greater chance
+of being flooded in any year (500-year flood) calculated under the conditions underlying the FEMA Flood Insurance Studies listed in Section 25-12-
+53(B)(1), or as calculated under existing conditions as prescribed by the Drainage Criteria Manual using data predating Atlas 14;
+(c) For the Colorado River, a flood associated with an area of a floodplain subject to a one percent or greater chance of being flooded in any year
+(100-year flood) as depicted on the FEMA Flood Insurance Rate Map dated January 6, 2016, or as subsequently revised.
+(4) DESIGN FLOOD ELEVATION. The elevation of the "design flood" relative to the City of Austin vertical datum standard.
+(5) DEVELOPMENT. Any man-made change to improved or unimproved real estate, including but not limited to, buildings or other structures, temporary
+or permanent storage of materials, mining, dredging, filling, grading, paving, excavations, operations and other land disturbing activities.
+(6) FLOOD or FLOODING. A general and temporary condition of partial or complete inundation of normally dry land from:
+(a) the overflow of inland waters; or
+(b) the unusual and rapid accumulation or runoff of surface waters from any source.
+(7) FLOOD DAMAGE-RESISTANT MATERIALS. Any construction material capable of withstanding direct and prolonged contact with floodwaters without
+sustaining any damage that requires more than cosmetic repair.
+(8) FLOOD HAZARD AREA. An area that has the following characteristics:
+(a) For areas amended to incorporate Atlas 14 data, an area within a floodplain subject to a one percent or greater chance of being flooded in any
+year (100-year flood) based on projected full development in accordance with the City of Austin Drainage Criteria Manual as amended to
+incorporate Atlas 14 data;
+(b) For areas not yet amended to incorporate Atlas 14 data, an area of a floodplain subject to a 0.2 percent or greater chance of being flooded in any
+year (500-year flood) calculated under the conditions underlying the FEMA Flood Insurance Studies listed in 25-12-53(B)(1), or as calculated under
+existing conditions as prescribed by the Drainage Criteria Manual using data predating Atlas 14;
+(c) For the Colorado River, an area within a floodplain subject to a one percent or greater chance of being flooded in any year (100-year flood) as
+depicted on the FEMA Flood Insurance Rate Map dated January 6, 2016, or as subsequently revised.
+(9)
+about:blank 534/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+FLOOD INSURANCE RATE MAP (FIRM). An official map of a community on which the Federal Emergency Management Agency (FEMA) has delineated both the
+special flood hazard areas and the risk premium zones applicable to the community.
+(10) FLOOD INSURANCE STUDY. The official report provided by the Federal Emergency Management Agency containing the Flood Insurance Rate Map
+(FIRM), the Flood Boundary Map, the water surface elevation of the base flood, and supporting technical data.
+(11) FLOODWAY. The channel of the river, creek, or other watercourse and the adjacent land areas that shall be reserved in order to discharge the base
+flood without cumulatively increasing the water surface elevation more than a designated height. An area that has the following characteristics:
+(a) For the Colorado River, an area with a floodplain subject to a four percent or greater chance of flooding in any year (25-year flood) based on
+existing developed conditions as prescribed by the Drainage Criteria Manual using data predating Atlas 14; or
+(b) For all other rivers, creeks, and watercourses in areas amended to incorporate Atlas 14 data, an area with a four percent or greater chance of
+flooding in any year (25-year flood) based on a projected full development in accordance with the City of Austin Drainage Criteria Manual as
+amended to incorporate Atlas 14 data; or
+(c) For all other rivers, creeks, and watercourses in areas not yet amended to incorporate Atlas 14 data, an area with a one percent or greater chance
+of flooding in any year (100-year flood) based on a projected full development in accordance with the City of Austin Drainage Criteria Manual using
+data predating Atlas 14.
+(12) FUNCTIONALLY DEPENDENT FACILITY. A facility which cannot be used for its intended purpose unless it is located or carried out in close proximity to
+water, such as a docking or port facility necessary for the loading or unloading of cargo or passengers, shipbuilding or ship repair. The term does not
+include long-term storage, manufacture, sales or service facilities.
+(13) MANUFACTURED HOME. A structure that is transportable in one or more sections, built on a permanent chassis, designed for use with or without a
+permanent foundation when attached to the required utilities, and constructed to the Federal Mobile Home Construction and Safety Standards and
+rules and regulations promulgated by the U.S. Department of Housing and Urban Development. The term also includes mobile homes, park trailers,
+travel trailers and similar transportable structures that are placed on a site for 180 consecutive days or longer.
+(14) MANUFACTURED HOME PARK OR SUBDIVISION. A parcel (or contiguous parcels) of land divided into two or more manufactured home lots for rent or
+sale.
+(15) RECREATIONAL VEHICLE. A vehicle that is built on a single chassis, 400 square feet (37.16 m2) or less when measured at the largest horizontal
+projection, designed to be self-propelled or permanently towable by a light-duty truck, and designed primarily not for use as a permanent dwelling
+but, as temporary living quarters for recreational, camping, travel or seasonal use. A recreational vehicle is ready for highway use if it is on its wheels
+or jacking system, is attached to the site only by quick disconnect-type utilities and security devices and has no permanently attached additions.
+(16) REGULATORY FLOOD DATUM. An established plane of reference from which elevations and depth of flooding may be determined for specific
+locations of the floodplain. It is the water level of the design flood plus a freeboard factor of one foot. Design flood plus freeboard equals Regulatory
+Flood Datum.
+(17) SPECIAL FLOOD HAZARD AREA. The land area subject to flood hazards and shown on a Flood Insurance Rate Map or other flood hazard map as Zone
+A, AE, A1-30, A99, AR, AO, AH, V, VO, VE or VI-30.
+(18) START OF CONSTRUCTION. The date a permit is issued for new construction or substantial improvements to existing structures if construction,
+repair, reconstruction, rehabilitation, addition, placement or other improvement starts within 180 days from the date the permit is issued.
+Construction starts when permanent construction of a building (including a manufactured home) is first placed and includes pouring a slab or footing,
+installing pilings, or constructing columns. Permanent construction does not include preparing land (clearing, excavating, grading, or filing); installing
+streets or walkways; excavating for a basement, footing, pier, or foundation; or erecting temporary forms or installing accessory buildings not
+occupied as dwelling units or not part of the main building. For a substantial improvement, construction starts when a wall, ceiling, floor, or other
+structural part of a building is altered even if the alteration does not affect the external dimensions of the building.
+(19) SUBSTANTIAL DAMAGE. Damage of any origin sustained by a structure, whereby the cost of restoring the structure to its before-damage condition
+would equal or exceed 50 percent of the market value of the structure before the damage occurred.
+(20) SUBSTANTIAL IMPROVEMENT. For the purpose of determining compliance with the flood hazard management provisions of the Building Code, a
+substantial improvement is any combination of repair, reconstruction, rehabilitation, alteration, addition or other improvement of a building or
+structure during the immediate 10-year period, the cost of which cumulatively equals or exceeds 50 percent of the market value of the structure
+before the improvement or repair is started, or if the structure has been damaged and is being restored, before the damage occurred. If the structure
+has sustained substantial damage, any repairs are considered substantial improvement regardless of the actual repair work performed. The term
+does not, however, include either of the following:
+1. Any project for improvement of a building required to correct existing health, sanitary or safety code violations identified by the building official
+and that are the minimum necessary to assure safe living conditions.
+2. Any alteration of a historic structure, provided that the alteration will not preclude the structure's continued designation as a historic structure;
+for the purpose of this exclusion, a historic building is a building that is:
+a. listed or preliminarily determined to be eligible for listing in the National Register of Historic Places; or
+b.
+about:blank 535/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+determined by the Secretary of the U.S. Department of the Interior as contributing to the historical significance of a registered historic district or a district
+preliminarily determined to qualify as a historic district; or
+c. designated as historic under a State of Texas or local historic preservation program that is approved by the Department of the Interior.
+(22) VARIANCE. A grant of relief from the requirements of this article which permits construction in a manner otherwise prohibited by this article where
+specific enforcement would result in unnecessary hardship.
+(B) A term defined in an article in this chapter has the same meaning in this article.
+(Ord. No. 20210603-059, Pt. 4, 9-1-21; Ord. No. 20241121-079, Pt. 1, 12-2-2024)

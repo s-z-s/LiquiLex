@@ -1,0 +1,38 @@
+Roofs,Type: composition shingle on wood sheathing,As proposed
+,Gross area: same as proposed,As proposed
+,Solar reflectance = 0.25,As proposed
+,Emittance = 0.90,As proposed
+,Radiant barrier per R402.3,As proposed
+Attics,Type: vented with an aperture of 1 ft 2 per 300 ft 2 of ceiling area.,As proposed
+Foundations,Type: same as proposed,As proposed
+,"Foundation wall extension above and below grade: same as proposed.
+Foundation wall or slab perimeter length: same as proposed.
+Soil characteristics: same as proposed",As proposed
+,"Foundation wall U-factor and slab-on-grade F-factor: as specified in
+Table R402.1.2(2)",As proposed
+Opaque doors,Area: 40 ft 2,As proposed
+,Orientation: North,As proposed
+,"U-factor: same as fenestration from Table
+R402.1.2(2)",As proposed
+"Vertical
+fenestration
+other than
+opaque doors",Total area h = 15% of conditioned floor area,As proposed
+,"Orientation: equally distributed to four cardinal compass orientations
+(N, E, S & W)",As proposed
+,U-factor: area-weighted average of 0.35,As proposed
+,SHGC: 0.25,As proposed
+,"Interior shade fraction: 0.92 - (0.21 x SHGC for the standard reference
+design)","Interior shade fraction: 0.92-(0.21 x SHGC) as
+proposed"
+,External shading: none,As proposed
+Skylights,None,As proposed
+"Thermally
+isolated
+sunrooms",None,As proposed
+Air leakage rate,"For detached one-family dwellings, the air leakage rate at a pressure
+of 0.2-inch water gauge (50 Pa) shall be 4 air changes per hour. For
+detached one-family dwellings that are 1,500 ft 2 (139.4 m 2 ) or smaller
+and attached dwelling units or sleeping units, the air leakage rate at a
+pressure of 0.2-inch water gauge (50 Pa) shall be 0.27 cfm/ft 2 of the
+testing unit enclosure area.",The measured air leakage rate 1

@@ -1,0 +1,20 @@
+§ 25-6-664 - COMPUTATION OF IMPACT FEES TO BE COLLECTED.
+(A) The City shall compute the amount of street impact fees to be paid and collected for new development in the following manner:
+(1) Determine the number of development units for each land use category using the LUVMET then in effect.
+(2) Multiply the number of development units for each land use category in the new development by the service unit for each corresponding land use
+category in the LUVMET to determine the number of service units attributable to the new development.
+(3) Multiply the number of service units for the new development by the street impact fee per service unit to be collected for the applicable service area
+and applicable land use.
+(B) If an agreement as described in City Code Section 25-6-669 (Offsets Against Street Impact Fees) providing for offsets exists, the amount of the offsets shall
+be deducted from the street impact fees as calculated above.
+(C) If the applicant proposes to increase the number of service units for a development that has already paid a street impact fee, the additional street impact
+fees collected for such new service units shall be determined by using the LUVMET.
+(D) Any additional street impact fees shall be measured by the increase in the number of service units proposed from the number of service units from the
+preceding land use within the last five years.
+about:blank 396/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(E) If a building permit application is for a speculative building, the amount of the street impact fee shall be calculated assuming that the entire building will
+be used as either "General Office", "Light Industrial", or "Shopping Center" as shown in the LUVMET. When a subsequent application for a building permit
+is submitted, an additional street impact fee shall be calculated if the proposed use results in an increase of service units.
+Source: Ord. No. 20201210-062, Pt. 2, 12-21-20.
+Division 3. - Determination of Service Units.

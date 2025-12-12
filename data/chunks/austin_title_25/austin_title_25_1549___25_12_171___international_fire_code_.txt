@@ -1,0 +1,84 @@
+§ 25-12-171 - INTERNATIONAL FIRE CODE.
+(A) The International Fire Code and Appendices B and F, 2024 Edition, published by the International Code Council ("2024 International Fire Code") is adopted
+and incorporated by reference into this section with the changes described in Subsections (B), (C), (D), and (E) and Section 25-12-173(Local Amendments
+to 2024 International Fire Code).
+(B) The following sections of the 2024 International Fire Code are deleted. Unless specifically listed in this table, a subsection contained within a deleted
+section or subsection is not deleted:
+105.5.2 105.5.20 105.5.42 901.6.2.1
+105.5.3 105.5.21 105.5.43 901.6.2.2
+105.5.4 105.5.25 105.5.45 903.2.9.3
+105.5.6 105.5.26 105.5.46 917.2
+105.5.7 105.5.27 105.5.47 Chapter 10
+105.5.8 105.5.28 105.5.48 1103.4.1
+Table 105.5.9 105.5.31 105.5.49 1103.4.8
+105.5.10 105.5.32 105.5.50 1103.4.9
+105.5.12 105.5.33 105.5.52 5005.1.12
+105.5.13 105.5.35 105.6.3 through
+105.6.25
+about:blank 565/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+105.5.19 105.5.37 311.5.2 through
+311.5.5
+(C) The following provisions of the 2024 International Fire Code are amended. Unless specifically listed in this table, a subsection contained within an
+amended section or subsection is not amended:
+101.1 105.5.54 503.3 909.10.2 2305.1.3 5601.2.4 and
+subsections
+102.7.1 105.5.57 503.4.1 909.22.6 2305.2.1 5601.4
+102.7.2 105.6 503.6 912.5 2306.7.6.2 5607.4
+103.1 105.6.1 503.7 912.5.1 2701.4 5607.5
+103.2 105.6.2 504.1 915.1 entire section replaced 3103.4 5607.14
+103.3 106.1 505.1 916.1 3103.7.2 5703.4
+104.1 108.1 through 507.3 916.4 4104.2 5704.2.9.6.1
+108.6
+104.1.1 109.2.3 507.4 916.5 5001.2 5704.2.10
+104.13 112.1 507.5.1 916.6 5001.5 5704.2.10.1
+105.3.1 113.3.2 507.5.3 916.7 5001.5.2 5704.2.11.2
+105.5 113.3.3 508.1.6 916.10 Table 5003.1.1(1) 5704.2.11.4.1
+105.5.5 113.3.4 508.1.7 916.8 5003.3.1.4 5803.1.1
+105.5.9 203.3 510.5.3 1103.9 5003.9.8 6101.2
+105.5.11 203.6 605.4 and 1207.1 5003.13.2 6103.2.1.2
+subsections
+105.5.17 304.3.5 606.2 1207.1.3 5004.2 6103.2.2
+105.5.18 307.2 901.4.7.3 Table 1207.1.3 5004.2.1 6104.2
+105.5.22 307.4 901.6.2 1207.1.4 5004.2.2 6104.3.2
+105.5.23 311.5 901.6.3 1207.1.8 5004.2.2.1 6104.4
+105.5.24 311.5.1 903.2.1.6 1207.1.8.1 5004.2.2.5 6107.2
+105.5.29 314.4 903.2.4.2 1207.4.7 5004.2.2.6 6109.11.2
+105.5.30 320.2 903.3.1.1.1 1207.5.3 5306.2 Chapter 80, as
+reflected
+105.5.36 401.3 903.3.5 1207.5.4 5306.2.1 B104.1
+105.5.38 401.3.1 903.3.6 Table 1207.6 5306.2.2 B104.2
+about:blank 566/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+105.5.39 503.1 903.4.3 1207.6.5 5306.2.3
+105.5.41 503.1.1 904.14 1207.9.1 5306.3
+105.5.44 503.2.1 905.3.3 2301.1 5404.2
+105.5.51 503.2.4 905.4 2304.1 5404.2.1
+105.5.53 503.2.6 909.5 2304.2 5504.3.1.1
+(D) The following provisions are added to the 2024 International Fire Code:
+102.7.3 323 and subsections 903.3.1.2.4 912.5.5 5001.2.3
+105.5.16.1 324 and subsections 903.3.5.3 913.1.1 5001.7 and subsections
+105.5.16.2 401.3.4 and subsections 903.3.10 913.2.2.1 Table 5003.1.1(5)
+105.5.16.3 408 and subsections 907.2.1.3 913.3.1.2 5003.2.2.3
+105.5.22.1 409 and subsections 907.2.2.3 916.6.1 5003.2.4.3
+105.5.22.1.1 through 503.1.4 907.2.2.3.1 1001.1 5005.1.8.1
+105.22.1.4
+105.5.22.2 503.1.5 907.2.3.1 1032.2 5601.2.5 and subsections
+105.5.22.3 503.2.3.1 907.2.6.4 1103.5.6 5601.2.6
+105.5.22.4 503.2.6.1 907.6.1.1 1103.7.7 5607.11.1
+105.5.22.5 503.3.1 907.6.1.2 1203.2.20 5607.12.1
+105.5.22.6 503.3.2 907.6.1.3 1207.6.3 5607.16 and subsections
+105.5.22.7 505.3 907.6.1.4 1207.6.2.4 5607.17
+105.5.22.7.1 through 505.3.1 907.6.7 1207.6.5.1 through 5607.18
+105.5.22.7.11 1207.6.3
+308.5 and subsections 507.5.7 909.20.4.1 1207.1.8.3 5703.4.1 to
+5703.4.4.5.2
+308.6 and subsections 507.6 and subsections 909.20.4.2 2312.1 through 6303.1.1.2.1
+2312.8.6
+308.7 and subsections 611 and subsections 909.20.4.3 2403.5
+316.7 903.2.2.3 912.4.1.1 5001.1.2
+(E) The definition of High-hazard Group H in the 2024 International Fire Code is deleted.
+(F) The city clerk shall retain a copy of the 2024 International Fire Code with the official ordinances of the City.
+Source: Ord. No. 20171207-098, Pt. 1, 1-7-18; Ord. No. 20210603-056, Pt. 1, 9-1-21; Ord. No. 20250410-039, Pt. 1, 7-10-25.
+about:blank 567/690
+12/4/25, 4:54 PM Austin, TX Land Development Code

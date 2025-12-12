@@ -1,0 +1,38 @@
+,"LA
+RR
+SF-1
+SF-2
+SF-3","SF-4
+SF-5
+SF-6
+MF-1
+MF-2
+MF-3","MF-4
+MF-5
+MF-6
+MH","NO
+LO
+LR","L
+GO
+GR
+CBD
+DMU","CS
+CS-1
+CH","LI
+IP","AG
+DR"
+Residential uses,B,C,D,D,D,D,D,D
+"Commercial uses allowed in a LO or
+GO district",A,B,C,D,D,D,D,D
+"Commercial uses allowed in a
+commercial district other than LO or
+GO",A,A,B,C,D,D,D,D
+"Industrial uses allowed in a
+commercial district",A,A,B,B,C,D,D,D
+"Industrial uses not allowed in a
+commercial district",A,A,A,B,B,C,D,D
+"Civic uses allowed in a residential
+district",B,C,D,D,D,D,D,D
+"Civic uses not allowed in a residential
+district",B,B,C,C,D,D,D,D
+Agricultural uses,B,B,B,B,B,C,C,C

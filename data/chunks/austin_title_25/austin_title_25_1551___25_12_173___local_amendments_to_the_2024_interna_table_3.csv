@@ -1,0 +1,12 @@
+TECHNOLOGY,ENERGY CAPACITYa
+Capacitor ESS,3 kWhr
+Flow Batteries b,20 kWhr
+"Lead-acid batteries, all types","See Section 1207.1.2, item 3"
+Lithium-ion batteries,20 kWhr
+Nickel metal hydride (Ni-MH),70 kWhr
+Nickel-cadmium batteries (Ni-Cd),"See Section 1207.1.2, item 3"
+Other battery technologies,10 kWhr
+Other electrochemical ESS technology,3 kWhr
+"a. Energy capacity is the total energy capable of being stored (nameplate rating), not the usable energy rating. For units rated in amp-hours,
+kWhr shall equal rated voltage time amp-hour rating divided by 1,000.",
+"b. Shall include vanadium, zinc-bromine, polysulfide-bromide and other flowing electrolyte type technologies.",

@@ -1,0 +1,20 @@
+LOAD CATEGORY,DESCRIPTION OF ENERGY USE
+Total HVAC system,"Heating, cooling and ventilation, including but not limited to fans, pumps, boilers, chillers and
+water heating. Energy used by 120-volt equipment, or by 208/120-volt equipment that is located in
+a building where the main service is 480/277-volt power, is permitted to be excluded from total
+HVAC system energy use."
+Interior lighting,Lighting systems located within the building.
+Exterior lighting,Lighting systems located on the building site but not within the building.
+Plug loads,"Devices, appliances and equipment connected to convenience receptacle outlets."
+Process load,"Any single load that is not included in an HVAC, lighting or plug load category and that exceeds 5
+percent of the peak connected load of the whole building, including but not limited to data centers,
+manufacturing equipment and commercial kitchens."
+Electric vehicle charging,Electric vehicle charging loads that are powered through the building's electrical service.
+"Building operations and other
+miscellaneous loads","The remaining loads not included elsewhere in this table, including but not limited to vertical
+transportation systems, automatic doors, motorized shading systems, ornamental fountains,
+fireplaces, swimming pools, spas and snow-melt systems."
+"Electric hot water heating for uses other
+than space conditioning","Electricity used to generate hot water.
+Exception: Electric water heating with design capacity that is less than 10 percent of the building
+service rating."

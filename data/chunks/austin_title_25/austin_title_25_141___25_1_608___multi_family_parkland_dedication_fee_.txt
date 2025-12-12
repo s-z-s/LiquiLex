@@ -1,0 +1,34 @@
+§ 25-1-608 - MULTI-FAMILY PARKLAND DEDICATION FEE.
+(A) For purposes of determining the amount of a parkland dedication fee required for approval of a development permit proposing multi-family
+development, City Council has designated all the land within its municipal boundaries into geographic areas via separate ordinance. These designations
+may be modified as set out under state law.
+(B) The dwelling unit factor shall be:
+(1) .005 for multi-family units; and
+(2) .004 for rooms in a hotel or motel ordinarily used for sleeping.
+(C) The density factor shall be:
+(1) one for the suburban area;
+(2) four for the urban area; and
+(3) forty for the central business district area.
+(D) Every 10 years, the City will use the average land value for each geographic area calculated by the applicable appraisal district. For the years in which the
+applicable appraisal district does not calculate the average land value, the City shall calculate the average land value for each geographic area by
+multiplying the previous year's average land value for each geographic area by one plus the average CPI for each month of the previous year.
+(E) If the director has determined that an applicant will satisfy their parkland dedication requirements entirely by paying a parkland dedication fee, the dollar
+amount required is calculated using the following formula:
+{[(# of multifamily units) × .005] + [(# of hotel/motel rooms) × .004]} × (Avg Land Value of Geographic Area)/Density Factor
+(1) First, add the product of the number of multifamily units proposed to be developed by .005 and the product of the number of hotel and motel rooms
+ordinarily used for sleeping proposed to be developed by .004.
+(2) Then, multiply the sum calculated under Subdivision (E)(1) by the average land value for the geographic area where the development is located.
+(3) Finally, divide the number calculated under Subdivision (E)(2) by the applicable density factor.
+(F) If the director has determined that an applicant is satisfying their parkland dedication requirements through dedicating land and paying a parkland
+dedication fee, the dollar amount of parkland dedication fee owed is calculated using the following formula:
+[Parkland dedication fee per Subsection (E)] - [(Applicable land value) × (# of acres)]
+(1) First, calculate the amount of fee using the formula described in Subsection (E).
+(2) Then, subtract the product of the land value applicable to the land and the number of acres dedicated from the total amount of the parkland
+dedication fee.
+(G) If the applicant is dedicating land and paying a reduced fee, the applicant will only be required to dedicate for development approval an acreage amount
+that has a land value that does not exceed the amount of parkland dedication fee calculated under this section. Additionally, the acreage amount shall
+not exceed 10% of gross site area of the development.
+(H) If there is a remaining amount of parkland dedication fee after subtracting the land value of the acreage required to be dedicated as parkland, the
+applicant may choose to construct recreational facilities on the future parkland in lieu of paying the remaining parkland dedication fee amount. The
+recreational facilities must be shown on the subdivision or site plan application and constructed before the land is dedicated.
+Source: Ord. No. 20231130-087, Pt. 2, 1-1-24.

@@ -1,0 +1,206 @@
+§ 25-12-243 - LOCAL AMENDMENTS TO THE INTERNATIONAL RESIDENTIAL CODE.
+Each provision in this section is a substitute for the identically numbered provision deleted in Section 25-12-241(B), (C), and (D) (International Residential Code) or
+is an addition to the 2024 International Residential Code.
+R101.2.2 Plumbing. The provisions of the International Plumbing Code and the Plumbing Code apply when a person installs, alters, repairs, and replaces
+plumbing systems, including equipment, appliances, fixtures, fittings, and appurtenances, and where connected to a water or sewage system. The
+Plumbing Code supersedes the International Plumbing Code to the extent of conflict.
+Exception:
+1. A residential fire sprinkler system shall be designed and installed as required by Section P2904 and shall comply with the Fire Code. Backflow
+prevention shall be provided as required by the Plumbing Code.
+2. Chapter 30 (Sanitary Drainage), Chapter 31 (Vents), and Chapter 32 (Traps) in the 2024 International Residential Code may apply to tiny houses used
+as single-family homes to the point of the building drain and the building sewer junction. Water conservation and backflow prevention requirements
+shall comply with the Plumbing Code.
+R101.2.3 Building Criteria Manual. Additional information on procedures and rules related to administering the Residential Code is available in the
+Building Criteria Manual.
+R101.2.4 Persons authorized to obtain permits for mechanical work. Except as otherwise provided in Section R105 (Permits), only an air conditioning and
+refrigeration contractor licensed by the State of Texas to perform mechanical work and registered with the City may obtain a permit required by the
+Residential Code to perform mechanical work.
+R104.10 Flood Hazard Areas. A request for a variance to a flood hazard area requirement is decided in accordance with Chapter 25-12, Article 3 (Flood
+Hazard Areas).
+R105.2 Work Exempt from Permit. A permit is not required for the work described in this provision. Work exempt from a permit must still comply with this
+code and all other applicable laws and City Code requirements.
+Building:
+1. A one-story detached accessory structure that is no more than 200 square feet (18.58 m 2 ) of floor area, no more than 15 feet (4,572 mm) in height,
+does not create a dwelling, contains no plumbing, and is not located within a flood hazard area.
+2. Unless located within a flood hazard area, a fence that is not over seven feet (2,133.6 mm) high.
+3. Unless supporting a surcharge or located within a flood hazard, a retaining wall that is not over four feet (1,219 mm) in height measured from the
+bottom of the footing to the top of the wall.
+4. A water tank that is supported directly upon grade if the tank's capacity does not exceed 5,000 gallon and the ratio of height to diameter or width
+does not exceed 2 to 1, and the tank is not located within a flood hazard area.
+5. A sidewalk, driveway or concrete flatwork that is not located in the public right-of-way.
+6. Painting, papering, tiling, carpeting, cabinets, counter tops, and similar finish work.
+7. A swimming pool that is prefabricated and less than 24 inches (610 mm) deep. Anything not covered under Section 801.1 (General) of the 2024
+International Swimming Pool and Spa Code will be exempt.
+8. Playground equipment, including a swing.
+9. A window awning that does not project more than 54 inches (1,372 mm) from the exterior wall and the only required support is the exterior wall.
+10. Decks that meet the following criteria:
+a. Do not exceed an area of 200 square feet (18.58 m 2 );
+b. Do not exceed a height of 30 inches (762 mm) above grade at any point;
+c. Are not attached to a dwelling or townhouse;
+d. Do not provide egress from the dwelling; and
+about:blank 639/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+e. Are not located within a flood hazard area.
+11. A gypsum board repair that does not exceed 128 square feet, is not part of a fire resistance rated construction assembly, a shear-wall assembly, or a
+tub and shower surround.
+12. Asphalt shingles that replace existing asphalt shingles, unless the property is located in the Wildland-Urban Interface area and 50 percent or more of
+the roofing is being replaced.
+13. Replacement of any roof covering that does not adversely affect the roof structure, unless the property is located in the Wildland-Urban Interface area
+and 50 percent or more of the roofing is being replaced.
+14. A foundation repair that does not exceed 128 square feet.
+15. A floor decking repair that does not exceed 128 square feet.
+16. A non-structural exterior deck repair that is limited to the existing deck boards and does not include guardrails or handrails.
+17. Repairing or replacing exterior trim components including wood fascia, trim, and soffits.
+18. Siding that does not exceed 128 square feet and is not part of a fire-resistance rated assembly.
+19. Roof decking that does not exceed 128 square feet.
+20. Replacing or installing an overhead garage door on a garage.
+21. Replacing doors of same size and operation.
+22. Other work as determined by the building official.
+Mechanical:
+1. A portable heating appliance.
+2. A portable ventilation appliance.
+3. A portable cooling unit.
+4. A steam, hot- or chilled-water pipe within heating or cooling equipment regulated by the Residential Code.
+5. Replacing a minor part of equipment that does not alter its approval or make it unsafe.
+6. A portable evaporative cooler.
+7. A self-contained refrigeration system that contains 10 pounds (4.54 kg) or less of refrigerant or that is actuated by motors of one horsepower (746 W)
+or less.
+8. A portable-fuel-cell appliance that is not connected to a fixed pipe system and is not interconnected to a power grid.
+9. Replacing supply and return duct runs.
+10. Replacing an exhaust or dryer duct run measuring less than 15 feet (4,572 mm) in length.
+11. Increase the number of supply registers within existing duct run.
+12. Other work as determined by the building official.
+R105.3.1.1 In flood hazard areas, determination of substantially improved or substantially damaged existing buildings. For an application to
+reconstruct, rehabilitate, add or otherwise improve an existing building or structure located in a flood hazard area, the building official shall examine or
+require another to examine the construction documents and shall prepare a finding with regard to the value of the proposed work. If the work is a
+substantial improvement as defined in Section R202 (Definitions), the proposed work shall comply with Chapter 25-12, Article 3 (Flood Hazard Areas).
+R105.5 Time Limits. Article 13 (Administration of Technical Codes) of Chapter 25-12 establishes permit application time limits and requirements applicable
+to permit expiration and reactivation, including a review fee for expired permits.
+R105.10 Registration. An air conditioning and refrigeration contractor shall register with the City before performing any work regulated by this code.
+R106.1.4 Information for Construction in Flood Hazard Areas. For a building or structure located in whole or in part in flood hazard areas as established
+by Table R301.2(1) (Climatic and Geographic Design Criteria), the construction documents shall comply with Chapter 25-12, Article 3 (Flood Hazard Areas).
+R109.5 Residential change-out program. The building official may establish, by rule, an inspection program for repair or replacement of certain
+components in individual owned and occupied dwellings within the zoning jurisdiction of the City.
+R112.5 Modifications from flood plain management regulations. A request for a variance to a flood hazard area requirement is decided in accordance
+with Chapter 25-12, Article 3 (Flood Hazard Areas).
+R202 Definitions
+HEIGHT, BUILDING has the same meaning as "height" as defined in City Code Section 25-1-21(Definitions).
+START OF CONSTRUCTION means the date a permit is issued for new construction or substantial improvements to existing structures if construction,
+repair, reconstruction, rehabilitation, addition, placement or other improvement starts within 180 days from the date the permit is issued. Construction
+starts when permanent construction of a building (including a manufactured home) is first placed and includes pouring a slab or footing, installing pilings,
+about:blank 640/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+or constructing columns. Permanent construction does not include preparing land (clearing, excavating, grading, or filing); installing streets or walkways;
+excavating for a basement, footing, pier, or foundation, erecting temporary forms or installing accessory buildings not occupied as dwelling units or not
+part of the main building. For a substantial improvement, construction starts when a wall, ceiling, floor, or other structural part of a building is altered even
+if the alteration does not affect the external dimensions of the building.
+SUBSTANTIAL DAMAGE means an amount of damage that results in restoration costs that equal or exceed 50 percent of the market value of the structure
+before the damage occurred.
+SUBSTANTIAL IMPROVEMENT means any combination of repairs, alterations, reconstructions, rehabilitations, additions, or improvements to a building or
+structure during the immediate 10-year period with cumulative costs that equal or exceed 50 percent of the market value of the structure before the
+improvement or repair is started or, if the structure was damaged and is being restored, before the damage occurred. If the structure has sustained
+substantial damage, any repairs are considered substantial improvement regardless of the actual repair work performed. Substantial improvement does
+not include:
+1. an improvement required to correct existing health, sanitary, safety code violations identified by the building official and that are the minimum
+necessary to assure safe living conditions; or
+2. an alteration to a historic structure if the alteration will not disqualify the structure from continuing its designation as a historic structure, which
+means a structure that is listed or preliminarily determined eligible for listing in the National Register of Historic Places, determined by the Secretary
+of the United States Department of Interior as contributing to the historical significance of a registered historic district, or a district preliminarily
+determined to qualify as a historic district, or designated as historic under a State of Texas or local historic preservation program that is approved by
+the United States Department of the Interior.
+SURCHARGE means the vertical load imposed on retained soil that may impose a lateral force in addition to the lateral earth pressure of retained soil.
+VISITABLE DWELLING means a dwelling subject to Visitability requirements in section R322 (Accessibility and Visitability).
+TABLE R301.2 CLIMATIC AND GEOGRAPHIC DESIGN CRITERIA
+Ground Wind Design Seismic Subject to Damage From Ice Barrier Flood Air Me
+Snow Design Underlayment Hazards g Freezing An
+Speed Topographic Special Windborne Weathering Frost Termite
+Load o d Category a c Required h Index i Tem
+(mph) Effects k Wind Debris Line
+Region zone m Depth
+l b
+5 105 No No No A Negligible 12 in Yes No Construction 30 68.
+(305 Commenced
+mm) After
+9/2/1981
+MANUAL J DESIGN CRITERIA
+Elevation Altitude correction Coincident wetbulb Indoor winter design Indoor winter Outdoor winter design dry- Heating
+factor drybulb temperature design dry-bulb bulb temperature temperature
+temperature difference
+597 M 74 72 30 42
+Latitude Daily range Indoor summer Indoor summer design Indoor summer Outdoor summer design dry- Cooling
+design relative relative humidity design dry-bulb bulb temperature temperature
+humidity temperature difference
+30 M 50 74 100 26
+R301.2.4 Floodplain Construction. A building or structure constructed in whole or in part in a flood hazard area (including A Zones) as established in Table
+R301.2(1) and substantial improvement and repair of substantial damage of a building or structure in a flood hazard area shall be designed and
+constructed according to Chapter 25-12, Article 3 (Flood Loads and Hazard Areas).
+about:blank 641/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+R318.2 Egress Door. Not less than one egress shall be provided for each dwelling unit. The egress door shall be a side-hinged, pivoted, or balanced door
+type and shall provide a clear width not less than 32 inches (813 mm) where measured between the face of the door and the stop, with the door open 90
+degrees (1.57 rad). The clear height of the door opening shall not be less than 78 inches (1981 mm) in height measured from the top of the threshold to the
+bottom of the stop. Other doors shall not be required to comply with these minimum dimensions. Egress doors shall be readily openable from inside the
+dwelling unit without the use of a key or special knowledge or effort.
+R322 Accessibility and Visitability.
+R322.1 Scope. Where there are three or more dwelling units or sleeping units in a single structure, the provisions of Chapter 11 (Accessibility) of the
+Building Code for Group R-3 shall apply. Visitability Section R322 shall apply to the new construction of dwelling units that are subject to this code and
+include habitable space on the first floor.
+Exceptions:
+1. Owner-occupied lodging houses with five or fewer guestrooms are not required to be accessible.
+2. Existing buildings subject to the Building Code shall comply with the Existing Building Code Section 306 (Accessibility for Existing Buildings).
+3. Tiny homes as defined by the Residential Code.
+4. Remodels and additions to existing visitable dwellings shall not eliminate previously approved Visitability features without replacing them with equally
+compliant features required for new dwellings with permit application dates as shown below:
+a. Existing dwellings with a building permit application filing date between February 10, 2014 and June 30, 2015, shall remain compliant with
+Visitability requirements with the exception of Section R322.9 (Exterior Visitable Route).
+b. Existing dwellings with a building permit application filing date of July 1, 2015 and later shall remain compliant with all Visitablility requirements
+including an Exterior Visitable Route. Dwellings that were exempted from the provision of an Exterior Visitable Route per Section R322.9.1 (Waiver
+of Exterior Visitable Route) shall not be retroactively required to provide an Exterior Visitable Route or reapply for a waiver.
+R322.2 Live/Work Units. In live/work units, the nonresidential portion shall be accessible in accordance with Sections 508.5.9 and 508.5.11 of the Building
+Code. In a structure where there are four or more live/work units, the dwelling portion of the live/work unit shall comply with Section 1108.6.2.1 of the
+Building Code.
+R322.3 Care Facilities. Where care facilities are permitted to be constructed in accordance with Section R101.2, the portions of the dwelling used to
+operate a business providing care shall be accessible in accordance with Chapter 11 (Accessibility) of the Building Code.
+R322.4 Compliance Required at Plan Review. A permit application for a visitable dwelling must include detailed plans that demonstrate compliance with
+Section R322 (Visitability).
+R322.5 Visitable Bathrooms. A visitable dwelling must be designed and constructed with at least one bathroom group or a half bath on the first floor that
+meets the following requirements:
+1. a clear opening of at least 30 inches;
+2. lateral two-inch by six-inch or larger nominal wood blocking is installed flush with stud edges of bathroom walls; and
+3. except for the portion of the wall located directly behind the lavatory, the centerline of the blocking is 34 inches from and parallel to the interior floor
+level.
+R322.6 Visitable Light Switches, Receptacles, and Environmental Controls. The first floor of a visitable dwelling must meet the following requirements:
+1. light switches and environmental controls are less than 48 inches above the interior floor level; and
+2. except for floor outlets and receptacles, outlets and receptacles are at least 15 inches above the interior floor level.
+R322.7 Visitability Bathroom Route. A bathroom group or half bathroom designated for visitability under R322.5 (Visitable Bathrooms) must be accessible
+by a route with a clear opening of at least 32 inches that begins at the visitable entrance designated under R322.8 (Visitable Dwelling Entrance) and
+continues through the living room, dining room, and kitchen, and is level with ramped or beveled changes at door thresholds.
+Exception: Provided an alternate route is available, a visitable route is not required through an area located on a split-level or sunken floor.
+R322.8 Visitable Dwelling Entrance. A visitable dwelling must include at least one no-step entrance with a beveled threshold of one-half inch or less and a
+door with a clear width of at least 32 inches. This entrance may be located at the front, rear, side, or in the garage or carport of the dwelling.
+R322.9 Exterior Visitable Route. An entrance that complies with R322.8 (Visitable Dwelling Entrance) must be accessible using a route with a cross slope of
+no greater than two percent (1:50) that originates from a garage, driveway, public street, or public sidewalk. An exterior route that includes a ramp must
+comply with the Residential Code.
+R322.9.1 Waiver of Exterior Visitable Route Provision for Certain Properties. The requirements of R322.9 do not apply to a lot with 10 percent or greater
+slope that existed prior to development; or to a property that requires the use of switchbacks to comply with R322.9.
+about:blank 642/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+The Building Official may also waive the requirements for an Exterior Visitable Route if the applicant provides documentation as required by the Building
+Official.
+R325.9 Required Air Conditioning.
+1. An owner shall:
+a. provide, and maintain, in operating condition, refrigerated air equipment capable of maintaining a room temperature that is at least 15 degrees
+cooler than the outside temperature, but in no event higher than 85°F in each habitable room; and
+b. maintain all fixed air conditioning systems, including air conditioning unit covers, panels, conduits, and disconnects, in operating condition,
+property attached; and
+2. The required room temperatures shall be measured three feet (914 mm) above the floor near the center of the room and two feet (610 mm) inward
+from the center of each exterior wall.
+R905.7.4 Material Standards for Wood Shingles. Wood shingles shall be of naturally durable wood and shall comply with the requirements of Section
+R902.2 and Table R905.7.4.
+R905.8.5 Material Standards for Wood Shakes. Wood shakes shall comply with the requirements of Section R902.2 and Table R905.8.5.
+Part IV(Energy Conservation)
+Chapter 11 Energy Efficiency
+N1101.1 Scope. The residential provisions of City Code Chapter 25-12, Article 12 (Energy Code) apply to the design and construction of buildings regulated
+by the Residential Code.
+Source: Ord. No. 20170406-048, Pt. 1, 7-5-17; Ord. No. 20191114-064, Pts. 20—26, 11-25-19; Ord. No. 20210603-054, Pt. 1, 9-1-21; Ord. No. 20250410-040, Pt. 1, 7-10-
+25.

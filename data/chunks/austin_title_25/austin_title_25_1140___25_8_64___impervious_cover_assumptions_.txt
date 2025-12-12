@@ -1,0 +1,19 @@
+§ 25-8-64 - IMPERVIOUS COVER ASSUMPTIONS.
+(A) This section applies to impervious cover calculations for duplex or single-family lots.
+(B) Except as provided in Subsection (C):
+(1) for each lot greater than three acres in size, 10,000 square feet of impervious cover is assumed;
+(2) for each lot greater than one acre and not more than three acres in size, 7,000 square feet of impervious cover is assumed;
+(3) for each lot greater than 15,000 square feet and not more than one acre in size, 5,000 square feet of impervious cover is assumed;
+(4) for each lot greater than 10,000 square feet and not more than 15,000 square feet in size, 3,500 square feet of impervious cover is assumed;
+(5) for each lot greater than 5,750 square feet and not more than 10,000 square feet in size, 2,500 square feet of impervious cover is assumed; and
+(6)
+about:blank 423/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+for each residential lot not more than 5,750 square feet in size, the amount of impervious cover assumed is;
+(a) the maximum amount of impervious cover allowed under the applicable zoning district regulations; or
+(b) for lots in the extraterritorial jurisdiction, 2,500 square feet of impervious cover.
+(C) For a lot that is restricted to a lesser amount of impervious cover than prescribed by this section, the lesser amount of impervious cover is assumed. The
+manner in which the lot is restricted is subject to the approval of the director.
+(D) Except as provided in Subsection (C), this section does not restrict impervious cover on an individual lot.
+Source: Ord. 000406-85; Ord. 010329-18; Ord. 031211-11; Ord. 20060126-069; Ord. No. 20221027-045, Pt. 12, 11-7-22; Ord. No. 20230831-141, Pt. 45, 9-11-23; Ord.
+No. 20250306-037, Pt. 5, 5-23-25.

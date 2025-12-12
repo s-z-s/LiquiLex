@@ -1,0 +1,63 @@
+§ 25-13-44 - AIRPORT OVERLAY LAND USE TABLE.
+(A) The Airport Overlay Land Use Table in Subsection (C) prescribes the land uses that are permitted, permitted under certain conditions including noise level
+reduction measures, or prohibited in the airport overlay zones. Chapter 25-12, Article 1, Division 2 (Noise Level Reduction Measures For Certain Airport
+Compatible Land Uses) prescribes the noise level reduction measures required by this section for certain land uses.
+(B) In the Airport Overlay Land Use Table:
+(1) "P" means the land use and related structures are permitted.
+(2) "P-25db" means the land use and related structures are permitted, but measures to achieve a minimum outdoor-to-indoor noise level reduction of 25
+decibels are required for a structure.
+(3) "P-30db" means the land use and related structures are permitted, but measures to achieve a minimum outdoor-to-indoor noise level reduction of 30
+decibels are required for a structure.
+(4) "P-25db certain areas" means the land use and related structures are permitted, but measures to achieve a minimum outdoor-to-indoor noise level
+reduction of 25 decibels are required for a portion of a building that is a public reception area, an office, a noise sensitive area, or an area where the
+normal noise level is low.
+about:blank 686/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(5) "P-sound system" means the land use and related structures are permitted, but a special sound reinforcement system is required.
+(6) "P-25db residential" means the land use and related structures are permitted, but measures to achieve a minimum outdoor-to-indoor noise level
+reduction of 25 decibels are required for a residential building.
+(7) "P-30db residential" means the land use and related structures are permitted, but measures to achieve a minimum outdoor-to-indoor noise level
+reduction of 30 decibels are required for a residential building.
+(8) "R" means that the land use and related structures are restricted by Section 25-13-45 (Residential And School Uses In Airport Overlay Zone Three).
+(9) "X" means the land use and related structures are prohibited.
+(C) Airport Overlay Land Use Table.
+Land Use AO-1 AO-2 AO-3
+Residential Uses
+All residential X X R
+Public Uses
+Schools X X R
+Hospitals and nursing homes P-30db P-30db P-25db
+Churches, auditoriums, and P-30db P-30db P-25db
+concert halls
+Government services P-25db P P
+Transportation P-25db certain areas P P
+Parking P-25db certain areas P P
+Commercial Uses
+Hotel or motel P-30db P-25db P-25db
+Offices, business and professional P-25db P P
+Wholesale and retail - building P-25db certain areas P P
+materials, hardware, and farm
+equipment
+Retail trade - general P-25db P P
+Utilities P-25db certain areas P P
+Communication P-25db P P
+Manufacturing and Production
+Uses
+Manufacturing, general P-25db certain areas P P
+Photographic and optical P-25db P P
+Farming, ranching, and forestry P-30db residential P-25db residential P-25db residential
+about:blank 687/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Mining and fishing, resource P P P
+production and extraction
+Recreational Uses
+Outdoor sports arenas and P-sound system P-sound system P-sound system
+spectator sports
+Outdoor music shells, X X X
+amphitheaters
+Nature exhibits and zoos X P P
+Amusements, parks, resorts, and P P P
+camps
+Golf courses, riding stables, and P-25db P P
+water recreation
+Source: Ord. 010809-78; Ord. 031211-11.

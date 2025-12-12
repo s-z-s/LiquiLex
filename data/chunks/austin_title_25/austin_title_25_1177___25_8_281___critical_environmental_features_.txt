@@ -1,0 +1,44 @@
+§ 25-8-281 - CRITICAL ENVIRONMENTAL FEATURES.
+(A) Drainage patterns for proposed development must be designed to protect critical environmental features from the effects of runoff from developed
+areas, and to maintain the catchment areas of recharge features in a natural state. Special controls must be used where necessary to avoid the effects of
+erosion, or sedimentation, or high rates of flow.
+(B) A residential lot may not include a critical environmental feature or a critical environmental feature buffer zone and may not be located within 50 feet of a
+critical environmental feature.
+(C) This subsection prescribes the requirements for critical environmental feature buffer zones.
+about:blank 435/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(1) A buffer zone is established around each critical environmental feature described in this subchapter.
+(a) Except as provided in Subsection (C)(1)(b), the width of the buffer zone is 150 feet from the edge of the critical environmental feature.
+(b) For a point recharge feature, the buffer zone coincides with the topographically defined catchment basin, except that the width of the buffer zone
+from the edge of the critical environmental feature is:
+(i) not less than 150 feet;
+(ii) not more than 300 feet; and
+(iii) calculated in accordance with the Environmental Criteria Manual.
+(2) Within a buffer zone described in this subsection:
+(a) the natural vegetative cover must be retained to the maximum extent practicable;
+(b) construction is prohibited; and
+(c) wastewater disposal or irrigation is prohibited.
+(3) If located at least 50 feet from the edge of the critical environmental feature, the prohibition of Subsection (C)(2)(b) does not apply to:
+(a) a hiking trail;
+(b) a recharge basin approved under Section 25-8-213 (Water Quality Control Standards) that discharges to a point recharge feature; or
+(c) an innovative runoff management practice approved under Section 25-8-151 (Innovative Management Practices) that is designed to address the
+standards of this section, enhance the recharge of groundwater and the discharge of springs, and maintain the function of critical environmental
+features.
+(4) Perimeter fencing with not less than one access gate must be installed at the outer edge of the buffer zone for all point recharge features. The fencing
+must comply with the Standard Specifications Manual.
+(5) The owner must maintain the buffer zone in accordance with standards in the Environmental Criteria Manual to preserve the water quality function of
+the buffer.
+(6) All critical environmental feature locations and required setbacks must be shown on preliminary subdivision plans, site plans, and other permits as
+determined by the director.
+(7) All critical environmental feature locations must be shown on final plats.
+(D) When voids in the rock substrate are uncovered during development, the following protocol must be followed:
+(1) construction in the area of the void must cease while the applicant conducts a preliminary investigation of the void as prescribed by the
+Environmental Criteria Manual.
+(2) The applicant shall contact a City of Austin Environmental Inspector to schedule further investigation by the City of the void as prescribed by the
+Environmental Criteria Manual if the preliminary investigation indicates that the void:
+(a) is at least one square foot in total area;
+(b) blows air from within the substrate;
+(c) consistently receives water during any rain event; or
+(d) potentially transmits groundwater.
+(3) Construction may only proceed after mitigation measures are reviewed and approved by the Watershed Protection Department.
+Source: Section 13-7-21; Ord. 990225-70; Ord. 010329-18; Ord. 031211-11; Ord. 20120524-083; Ord. 20131017-046; Ord. No. 20221027-045, Pt. 26, 11-7-22.

@@ -1,0 +1,244 @@
+§ 25-12-113 - LOCAL AMENDMENTS TO THE 2023 ELECTRICAL CODE - ADMINISTRATION AND ENFORCEMENT.
+The following provisions are local amendments to the 2023 Electrical Code. Each provision of this section is a substitute for any identically numbered provision of
+the 2023 Electrical Code deleted by Section 25-12-111(B) (Electrical Code) or is an addition to the 2023 Electrical Code:
+80.2 Definitions. The following definitions apply to the Electrical Code.
+AGENT. A person designated by an electrical contractor to obtain an electric permit on behalf of the electrical contractor. An agent must be the owner or
+an employee of the electrical contracting business.
+CITATION. A document described in City Code Chapter 1-3 (Citation Program).
+CONTRACTOR. A person who is an electrical contractor.
+ELECTRICAL CONTRACTOR. A person licensed as an electrical contractor by the Texas Department of Licensing and Regulation (TDLR), engaged in electrical
+contracting, and registered with the City.
+ELECTRICAL CONTRACTING. The business of designing, installing, erecting, repairing, maintaining, or altering electrical wires or conductors to be used for
+light, heat, power, or signaling purposes. The term includes the installation or repair of ducts, raceways, or conduits for the reception or protection of wires
+or conductors and the installation or repair of any electrical machinery, apparatus, or system used for electrical light, heat, power, or signaling.
+ELECTRICAL INSPECTOR. An individual who meets the requirements of Section 5.2.11 in the Building Criteria Manual.
+ELECTRICAL WORK. Installing, altering, repairing, or erecting any electrical wiring apparatus, raceways, or equipment used in connection therewith,
+whether inside or outside of a building or structure, lot or premises, under the requirements of the Electrical Code.
+OFFER TO PERFORM. A written or verbal communication, proposal, or advertisement that indicates or implies a person is available to contract for or
+perform electrical work.
+REGISTRANT. A person required to register with the City as set forth in Section 80.37 (Registration).
+REPLACEMENT. The act or process to replace something of like design.
+about:blank 543/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+RESIDENTIAL BUILDING OR STRUCTURE. Single-family, two-family, and multifamily dwelling units of five stories or less in height and located in a residential
+zone.
+STATE ELECTRICAL CODE. The National Electrical Code adopted by the Texas Department of Licensing and Regulation.
+TEXAS DEPARTMENT OF LICENSING AND REGULATION. The state agency responsible for administering and enforcing Title 8, Chapter 1305 of the Texas
+Occupations Code and 16 Texas Administrative Code Chapter 73.
+WORKMANLIKE MANNER. The standard established in Section 110.12 (Mechanical Execution of Work).
+80.15. Electric Board. The Electric Board shall comply with City Code Chapter 2-1 (Boards and Commissions).
+80.19(C) Issuance of Permits.
+(1) Standard Permits.
+(a) Except as provided in Section 80.19(C)(5) (Homestead Permit), an applicant for an electrical permit must be an electrical contractor.
+(b) The building official is responsible for reviewing applications, plan specifications, and other data submitted by an applicant. Other departments
+may review the plans as necessary to verify compliance with applicable laws.
+(c) The building official must issue a permit to an applicant if:
+(i) the building official finds that the work described in the permit application and in the plans, specifications, and other support data submitted
+with the application conform to the requirements of the Electrical Code and other applicable laws and ordinances; and
+(ii) the required fees have been paid.
+(d) A permit issued by the building official is not effective unless it includes a written statement that the plans and specifications were reviewed. In
+this section, a written statement means a stamp that reads "REVIEWED FOR CODE COMPLIANCE" and is placed on the plans and specifications.
+(e) After the permit is issued, a person may not change, modify, or alter plans and specifications without the approval of the building official.
+(f) Work regulated by the Electrical Code shall be done consistent with reviewed plans and specifications.
+(g) If a building, structure, or tenant finish out will exceed 5,000 square feet, a Professional Engineer licensed by the State of Texas must seal the
+required drawing.
+(h) If a building, structure, or tenant finish out is 5,000 square feet or less, a master electrician licensed by the Texas Department of Licensing and
+Regulation must sign the required drawing and include the master electrician's license number or a Professional Engineer licensed by the State of
+Texas may seal the required drawing.
+(i) The building official may issue a permit for the construction of part of an electrical system before the plans and specifications for the entire
+system have been submitted or approved if the applicant provides adequate information and detailed statements that comply with the
+requirements of the Electrical Code. The electrical permit holder may proceed at the permit holder's own risk, without assurance that the permit
+for the entire building, structure, or building service will be approved. The issuance of a permit for part of an electrical system does not obligate
+the building official to approve the remaining electrical permits.
+(2) Permit required. Except as specified in Section 80.19(C)(3), a person who intends to install, alter, repair, replace, or remodel an electrical system must
+apply for and obtain a permit before the activity commences.
+(3) Exempt work. Work that may be performed without an electrical permit must comply with all applicable federal, state, and local requirements. An
+electrical permit is not required:
+(a) to replace an approved cable or cord and plug connected to a motor or portable appliance;
+(b) to replace components of approved equipment or a fixed approved appliance of same type and rating, in the same location;
+(c) to install temporary holiday decorative lighting;
+(d) when the maximum voltage is 480 and the maximum ampacity is 30, to replace a snap, single, three-way, or four-way or dimmer switch,
+receptacle, ceiling paddle fan, or luminaire;
+(e) to reinstall a receptacle with a ground-fault circuit interrupter receptacle, a tamper-resistance receptacle, an arc-fault circuit interrupter
+receptacle, or weather-resistance receptacle;
+(f) when the service will not be de-energized, to replace an overcurrent protection device or fuse of same voltage and amperage and in the same
+location;
+(g) to repair or replace an electrode or transformer of the same size and capacity for a sign or gas tube system;
+(h) to replace insulating material to a splice;
+(i) to remove electrical and communication wiring;
+(j) to install temporary wiring for experimental purposes in a suitable experimental laboratory;
+(k) to install wiring for a temporary theater, motion picture, or television stage set;
+(l)
+about:blank 544/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+to install or repair an electrical device, appliance, apparatus, equipment, or electrical wiring operating at less than 25 volts and not capable of supplying more than
+50 watts of energy;
+(m) to install or repair a low-energy power, control and signal circuit of Class II or Class III as defined in the 2023 Electrical Code;
+(n) for the following activities, if performed in connection with the transmission of electrical energy: to install, alter, or repair electrical wiring,
+apparatus, equipment, or the generation, transmission, distribution, or metering of electrical energy;
+(o) to operate signals or to transmit intelligence by a public or private utility in the exercise of its function as a serving utility; or
+(p) except for activities related to electrical service, for electrical work in a building or structure owned and occupied by the State of Texas or the
+federal government.
+(4) Emergency repair permits. An applicant who seeks a permit to make emergency electrical repairs on non-exempt work must identify the emergency
+on the permit application.
+(5) Homestead permit.
+(a) A person who is not licensed to perform electrical work may perform electrical work under a homestead permit if:
+(i) the residence is the person's homestead and principal residence;
+(ii) the electrical work does not include the main electric system;
+(iii) the person has not secured a homestead permit for another residence within the prior 12-month period;
+(iv) the person has owned and occupied the property as of January 1 of the tax year in which the person applies for a homestead permit;
+(v) the person applies for a homestead permit in person and files an affidavit stating that the location where the work will be done is the person's
+homestead;
+(vi) the person obtains a homestead permit and pays any required permit fees before electrical, mechanical, or plumbing work begins;
+(vii) the person does not allow or cause another person to perform electrical work under the permit;
+(viii) the person does not transfer the homestead permit to another person;
+(ix) the person will present a picture identification to the building official to verify that the person is authorized to perform the work under the
+homestead permit; and
+(x) the work that will be done is not for a mobile, modular, or manufactured home unless the person owns the land on which the mobile,
+modular, or manufactured home is located.
+(b) A homestead permit cannot be issued for a mobile, modular, or manufactured home located in a mobile home park, mobile home community, or
+other commercial premises.
+(c) The building official may suspend or revoke a homestead permit if the work done under the homestead permit is performed by anyone other
+than the person who obtained the homestead permit.
+80.19(D) Annual permit. Electrical work may be performed in a facility participating in the registered industrial plan program under an annual permit
+issued pursuant to Section 105.1.1 (Annual Permit) of the Building Code.
+80.19(E) Permit fees. The fee for a permit is set by separate ordinance.
+80.19(H) Time limitation on application; permit expiration and reactivation. The time limits for applications and the requirements for permit expiration
+and reactivation, including a fee for expired permits, are established in Chapter 25-12, Article 13 (Administration of Technical Codes).
+Exception. An annual permit is valid for 360 consecutive days from the date the permit is issued and may not be extended.
+80.19(I) Special inspections program. Electrical work may be performed under this program in occupied residential and commercial buildings or structures
+within the zoning jurisdiction of the City. The program requirements and scope are:
+(1) A contractor who participates in this program must:
+(a) for each permit, submit a completed compliance form to the building official no later than one business day after the permitted electrical work is
+complete; and
+(b) obtain a permit as required by Section 80.19(C)(2) no later than one business day from the work start date.
+(2) The scope of work may not:
+(a) include the disconnection, reconnection, or repair of an electrical service;
+(b) involve the penetration of a fire rated wall or component;
+(c) require an electrical rough inspection; or
+(d) include more than one stand-alone electrical or other permit.
+(3) As part of the program, the building official may inspect the electrical work performed for one out of five residential permits and one out of 10
+commercial permits. As a condition of the program, the electrical contractor must provide access to the permitted work.
+(4)
+about:blank 545/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Nothing in this section limits the building official's authority to inspect electrical work when the building official deems necessary to determine that the electrical
+work performed under this program complies with the Electrical Code.
+80.21 Plan review fees. The fee for plan review is set by separate ordinance.
+80.35 Authority to Enforce State Electrical Code. The building official may enforce the state electrical code when necessary.
+80.36 Licenses.
+80.36 (A) License required. Except as allowed in Subsection 80.19(C)(5) (Homestead Permit), a person must be licensed by the Texas Department of
+Licensing and Regulations to perform electrical work within the City or at a site that receives electric utility services from the City.
+80.36 (B) License display. When performing electrical work, a licensee shall keep his or her license in possession and shall display the license upon request
+of the building official or the owner of the premises or property where the licensee is working, offering to work, or has worked. A licensee shall also present
+a picture identification to verify identity.
+80.36 (C) Contractor. To establish an electrical contracting business within the City's full purpose jurisdiction, a person must be licensed as an electrical
+contractor and comply with Section 80.37 (Registration).
+80.36 (D) Temporary staffing companies. An employee who is licensed, registered, or certified by the Texas Department of Licensing and Regulations and
+is assigned to a client company by a professional temporary staffing company is considered an employee of the client company for the purpose of
+complying with the requirement to hold an electrical contracting license.
+80.37 Registration.
+(A) Registration Required. Before a person may perform or offer to perform electrical contracting services within the City, the person must register with
+the City.
+(B) Eligibility Requirements. A person is eligible to register with the City if:
+(1) the person is licensed as an electrical contractor;
+(2) the person designates an electrician of record; and
+(3) the electrician of record appears in person when the electrical contracting business is registered.
+(C) Electrician of Record.
+(1) The electrician of record may be the same as the registrant.
+(2) The electrician of record must be licensed by the Texas Department of Licensing and Regulations as a master electrician.
+(3) The electrician of record may not be designated as the electrician of record for more than one electrical contractor business.
+(D) Employees and Agents of Registrant.
+(1) An employee of a registrant may perform electrical work that is associated with an electrical permit issued to the registrant.
+(2) The maximum number of agents who may obtain electrical permits on behalf of the registrant is six.
+(E) Vehicle Display Requirements.
+(1) A registrant shall display its name and license number on each vehicle owned or operated by the registrant's business and used to perform
+electrical contracting services.
+(2) Each display shall satisfy the requirements set forth in Section 1305.166 of the Texas Occupations Code and Section 73.51 of Title 16 of the Texas
+Administrative Code.
+(3) A vehicle described in Subsection (E)(1) may not be used for more than one electrical contracting business.
+(F) Offense. A person commits an offense if the person engages in electrical contracting without a registration required by this section.
+80.38 Suspension of Registration.
+(A) Except as provided in Subsection (B), the building official may suspend a registration after three substantiated violations of Section 80.39 (Offenses)
+within a 12-month period.
+(B) The building official may suspend a registration after one substantiated violation of Section 80.39(A)(2), (A)(9), (A)(15), or (A)(19) by the registrant or its
+employees.
+(C) The suspension period ends:
+(1) six months from the date the suspension begins for the first suspension; or
+(2) 12 months from the date the suspension begins for a suspension that is not the first suspension.
+(D) A registrant may appeal a suspension as set forth in Section 25-1-461 (Appeal).
+(E) A suspension under this section is not an exclusive remedy for a violation of Section 80.39.
+80.39 Offenses.
+about:blank 546/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(A) A person may not:
+(1) allow another to use an electrical permit in an unlawful or fraudulent manner;
+(2) perform, or cause to be performed, electrical work that causes injury to a person or property;
+(3) supervise, perform, or cause to be performed electrical work that does not comply with the supervision requirements in the Electrical Code;
+(4) perform electrical work without the required license or permit classification;
+(5) display, cause to be displayed, allow to be displayed, or possess a document that purports to be a license to perform electrical work that is false,
+expired, suspended, or altered;
+(6) fail or refuse to display a license or permit to perform electrical work when requested by the building official;
+(7) allow a person, other than the person to whom the license was issued, to perform electrical work;
+(8) contract for, or cause to be performed, electrical work that requires a permit by a person who lacks a license required by the Electrical Code;
+(9) employ a person who is not licensed as a master electrician or electrical contractor, journeyman electrician, residential wireman, or apprentice
+electrician to perform electrical work that requires an electrical license;
+(10) request the building official to perform inspections of work that is incomplete or work that has not been properly reviewed by the permit holder
+or the designated supervisor three or more times during a 12-month period;
+(11) employ a person to perform electrical work for which the person is not qualified;
+(12) supervise a person who is performing electrical work for which the person performing the work is not qualified to perform;
+(13) obtain a permit for a business or person other than the business or person identified on the person's electrical contractor's license;
+(14) perform electrical work under a permit for a business other than the business identified on the permit authorizing the electrical work;
+(15) perform, or cause to be performed, electrical work in a manner that endangers a person or property;
+(16) fail to provide notification for a change of business address, qualifying master electrician, or contact information included on the electrical
+contractors license on or before the 10 th day after the change occurs;
+(17) refuse to provide picture identification when requested by the building official;
+(18) fail to comply with the requirements of the Electrical Code; or
+(19) allow more than five electrical permits to expire.
+(B) The building official may report offenses to the Texas Department of Licensing and Regulation.
+80.40 Supervision.
+(A) At least one licensed journeyman electrician, licensed master electrician, or licensed residential wireman shall be present on a site to supervise the
+electrical work being performed.
+(B) A contractor who is responsible for the electrical work being performed shall provide fulltime supervision, management, direction, and control. A
+residential wireman may only supervise residential projects.
+(C) The ratio of licensed master electrician, licensed journeyman electrician, or residential wireman to licensed apprentice electricians may not exceed
+one licensed master electrician, licensed journeyman electrician, or residential wireman to five licensed apprentice electricians.
+(D) The designated supervisor shall review the electrical work before submitting a request for the building official to inspect.
+80.41 Special Requirements for Installations Below Regulatory Flood Datum.
+(A) For purposes of this section, regulatory flood datum (RFD) has the meaning assigned in Section 1612 (Flood loads) of the Building Code.
+(B) If a circuit can be de-energized by automatic operating electrical disconnection equipment, then a lighting circuit, switch, receptacle, or luminaire that
+operates at no more than 120 volts to ground may be installed below the RFD. The electrical circuit shall be de-energized before water is present on
+the floor of the affected areas. If any equipment is flooded, its particular circuit may not be re-energized until the circuit and the equipment are:
+(1) approved by the wiring and equipment manufacturer for reuse after being submerged in water; or
+(2) replaced and approved for use by the building official.
+(C) Except for a switch, receptacle, and luminaire, all other electrical equipment permanently installed below the RFD shall be rated by the equipment
+manufacturer for submergence for at least 72 hours for a head of water above the equipment to the RFD.
+(D) An electrical wiring system installed below the RFD shall be suitable for continuous submergence in water. Only a submersible splice is allowed below
+the RFD. A conduit located below the RFD shall be installed so that it can be self-draining if subject to flooding.
+(E) The electrical power equipment and components of an elevator system shall be located above the RFD. An automatic type elevator shall be provided
+with a home station located above the RFD to which the elevator will automatically return after use.
+(F) An electrical unit heater installed below the RFD shall be capable of being disconnected as outlined in Subsection (B). An electrical control on a gas or
+oil furnace located below the RFD may not exceed 120 volts to ground and the control circuits shall be automatically de-energized before water is
+present on the floor of the affected area.
+(G)
+about:blank 547/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Sump pumping equipment of any type shall be provided with a float operated warning alarm that acts independently of any other float actuating device used to
+start and stop pumping equipment. A building or structure that utilizes sump pumping equipment shall have automatic starting standby electrical generating
+equipment located above the RFD. The standby generating equipment shall be capable of remaining in continuous operation at 125 percent of the anticipated
+duration of the design flood.
+(H) A control center, privately owned transformer, distribution and main lighting panel, and switchgear, in addition to other stationary equipment, shall
+be located above the RFD. Portable or moveable electrical equipment may be located below the RFD if the equipment can be disconnected by a single
+plug or socket assembly of the submersible type and rated for a minimum of 72 hours for the head of water above the assembly to the RFD.
+(I) All components of emergency lighting systems installed below the RFD shall be located so that a component of the emergency lighting system is not
+within reach of personnel working at floor level in the area where an emergency lighting system is used unless the emergency lighting circuit(s) are
+provided with ground-fault circuit interrupters having a maximum leakage current to ground sensitivity of 5 milliamperes.
+(J) Before the building official can release electrical utilities or issue a certificate of occupancy, the building official must verify that all incoming main city
+power service equipment, including all metering equipment, is located two feet above RFD.
+80.42 Other Applicable City Code and Criteria Manual Requirements.
+When applicable, an electrical installation shall also comply with:
+(1) Chapter 25-2, Subchapter C, Article 13 (Docks, Bulkheads, and Shoreline Access);
+(2) Building Criteria Manual, Section 5.2.4 (Wiring Over and Under Navigable Water);
+(3) Building Criteria Manual, Section 5.2.10 (Subchapter E, Section 2.5, Exterior Lighting Rules for Alternative Equivalent Compliance); and
+(4) Building Criteria Manual, Section 4.4.7 (Visitability).
+Source: Ord. No. 20230831-105, Pt. 1, 9-11-23.

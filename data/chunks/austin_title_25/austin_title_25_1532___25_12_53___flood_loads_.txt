@@ -1,0 +1,87 @@
+§ 25-12-53 - FLOOD LOADS.
+(A) General.
+(1) Within flood hazard areas as established in Subsection (B) (Establishment of flood hazard areas), all new construction and alterations of buildings,
+structures and portions of buildings and structures, including substantial improvement and restoration of substantial damage to buildings and
+structures, shall be designed and constructed to resist the effects of flood hazards and flood loads. When new construction constitutes a substantial
+improvement or restoration of substantial damage all aspects of the existing structure shall be brought into compliance with the requirements for
+new construction for flood design. All elevation requirements noted in this ordinance shall be documented using the Elevation Certificate, FEMA 086-
+0-33, and shall be certified by a registered professional engineer, surveyor, or architect, and shall be submitted to the Floodplain Administrator.
+(2) Except as otherwise provided, this section applies to residential and non-residential building and structures.
+(B) Establishment of flood hazard areas. The City establishes a flood hazard area that includes the following:
+(1) areas of special flood hazard areas identified by the Federal Emergency Management Agency in the current scientific and engineering report entitled,
+"The Flood Insurance Study (FIS) for Williamson County, Texas and Incorporated Areas" dated December 20, 2019, with accompanying Flood Insurance
+Rate Maps (FIRM) dated December 20, 2019, the current scientific and engineering report entitled "The Flood Insurance Study (FIS) for Travis County,
+Texas and Incorporated Areas" dated January 6, 2016, with accompanying Flood Insurance Rate Maps dated January 6, 2016, the current scientific and
+engineering report entitled, "The Flood Insurance Study (FIS) for Hays County, Texas and Incorporated Areas" dated January 17, 2025, with
+accompanying Flood Insurance Rate Maps (FIRM) dated January 17, 2025, and any revisions are adopted by reference and declared to be a part of this
+section; and
+(2) the 100-year and 25-year floodplains as defined in the Austin City Code are adopted by reference and declared to be part of this section.
+(C) Design and construction. The design and construction of buildings and structures, and additions and alterations to buildings and structures located in
+flood hazard areas, shall be in accordance with ASCE 24, Flood Resistant Design and Construction.
+(1) Elevation Requirements.
+(a) Unless otherwise specified in Title 25 (Land Development), the lowest floor of a building or structure shall be elevated a minimum of two feet
+above the design flood elevation.
+(b) Freeboard. Unless otherwise specified in the Title 25 (Land Development), a minimum freeboard of two foot shall be added where the design
+flood elevation or other elevation requirements are specified.
+(c) In areas of shallow flooding (AO Zones), the lowest floor (including a basement) of a building or structure shall be elevated higher than the highest
+adjacent grade as the depth number specified in feet (mm) on the FIRM plus two feet, or at least three feet (915 mm) if a depth number is not
+specified.
+(d) A basement floor that is below grade on all sides shall be elevated at least two feet above the design flood elevation.
+Exceptions: An enclosed area, including a basement, which is below the design flood elevation but not below grade on all sides shall meet the
+requirements in Subsection (C)(2) (Enclosed area below design flood elevation).
+(2) Enclosed area below design flood elevation. An enclosed area, including a crawl space, that is below the regulatory flood datum shall:
+(a) be used only for parking vehicles, building access or storage excluding property, material, or equipment that may constitute a safety hazard when
+contacted by flood waters;
+(b) include flood openings that meet the following criteria:
+(i) the enclosed area shall have a minimum of two openings located on different sides of the enclosed area; if a building includes more than one
+enclosed area below the design flood elevation, each area shall have openings on exterior walls;
+(ii) the total net area of all openings shall be at least 1 square inch (645 mm2) per square foot (0.093 m2) of the enclosed area, or the openings
+are designed and the construction documents state that the design and installation will provide for the equalization of hydrostatic flood forces
+on exterior walls by allowing for the automatic entry and exit of floodwaters;
+(iii) the bottom of each opening is 1 foot (305 mm) or less above adjacent ground level;
+(iv) each opening is at least 3 inches (76 mm) in diameter;
+(v) any louvers, screens or other opening covers allow the automatic flow of floodwaters into and out of the enclosed areas;
+(vi) a door or window that does not meet the requirements in Subsection (C)(2)(b)(i) through (v) does not comply with this section; and
+about:blank 536/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(vii) constructed of flood damage-resistant materials.
+(3) Provisions of safe refuge.
+(a) A building or structure constructed in the flood hazard area where the ground surface is below the design flood elevation or where flood water
+velocities at the building may exceed five feet per second shall provide an enclosed refuge space two feet or more above the design flood
+elevation of sufficient area to provide for the occupancy load with a minimum of 12 square feet per person. The refuge space shall be provided to
+an exterior platform and stairway not less than three feet wide.
+(b) An existing building or structure in a flood hazard area that is substantially improved or where a change of use or occupancy is made, shall
+conform to the requirements of Subsection (a).
+(c) Regardless of the structure or space classification, a floor level or portion of a building or structure that is lower than two feet above the design
+flood elevation shall not be used residentially, or for storage of any property, materials, or equipment that might constitute a safety hazard when
+contacted by flood waters.
+(4) Means of egress.
+(a) Unless otherwise approved by the building official, normal access to the building shall be by direct connection with an area that is a minimum of
+one foot above the design flood elevation.
+(b) For a building that is part of a single-family condo regime residential building permit application and part of a site plan that was approved
+between December 1, 2017, and November 25, 2019, compliance with this section shall be determined at the time of site plan approval.
+(c) For a building that is part of a single-family building permit application and part of (a) a preliminary plan that was submitted for approval between
+December 1, 2014, and November 25, 2019, or (b) a final plat that was approved between December 1, 2017, and November 25, 2019, compliance
+with this section shall be determined at the time of preliminary plan or final plat approval, respectively.
+(d) For all other buildings subject to Article 11 (Residential Code), compliance with this section shall be determined at the time of building permit
+application.
+Exception: This subsection does not apply to an addition or alteration to an existing building or structure subject to Article 11 (Residential Code)
+that is not a substantial improvement as defined in Section 25-12-52 (Definitions).
+(5) Installation of openings. The walls of enclosed areas shall have openings installed such that:
+(a) There shall be not less than two openings on different sides of each enclosed area; if a building has more than one enclosed area, each area shall
+have openings.
+(b) The bottom of each opening shall be not more than 1 foot (305 mm) above the higher of the final interior grade or floor and the finished exterior
+grade immediately under each opening.
+(c) Openings shall be permitted to be installed in doors and windows; doors and windows without installed openings do not meet the requirements
+of this section.
+(D) Flood hazard documentation. For construction in flood hazard areas, the following documentation shall be prepared and sealed by a registered design
+professional and submitted to the building official:
+(1) The elevation of the lowest floor, including the basement, as required by the lowest floor elevation inspection in Building Code Section 110.3.3
+(Lowest floor elevation) and for the final inspection in Building Code Section 110.3.10.1 (Flood hazard documentation).
+(2) For fully enclosed areas below the design flood elevation where provisions to allow for the automatic entry and exit of floodwaters do not meet the
+minimum requirements in Section 2.6.2.1 of ASCE 24, construction documents shall include a statement that the design will provide for equalization
+of hydrostatic flood forces in accordance with Section 2.6.2.2 of ASCE 24.
+(3) For dry flood-proofed nonresidential buildings, construction documents shall include a statement that the dry floodproofing is designed in
+accordance with ASCE 24.
+(4) The as-built elevation documentation of the elevations specified in Section 25-12-53(C)(1) (Elevation Requirements).
+(Ord. No. 20210603-059, Pt. 4, 9-1-21; Ord. No. 20241121-079, Pt. 2, 12-2-2024)

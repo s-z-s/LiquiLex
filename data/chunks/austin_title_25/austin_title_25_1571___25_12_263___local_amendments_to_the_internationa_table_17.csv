@@ -1,0 +1,31 @@
+CLIMATE ZONE,2
+VERTICAL FENESTRATION U-FACTOR,0.40
+SKYLIGHT U-FACTOR,0.60
+GLAZED VERTICAL FENESTRATION SHGC,0.25
+SKYLIGHT SHGC,0.28
+CEILING R-VALUE,38
+"ATTIC ROOFLINE R-VALUE c, d, g, h",25&0ci or 0&25ci
+"WOOD FRAME WALL R-VALUE c, d","15, 13&2ci, or 0&10ci"
+MASS WALL R-VALUE i,4/6
+"FLOOR R-VALUE c, d",13 OR 7&5ci or 0&10ci
+BASEMENT WALL R-VALUE f,0
+UNHEATED SLAB R-VALUE & DEPTH e,0
+"HEATED SLAB R-VALUE & DEPTH c, d, e",R-5ci edge and R-5 full slab
+"CRAWL SPACE WALL R-VALUE c, d",0
+"For SI: 1 foot = 304.8 mm
+NR = Not Required.
+ci = continuous insulation.",
+"a The values in this table apply to repairs, renovations, or additions that increase the conditioned floor area by no more than 40 percent. All
+other construction shall use the values for new construction in Table R402.1.3(2).",
+"b R-values are minimums, U-factors and SHGC are maximums. When insulation is installed in a cavity which is less than the label or design
+thickness of the insulation, the installed R-value of the insulation shall not be less than the R-value specified in the table.",
+"c ""5ci or 13"" means R-5 continuous insulation (ci) on the interior or exterior surface of the wall or R-13 cavity insulation on the interior side of
+the wall. ""10ci or 13"" means R-10 continuous insulation (ci) on the interior or exterior surface of the wall or R-13 cavity insulation on the interior
+side of the wall. ""15ci or 19 or 13&5ci"" means R-15 continuous insulation (ci) on the interior or exterior surface of the wall; or R-19 cavity
+insulation on the interior side of the wall; or R-13 cavity insulation on the interior of the wall in addition to R-5 continuous insulation on the
+interior or exterior surface of the wall.",
+"d The first value is cavity insulation, the second value is continuous insulation (ci) or insulated siding. Therefore, as an example, ""13&2ci"" means
+R-13 cavity insulation plus R-2 continuous insulation or insulated siding. Where R-13&2ci is used, non-insulated structural sheathing shall cover
+no more than 25% of the exterior.",
+e Slab insulation shall be installed in accordance with Section R402.2.10.1.,
+f Basement wallinsulation is not required in Warm Humid locations as defined by Figure R301.1 and Table R301.1.,

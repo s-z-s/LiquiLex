@@ -1,0 +1,468 @@
+§ 25-12-153 - LOCAL AMENDMENTS TO THE UNIFORM PLUMBING CODE.
+Each provision in this section is a substitute for the identically numbered provision deleted in Section 25-12-151(B) (Uniform Plumbing Code) or is an addition to
+the 2024 Uniform Plumbing Code.
+104.1.1 Persons authorized to obtain permits. A responsible master plumber licensed by the State of Texas and registered with the City may apply for and
+obtain a permit required by this code. Only a responsible master plumber with a master medical gas endorsement may obtain a plumbing permit related
+to medical gas installations. Only a responsible master plumber with a master water supply protection specialist endorsement may obtain a plumbing
+permit for a potable rain-water system.
+Exception: An individual who is not licensed as a plumber may obtain a plumbing permit for plumbing work that, under state law, may be completed by an
+unlicensed individual.
+104.1.2 Licensing. A person who enters into a contract to install or repair a plumbing system subject to this code and the plumbing permit requirement
+must be licensed by the State of Texas.
+104.1.3 Registration. A licensed plumber must register with the City before performing any work regulated by this code.
+about:blank 554/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+104.1.4 Landscape irrigation. A person licensed by the Texas Commission on Environmental Quality (TCEQ) to install irrigation systems must register with
+the City before performing any work regulated by this code. A person must pay a registration fee set by separate ordinance at the initial registration with
+the City or after a license is suspended or expired. A plumbing permit must be obtained before installing a landscape irrigation or yard sprinkler system.
+104.1.5 Commercial plumbing change-out program. The building official may establish by rule an inspection program for commercial plumbing
+components identified in this section in buildings not covered under the Residential Code or a change-out program authorized by another article in this
+chapter. The building must be located within the City's full purpose jurisdiction. This program applies to replacing a water heater, backflow device, or
+assembly; and to repairing or replacing a sewer line in occupied structures.
+104.2 Exempt work.
+A. A permit is not required for the following:
+1. To stop leaks in drains, soil, waste, or vent pipes, except when a trap, drainpipe, soil, waste, or vent becomes defective and it is necessary to remove
+and replace the same with new material, a permit shall be procured and inspection made as provided in this code.
+2. To clear stoppages, including the removal and reinstallation of water closets, or the repairing of leaks in pipes, valves, or fixtures if the work does not
+involve or require the replacement or rearrangement of valves, pipes, or fixtures.
+3. Work required to repair or replace fixtures and to replace exposed traps, continuous waste piping, fixture supply valves, or faucets if the work does
+not involve other city departments or inspections from other trades.
+4. Other work as determined by the building official.
+B. Exemption from the permit requirements of this code does not authorize work to be done in violation of other provisions of the City Code or City
+requirements.
+C. For purposes of Section 104.2, a new installation or replacement of a shower, tub, or combination tub and shower is not exempt from the permit
+requirements of this code.
+104.4.3. Time limits. Article 13 (Administration of Technical Codes) of Title 25(Land Development) establishes permit application time limits and
+requirements applicable to permit expiration and reactivation, including a review fee for expired permits.
+104.5 Fees. A fee applicable to this code is set by separate ordinance.
+104.6 Offense and Penalty. A person who violates a provision of this code commits an offense that is subject to the penalty set forth in Section 25-1-462
+(Criminal Enforcement). Each day a violation continues is a separate offense.
+107.0 Mechanical and Plumbing Board. The Mechanical and Plumbing Board is subject to the requirements in Chapter 2-1 (City Boards).
+108.0 The Building Criteria Manual. Additional information on procedures and rules related to administering this code is available in the Building Criteria
+Manual.
+202.1.1 Supplemental Definitions.
+LAUNDRY TO LANDSCAPE SYSTEM means an alternate water system that utilizes the collection of gray water discharged from clothes washing machines
+located at private one- and two-family dwellings for landscape irrigation.
+TRAP, DEEP SEAL P-TRAP means a fixture trap having a water seal of at least four inches but is not more than twice the diameter of the trap arm, does not
+exceed 12 inches, is set true with respect to its water seal, and, where necessary, protected from freezing.
+202.1.2 Replacement Definitions.
+PLUMBING SYSTEM means all potable water, building supply, and distribution pipes; all plumbing fixtures and traps; all drainage and vent pipes; and all
+building drains and building sewers, including their respective joints and connections, devices, receptors, and appurtenances within the property lines of
+the premises and includes potable water piping, alternate water source systems, irrigation systems, potable water treating or using equipment, medical
+gas and medical vacuum systems, liquid and fuel gas piping, and water heaters and vents for same.
+304.2 Sewage system connection required. If any part of a lot or tract that contains a house or building is located within 100 feet in horizontal distance
+(measured based on the closest practicable access route) of a public sewage disposal system, the draining system of the house or building must be
+separately and independently connected to the public sewage disposal system. The drainage system is not required to be connected if:
+1. the property owner received a denial of service in writing from the owner or governing body of the public sewage disposal system;
+2. the property owner received a written determination from Austin Water that it is not feasible for the building to be connected to the public sewage
+disposal system;
+3. the property is served by an existing private sewage facility and Austin Water determined the private sewage facility may continue to be used based
+on factors such as the type of building served; the age, condition, and capacity of the private sewage facility; and the availability of records related to
+the system, changes to the system, or the generating unit; or
+4. a composting toilet serves the property and Austin Water approved the disposal of liquid wastes in a private on-site sewage facility.
+about:blank 555/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+312.6.1 Freeze protection. Water lines installed outside of the building thermal envelope will require a minimum of five-eighth of inch thick insulation with
+a minimum of R4 value.
+319.0 Medical gas and vacuum systems. Any medical gas and vacuum system used in conjunction with human health care purposes must be installed
+consistent with the requirements in the most current edition at the effective date of this article of the National Fire Protection Association (NFPA) 99
+entitled "Health Care Facilities Code" and the latest edition of the ANSI/ASSE Series 6000 titled "Professional Qualification Standards for Medical Gas System
+Installers, Inspectors, Verifiers, Maintenance Personnel and Instructors" to the extent the requirements conflict with the Texas State Board of Plumbing
+Examiners Plumbing License Law requirements. A medical gas system for non-human use must be installed consistent with Section 1305.0 in its entirety.
+321.0 Elevator sump pumps. See Texas Administrative Code, Title 16, Part 4, Chapter 74 for elevator sump pump requirements.
+321.1 Acceptable discharge location. An elevator sump pump must discharge to the storm system outside of the building, detention pond, or other
+location approved for each project by the authority having jurisdiction. A hydraulic elevator must be equipped with a hydraulic oil alarm and a secondary
+containment must be installed and approved for each project by the authority having jurisdiction.
+402.5 Settings. See Section 2903.1.1 (Water closets, urinals, lavatories, and bidets) in the Building Code.
+407.4 Transient public lavatories. A lavatory that serves the transient public in Group A, B, and M type occupancies as defined in the Building Code must
+be equipped with self-closing or metering faucets.
+422.0 Minimum number of required fixtures. Minimum number of required fixtures is based on Chapter 29 (Plumbing Systems) of the Building Code. Each
+building must be provided with sanitary facilities, including facilities designed for an individual with a disability.
+422.2 Toilet Facilities for Workers. During construction, toilet facilities shall be provided for workers and shall be maintained in a sanitary condition.
+504.8 Appliances elevated above an occupied space in an occupancy required to comply with the Building Code. Storage-type water heaters that
+exceeds a capacity of 17 gallons shall not be installed eight feet above the finish floor unless:
+1. permanent access to the water heater is provided that supports a 300-pound concentrated load and complies with the requirements of the Building
+Code;
+2. permanent lifting equipment designed by a registered design professional is installed; or
+3. lifting equipment access is provided from entry point to location of appliance.
+504.8.1 One- and two-family dwellings and townhouse type occupancy. A storage-type water heater that exceeds a capacity of 17 gallons may not be
+installed in an attic or above a ceiling in a residential occupancy unless the water heater is accessible through a vertical door opening located in an
+occupied space on the same floor level.
+508.2.1 Roof drainage and rails. Equipment shall be installed on a well-drained surface of the roof. Guards must be provided where an appliance,
+equipment, fan, solar systems, or other components require service and are located within 10 feet of a roof edge or open side of a walking surface and the
+edge or walking surface is located 30 inches above the grade below. Rigid fixed rails or guards at least 42 inches in height must be provided on the exposed
+side. The guard must be constructed to prevent a 21-inch-diameter sphere from passing through and must extend at least 30 inches beyond each end of
+the appliance, equipment, fan, or component. If a parapet or other building structure is used in lieu of a guard, it must be at least 42 inches in height.
+Exception: Guards are not required where a permanent fall arrest anchorage connector system in accordance with ASSE Z359.1 is installed.
+601.1 Applicability. This chapter shall govern the materials, design and installation of water supply systems. Any methods, assemblies, and devices used
+for backflow prevention and cross-connection control shall be designed and installed in accordance with Chapter 15-1 (Cross-Connection Regulations).
+601.1.1 Water system connection required. If any part of a lot or tract that contains a house or building is located within 100 feet in horizontal distance
+(measured based on the closest practicable access route) of a state-licensed public potable water system, the water system of the house or building must
+be separately and independently connected to the public water system. The water system is not required to be connected if:
+1. the property owner received a denial of service in writing from the owner or governing body of the public water system;
+2. the property owner received a written determination from Austin Water that it is not feasible for the building to be connected to a potable water
+system; or
+3. the property is served by an existing private potable water system and Austin Water determined the private potable water system may continue to be
+used based on factors such as the type of building served; the age, condition, and capacity of the private potable water system; the quality of the
+water; and the availability of records related to the system, changes to the system, or the system demand.
+606.2.1 Full-way valve installation location. A full-way valve installed on the discharge side of the water meter is prohibited from being installed inside a
+City meter box or vault.
+Exception: A full-way valve on the discharge side of the water meter may be installed in a City meter box or vault because of space limitations and with
+written consent from Austin Water.
+about:blank 556/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+608.2 Excessive water pressure. If local static water pressure exceeds 65 pounds per square inch, an approved pressure regulator preceded by an
+adequate strainer must be installed to reduce the static pressure to 65 pound per square inch or less. A pressure regulator that is equal to or exceeds one
+and one-half inches does not require a strainer. The regulator must control the pressure to all water outlets in the building unless otherwise approved by
+the authority having jurisdiction. The regulator and, if required, strainer must be accessible, located above ground or in a vault, and protected from
+freezing. The strainer must be readily accessible for cleaning without removing the regulator or the strainer body or disconnecting the supply piping. Pipe
+size determinations are based on 80 percent of the reduced pressure when using Table 6-6 (Fixture Unit Table for Determining Water Pipe and Meter
+Sizes). An approved expansion tank must be installed in the cold water distribution piping downstream of the regulator to prevent excessive pressure from
+developing because of thermal expansion and to maintain the pressure setting of the regulator. An expansion tank used in a potable water system
+intended to supply drinking water must comply with NSF 61. An expansion tank must be properly sized and installed consistent with the manufacturer's
+installation instructions and listing. A system designed by a registered design professional may use approved pressure relief valves in lieu of expansion
+tanks provided the relief valve has a maximum pressure relief setting of 100 pounds per square inch (698 kPa) or less.
+Exception: A one- or two-family dwelling or a townhome that is required to install a multipurpose fire protection system may have static water pressure up
+to 80 pounds per square inch.
+609.13 Private Fire Lines. A private fire line must be installed consistent with the latest version of the National Fire Protection Association (NFPA) 24
+Standard for the Installation of Private Fire Service Mains and their Appurtenances, as set forth in the Fire Protection Criteria Manual. A private fire line
+must comply with the NFPA 25 Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems.
+Table 610.1 Water Meter Sizing for Residential Single-Family Homes, Duplexes, and Townhomes
+Typical water supply fixture units1 Water meter size2 Typical number of bathrooms
+35 fixture units ⅝" meter 3 bathrooms or less
+40 fixture units ¾" meter 3½ bathrooms
+44 fixture units ¾" meter 4 bathrooms
+52 fixture units ¾" meter 5 bathrooms
+55.5 fixture units ¾" meter 5½ bathrooms
+70 fixture units 1" meter 6 bathrooms
+78 fixture units 1" meter 7 bathrooms
+84.5 fixture units 1" meter 8 bathrooms
+1. Standard rounding conventions apply when determining Water Supply Fixture Units (WSFU).
+2. To be approved for a meter size based on the WSFU, an applicant must provide calculations when the Water and Wastewater Service Plan
+and Verification consultation with Austin Water Utility occurs. The calculations must be based on the total WSFU count for the property.
+610.1.1 Size of water meters for one- and two-family dwellings and townhomes. An Austin Water meter provided to one- or two-family dwellings or
+townhomes must be sized based on the requirements in Table 610.1.
+612.0 Residential fire sprinkler systems. When a residential sprinkler system is required in a one- or two-family dwelling or townhome, the system must
+be installed consistent with Section P2904 of the Residential Code or NFPA 13D and must comply with the Fire Code.
+613.0 Plumbing for multi-family sub-meters. A newly constructed multi-family housing unit or a residential unit in a mixed-use facility must have a single
+cold water stub out that supplies all fixtures within each dwelling unit that is supplied by the master meter. A City meter or privately-owned water meter
+must be installed for each newly constructed unit at the time of construction. Each stub out must have a shut off valve immediately ahead of the private
+meter location. The meter must have a clearance of at least four inches on each side. The private meter must be installed in a location that is accessible for
+reading, testing, replacement, and inspection.
+Exception: A multifamily development utilizing alternate or reclaimed water for toilet flushing or development with a centralized hot water system is not
+required to comply with this section.
+about:blank 557/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+614.0 Landscape irrigation. Irrigation for landscape must comply with the requirements in Chapter 344, Title 30 of the Texas Administrative Code, Sections
+614.1 through 614.2 of this code, and requirements imposed by the Texas Commission on Environmental Quality.
+614.1 Requirements for one- and two-family dwelling landscape irrigation installation. A new irrigation system for a one- or two-family dwellings must
+be designed and installed to include:
+1. spray irrigation is that limited to areas that are more than six feet wide (medians, buffer strips, and parking lots islands should not be spray irrigated);
+2. above-ground irrigation emission devices that are located at least six inches from impervious surfaces;
+3. a master valve for the system;
+4. circuit remote control valves have adjustable flow controls;
+5. serviceable in-head check valves are adjacent to paved areas where elevation differences may cause low head drainage;
+6. a rain shut-off device shuts off the irrigation system automatically at or before one-half inch rainfall;
+7. zone valves and circuits that are separated based on hydrozoning;
+8. an isolation valve that is located between the meter and the backflow prevention device;
+9. pressure compensating heads unless the static pressure at the backflow protection device is measured at or below 45 pounds per square inch; and
+10. a mainline pressure regulating valve that complies with ASSE 1003, is located downstream of the backflow protection device if the static pressure at
+the backflow protection device is measured at or above eighty pounds per square inch.
+614.1.1 Limitations for one- and two-family dwelling landscape irrigation installation. A new irrigation system for a one- or two-family dwellings
+permitted must be designed and installed to cover no more than 50 percent of the total landscaped area, including the front and side yard or the back and
+side yard.
+614.2 Inspection. During the final plumbing inspection, the irrigation installer must provide the building official:
+1. water budget that includes a chart containing zone numbers, precipitation rate, and gallons per minute and the location of the isolation valve;
+2. a report on the form provided by Austin Water that certifies compliance with the requirements in Section 614.1; and
+3. proof that a laminated copy of the water budget is permanently installed inside the irrigation controller door.
+616.0 Once through cooling. Potable water may not be used for once through cooling of commercial equipment including, but not limited to, ice machines,
+ice cream machines, refrigerators, coolers, freezers, air conditioning equipment and condensers for dry cleaning equipment unless 100 percent of the
+potable water used is returned for non-potable uses such as cooling tower make up or other approved uses in a new installation.
+617.0 Car wash equipment. Except for self-service (spray wand) type systems, newly installed car wash equipment must be sleeved or piped under the slab
+to accommodate future reuse equipment that can be easily installed underground and run to an area where a water reclaim system would be anticipated
+to be installed. The sleeve or piping must extend approximately 24 inches past the exterior wall from the car wash equipment room and 18 inches from the
+interior wall. Both ends of the sleeve or piping must be equipped with a cleanout extended to grade.
+704.3 Commercial sinks. A pot sink, scullery sink, dishwashing sink or machine, silverware sink or machine, commercial dishwashing machines, and other
+similar fixtures must be connected to the drainage system indirectly.
+710.10.1 Simplex sumps. A single 1.0 or 2.0 DFU fixture that is not a required plumbing fixture under this code may be served by a single pump or ejector
+system.
+Exceptions:
+1. A single pump ejector system that serves an accessible break room sink with 1½ inch outlet and a 1½ inch inlet is allowed.
+2. A 1½ inch outlet service sink may be drained by a single pump ejector system.
+712.1 Testing procedures for drain, waste, and vent piping. The required testing process is located in the Building Criteria Manual Section 5.6.2 (Plumbing
+Systems Test Requirements).
+712.2 Trench drains. The required testing process is located in the Building Criteria Manual Section 5.6.2 (Plumbing Systems Test Requirements).
+713.4 Availability. Austin Water will determine the availability of the public sewer for any proposed building or exterior drainage facility on any lot or
+premises, which abuts and is served by the public sewer.
+723.0 Building sewer test. The required testing process is located in the Building Criteria Manual Section 5.6.2 (Plumbing Systems Test Requirements).
+723.1 Manhole test. The required testing process is located in the Building Criteria Manual Section 5.6.2 (Plumbing Systems Test Requirements).
+804.1.1 Hub drain. A hub drain that receives discharge from a water heater temperature and pressure valve drain, pan drain, condensation drain, and
+other similar clear water waste drains may be located under the kitchen sink cabinet, water heater closet, walk-in storage room, and other similar
+accessible locations.
+about:blank 558/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+807.3 Domestic dishwashing machines. The discharge from a domestic dishwashing machine is indirect waste and may not be directly connected to a
+drainage system or food waste disposer unless one of the following applies:
+1. an approved dishwashing air-gap fitting is used on the discharge side of the dishwashing machine; or
+2. the discharge line from the dishwasher is looped up and securely fastened to the underside of the counter and the discharge is connected to the
+chamber of the food waste grinder or to a wye fitting between the food waste grinder outlet and the trap inlet or to a branch tailpiece fitting above
+the trap inlet.
+905.3.1 Horizontal Vent. A horizontal vent that is less than six inches in height above the flood level rim of the fixture being served must be served with a
+clean out.
+908.3 Horizontal wet venting for public use fixtures. Water closets, floor drains, and indirect waste receptors may be horizontally wet vented with fixtures
+that are not more than one or two fixture units in size. This does not apply to kitchen sinks or urinals. No more than two fixtures may be located on the
+horizontal wet vented section of the water closet, floor drain, or indirect waste receptor. A two-inch cleanout is required for the dry vent.
+1007.3 Barrier-type trap seal protection device. A barrier-type trap seal protection device shall protect the floor drain trap seal from evaporation. Barrier-
+type floor drain trap seal protection devices shall conform to ASSE 1072. The devices shall be installed in accordance with the manufacturer's instructions.
+1009.2 Approval. Austin Water approves the size, design, type, and location of each interceptor or separator. Except as otherwise specifically allowed by
+the City Code, wastes that do not require treatment or separation may not be discharged into any interceptor. A grease, sand, or other gravity interceptor
+must be field tested by applying a minimum of a one-inch water column above the lid seal of the interceptor.
+Exception: An interceptor or separator on a septic system must meet the requirements established by Austin Water.
+1014.1 General. If pre-treatment is required, an approved type of grease interceptor that complies with Austin Water requirements must be installed in the
+waste discharge leading from sinks, drains, and other fixtures or equipment. A grease interceptor is required in a facility that may introduce fats, oils, or
+grease into the drainage or sewage system in quantities that can affect line stoppage or hinder sewage treatment or private sewage disposal. This type of
+facility includes, without limitation, commercial or institutional food preparation. Facilities such as food processors, bakeries, restaurants, cafeterias,
+schools, hospitals, retirement homes, assisted living facilities, and grocery stores. A combination of hydro-mechanical, gravity grease interceptors, and
+engineered systems may be approved by Austin Water if space or existing physical constraints of an existing building requires such an installation to meet
+this code. A grease interceptor is not required for a one- or two-family dwelling or townhome. A water closet, urinal, or other plumbing fixture that conveys
+human waste may not drain into or through the grease interceptor.
+1014.1.1 Each fixture discharging into a grease interceptor must be individually trapped and vented in an approved manner.
+1014.1.2 Accumulated grease and latent material must be periodically removed from a grease interceptor to maintain efficient operating conditions.
+Removal of accumulated grease or latent materials must comply with Chapter 15-10 (Wastewater Regulations). Accumulated grease or latent materials may
+not be introduced into any drainage piping or public or private sewer. If the authority having jurisdiction determines that a grease interceptor is not being
+properly maintained or cleaned, the authority having jurisdiction may require additional equipment or devices be installed and may mandate a
+maintenance program.
+1014.1.3 Food waste disposal units and dishwashers. A food waste or garbage disposal unit may not be installed in a restaurant, cafeteria, and other
+commercial and institutional kitchen or food preparation facility. A system installed prior to the prohibition must be connected to or discharge into a
+grease interceptor. Unless specifically exempted by Austin Water, a dishwasher in a commercial or institutional food preparation facility must be connected
+to or discharge into a grease interceptor.
+1014.2 Hydro-mechanical grease interceptors. A hydro-mechanical grease interceptor or separator must be a size, standard, design, and type approved
+by Austin Water; and must be installed in a location approved by Austin Water.
+1014.3.3 Design. A gravity interceptor must be constructed consistent with a design approved by Austin Water.
+1014.4.6 Sizing Criteria. The size and volume of an interceptor must be based on and comply with criteria established by Austin Water.
+1015.0 Fats, oils, and greases (FOG) pre-treatment and disposal systems.
+1015.1 Purpose. The purpose of this section is to provide the necessary criteria for the sizing, application, and installation of FOG pre-treatment and
+disposal systems designated as a pre-treatment or discharge water quality compliance strategy consistent with this code and Chapter 15-10 (Wastewater
+Regulations).
+1015.2 Scope. A FOG pre-treatment or disposal system is considered an engineered system and must comply with Article 3 (Flood Loads and Hazard Areas)
+and Chapter 15-10 (Wastewater Regulations).
+1015.3 Components, materials, and equipment. A FOG pre-treatment or disposal system, including all components, materials, and equipment necessary
+for the system to function properly, must comply with Section 301.2 (Minimum Standards) of this code and Chapter 15-10 (Wastewater Regulations).
+about:blank 559/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+1015.4 Sizing application and installation. A FOG pre-treatment or disposal system must be engineered, sized, and installed consistent with
+manufacturer's specifications, as specified in ASME A112.14.6 and Chapter 15-10 (Wastewater Regulations).
+1015.5 Performance. A FOG pre-treatment or disposal system must be tested and certified in accordance with national consensus standards applicable to
+a fat oil grease (FOG) disposal system as discharging effluent that is compliant with the standards and requirements in Chapter 15-10 (Wastewater
+Regulations).
+1016.0 Sand Interceptors.
+1016.1 Where required.
+1016.1.1 If pre-treatment is required, an approved type of sand interceptor that complies with Austin Water regulations must be installed in the waste
+discharge leading from a fixture or drain that contains solids or semi-solids heavier than water that would be harmful to the drainage system, cause a
+stoppage within the system, or as otherwise required by Chapter 15-10 (Wastewater Regulations). Multiple floor drains may be discharged into one sand
+interceptor. If effluent quality does not meet City standards, additional pre-treatment may be required.
+1016.1.2 A sand interceptor is required when Austin Water determines it is necessary to protect the drainage system.
+1016.1.3 Construction and Size. A sand interceptor must be constructed and sized consistent with the Austin Water design standards.
+1017.0 Petroleum-based oil and flammable liquid interceptors and pre-treatment. An operation that generates a discharge that contains petroleum-
+based oily, flammable, or both types of waste must install and maintain an interceptor, hold haul tank, or other pre-treatment system that complies with
+Chapter 15-10 (Wastewater Regulations) and as authorized by Austin Water. An interceptor or other pre-treatment system, tank, or pump installed must be
+accessible and be vented to the atmosphere in a manner authorized by the City Code.
+1107.1 Methods of testing storm drainage systems. The required testing process is in the Building Criteria Manual Section 5.6.2 (Plumbing Systems Test
+Requirements).
+1107.2 Testing procedures for plastic roof drainage piping. The required testing process is in the Building Criteria Manual Section 5.6.2 (Plumbing Systems
+Test Requirements).
+1107.3 Test procedures for material other than polyvinyl chloride (PVC) drainage piping. The required testing process is in the Building Criteria Manual
+Section 5.6.2 (Plumbing Systems Test Requirements).
+1201.1.1 Liquefied petroleum approval. Liquefied petroleum container size, location, and service line are approved by the fire marshal.
+1213.3 Testing process for gas systems. The required testing process is in the Building Criteria Manual Section 5.6.2 (Plumbing Systems Test
+Requirements).
+1301.0 Medical gas plan review and permits. An engineer licensed by the State of Texas must design a plan for a medical gas system that is installed for
+human uses. A plan must be submitted and reviewed prior to installing or revising a medical gas system. If approved, a medical gas permit may be
+obtained by a responsible master plumber who is licensed by the State of Texas and has a medical gas endorsement. The permit is required to alter or
+install a medical gas system.
+1302.0 Liquid ring surgical and dental vacuum pump installations. Liquid ring surgical and dental vacuum pumps cannot be installed within the City.
+1303.0 Category 3 vacuum systems. A drain must be connected directly to the sanitary waste system consistent with NFPA 99-2015 Figure A.5.3.3.10.1.3(4)
+(a).
+1304.0 Medical Gas for Non-Human Uses.
+1304.1 Piping materials for field-installed medical gas and vacuum systems for nonhuman uses.
+1. Hard drawn seamless copper tube:
+a. ASTM B 88, Standard Specification for Seamless Copper Water Tube, Copper Tube (K, L, M);
+b. ASTM B 280, Standard Specification for Seamless Copper Tubing for Air Conditioning and Refrigeration Field Service, Copper ACR Tube;
+c. ASTM B 819, Standard Specification for Seamless Copper Tube for Medical Gas Systems, Copper Medical Gas Tubing (K or L).
+2. Stainless steel tube.
+Exception: Piping for a field installed vacuum system for non-human use may be installed with schedule 40 polyvinyl chloride (PVC).
+1304.2 Testing requirements. The required testing process is in the Building Criteria Manual Section 5.6.2 (Plumbing Systems Test Requirements).
+1500.0 Except otherwise required by City Code, installing an alternate water reuse system is voluntary and optional.
+1501.2 System design. An alternate water reuse system must be designed by a person registered or licensed to perform plumbing design work. A
+component, piping, or fitting used in an alternate water source system must be listed.
+about:blank 560/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Exceptions. The following systems may be designed by a person who is not registered or licensed to perform plumbing design work:
+1. A rainwater catchment or condensate collection system for irrigating;
+a. Landscaping for a one-family dwelling when the system's outlets, piping, and other components are located on the exterior of the single-family
+dwelling; or
+b. Landscaping for a site when the system's maximum storage capacity is 500 gallons (1893 L).
+2. A gravity gray water system with a maximum discharge capacity of 250 gallons per day (0.011 L/s) for a one- or two-family dwelling or townhome.
+3. An on-site treated non-potable water system for a one-family dwelling with a maximum discharge capacity of 250 gallons per day (0.011 L/s).
+4. A laundry to landscape system.
+1501.3 Permit. It is unlawful for a person to construct, install, alter, or cause to be constructed, installed, or altered an alternate water reuse system in a
+building or on a premise without first obtaining a permit to do such work from the authority having jurisdiction.
+Exception: A plumbing permit is not required for non-potable rainwater or condensate collection systems that are not connected to any water line or
+fixture that is supplied by potable water if the:
+1. Gravity type exterior non-potable rainwater catchment system or non-potable condensate collection system is used only for outdoor applications; or
+2. Non-potable rainwater catchment or non-potable condensate collection system is 500 gallons (1893 L) or less and is used only for outdoor
+applications.
+Table 1501.5 Minimum Alternate Water Source Testing, Inspection, and Maintenance Frequency
+Inspect and clean fdters and screens, and replace (when necessary). Every 3 months
+Inspect and verify disinfection, filters, and water quality treatment As required by manufacturer's instructions and the authority having
+devices and systems are operational and maintaining minimum water jurisdiction.
+quality requirements as determined by the authority having
+jurisdiction.
+Inspect and clear debris from rainwater gutters, downspouts, and roof Every 6 months
+washers.
+Inspect and clear debris from roof or other aboveground rainwater. Every 6 months
+Collection surfaces.
+Remove tree branches and vegetation overhanging roof or other as needed aboveground rainwater collection surfaces.
+Inspect pumps and verify operation. After installation and every 12 months thereafter.
+Inspect valves and verify operation. After installation and every 12 months thereafter.
+Inspect pressure tanks and verify operation. After installation and every 12 months thereafter.
+Clear debris from and inspect storage tanks, locking devices, and After installation and every 12 months thereafter.
+verify operation.
+Inspect caution labels and markings. After installation and every 12 months thereafter.
+Inspect and maintain mulch basins for gray water irrigation systems. As needed to maintain mulch depth and prevent ponding and runoff.
+Cross-connection inspection and test.* After installation and reoccurring thereafter as deemed appropriate
+by the authority having jurisdiction.
+* The cross-connection test must be performed consistent with the requirements of Chapter 15-1 (Cross-Connections Regulations).
+about:blank 561/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+1501.5.2 Maintenance log. A maintenance log is required for an alternate water system that requires a permit under Section 1501.3. The maintenance log
+must be maintained by the property owner and be made available for inspection. The property owner or designated appointee must ensure that the
+maintenance log includes all records related to testing, inspection, and maintenance required in Table 1501.5. The purpose of the maintenance log is to
+demonstrate the frequency of inspection and maintenance for each system.
+1501.7 Minimum water quality requirements. An alternate water source system must comply with applicable water quality requirements established by
+the authority having jurisdiction. In the event water quality requirements are not established, a property should comply with EPA/625/R-04/108, which
+includes the recommended water reuse guidelines.
+Exceptions: Water treatment is not required for:
+1. Single-Family rainwater catchment systems that are used for aboveground irrigation;
+2. Gray water used for subsurface irrigation;
+3. Rainwater catchment systems used for subsurface or drip irrigation; and
+4. Alternate water or auxiliary water that originates from a well, river, or lake and is used only for outdoor irrigation.
+1503.1 General. This section applies to the construction, alteration, and repair of gray water systems.
+Exceptions: A system installed consistent with Section 1503.10 (Laundry to Landscape Program).
+1503.2 System Requirements. Gray water shall be permitted to be diverted away from a sewer or private sewage disposal system, and discharge to a
+subsurface irrigation or subsoil irrigation system without treatment. The gray water shall be permitted to discharge to a mulch basin for single-family and
+multi-family dwellings without treatment. The gray water shall be permitted to discharge to a spray irrigation system or urinal and toilet flushing
+applications with treatment. Gray water shall not be used to irrigate root crops or food crops intended for human consumption that comes in contact with
+soil.
+Table 1503.4 Location of Gray Water Systems6
+MINIMUM HORIZONTAL DISTANCE IN CLEAR REQUIRED FROM SURGE TANK (FEET) SUBSURFACE AND SUBSOIL
+IRRIGATION FIELD AND MULCH
+BED (FEET)
+Building Structures 1 5 2, 8 2 3, 7
+Property line adjoining private property 5 5 7
+Water supply wells 4 50 100
+Sewage pits or cesspools 5 5
+Sewage disposal fields 9 5 4 5
+Septic tank 0 5
+On-site domestic water service line 5 5
+Pressurized public water main 10 10
+For SI units: 1 foot (304.8 mm)
+about:blank 562/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Notes:
+1. Including porches and steps, whether covered or uncovered; breezeways; roofed carports; roofed patios; carports; covered walks; covered
+driveways; and similar structures or appurtenances.
+2. When approved by the authority having jurisdiction, the distance may be reduced to 0 feet for aboveground tanks.
+3. Reference to a 45-degree (0.79 rad) angle from foundation.
+4. When special hazards are involved, the distance required must be increased as directed by the authority having jurisdiction.
+5. Add two feet (610 mm) for each additional foot of depth that exceeds one foot (305 mm) below the bottom of the drain line.
+6. Parallel construction or for crossings are not allowed unless approved by the authority having jurisdiction.
+7. The distance may be reduced to 1.5 feet (457 mm) for drip and mulch basin irrigation.
+8. The distance may be reduced to 0 feet for surge tanks of 75 gallons (284 L) or less.
+9. When irrigation or disposal fields are installed in sloping ground, the minimum horizontal distance between a part of the distribution system
+and the ground surface must be 15 feet (4572 mm).
+1503.6 Prohibited location. A gray water system is not allowed on a site the authority having jurisdiction determines has insufficient lot area or has
+inappropriate soil conditions that will not adequately absorb the gray water to prevent ponding, surfacing, or run off. A gray water system is not allowed in
+the Edwards Aquifer Recharge Zone or in any other area the Authority Having Jurisdiction determines is geologically sensitive.
+1503.10 Laundry to landscape system.
+1503.10.1 General. This section applies when installing, altering, or repairing a laundry to landscape systems.
+New Construction. A gravity gray water drainage system shall be installed in new construction in one- and two-family dwellings constructed after January 1,
+2025, for future use. A gray water system shall be installed to allow for the separate discharge of gray water for direct landscape irrigation from a cloth
+washing machine installed adjacent to an exterior wall or a wall perpendicular to an exterior wall.
+Exception: Where soil conditions do not provide adequate infiltration, where setbacks cannot be maintained, or other such limitations are prohibited by
+the Land Development Code. Project applicants shall submit documentation satisfactory to the Authority Having Jurisdiction for an exemption.
+1503.10.2 System design. A laundry to landscape system must be designed:
+1. To divert gray water from a domestic laundry washing-machine located in a private one- or two-family dwelling only;
+2. To allow the private residence, using one-inch tubing, to direct the flow of gray water from the domestic laundry washing-machine to an irrigation
+field for landscape irrigation or to divert to the building sewer;
+3. To include a manifold with a one-inch, three-way accessible diverter valve. The valve to be located in an accessible location and be identified as a gray
+water system;
+4. So that the three-way diverter valve and piping is supported to relieve any potential stress on the piping when in use;
+5. So that all gray water is contained to the site where it is generated without ponding, surfacing, or run off;
+6. To minimize contact with humans and domestic pets; and
+7. So that it does not constitute a health nuisance.
+8. With an informational card at least four by six inches in size and containing information specified by Austin Water about the usage of laundry to
+landscape plumbing which shall be affixed adjacent to the three-way diverter valve.
+9. With gray water piping and stub out(s) clearly identified with a label having a purple (Pantone color No. 512, 522C, or equivalent) background and
+black uppercase lettering. Labeling shall be field, or factory marked as follows: "CAUTION: NONPOTABLE GRAY WATER, DO NOT DRINK"; and
+10. For new construction one- and two-family dwellings:
+a. The inlet of the three-way valve will require a direct connection from the washing machine drain outlet.
+b. Outlet one of the three-way valve will terminate no more than four inches into the washing machine standpipe.
+c. Outlet two of the three-way valve will require an air admittance valve then the stub out will terminate outside above finish grade or be located in a
+valve box when below grade, for future use. Both stub out methods must be labeled with black letters in a purple background.
+d. The standpipe trap will require periodic use for the purpose of maintaining a water level in the trap to prevent sewer gas release.
+1503.10.4 Discharge. The laundry to landscape system may discharge to a subsurface irrigation system, a subsoil irrigation system, or mulch basin. Above
+ground discharge is prohibited.
+1503.10.5 Uses. The laundry to landscape system may be used to irrigate landscape on the exterior of the structure but may not be used to irrigate root
+crops or food crops that come in contact with soil and are intended for human consumption.
+about:blank 563/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+1503.10.6 Prohibited locations. A laundry to landscape system is not allowed on a site that exceeds a three to one slope. A laundry to landscape system
+must comply with Sections 1503.10.4 and 1503.10.6.
+1503.10.7 Connections to plumbing systems. A laundry to landscape system does not authorize a person to cut into or make any permanent physical
+attachment to the plumbing system. A laundry to landscape system may not include a change to, alteration of, or repair of any potable water connection;
+may not include any other pump installation, other than the pump equipped with, or manufactured as part of the domestic laundry-washing machine; and
+may not affect or alter any other building, plumbing, electrical, or mechanical components such as structural features, egress, fire-life safety, sanitation,
+potable water supply piping, or accessibility to the property.
+1503.10.8 Permits and inspections. It is unlawful for a person to construct, install, alter, or cause to be constructed, installed, or altered a laundry to
+landscape system in a building or premise without first obtaining a permit to do such work from the Authority Having Jurisdiction.
+1505.5 Initial cross-connection test. Before a building is occupied or the system is activated, a cross-connection test that complies with Section 1502.3 is
+required. Final approval cannot be granted until the test is deemed successful by the Authority Having Jurisdiction.
+1505.10 Hose Bibs. Hose bibs shall not be allowed on reclaimed (recycled) water piping systems. Access to reclaimed (recycled) water shall be through a
+quick-disconnect device that differs from those installed on the potable water system. Such outlets supplying reclaimed (recycled) water shall be marked
+with the words: "CAUTION: NONPOTABLE RECLAIMED WATER, DO NOT DRINK" and the symbol in Figure 1505.10.
+Figure 1505.10
+1506.1 General. This section applies when installing, constructing, altering, or repairing an on-site treated non-potable water system intended to supply
+uses such as water closets, urinals, trap primers for floor drains and floor sinks, above and below ground irrigation, and other uses approved by the
+Authority Having Jurisdiction.
+Table 1601.5 Minimum Alternate Water Source, Testing, Inspection, and Maintenance Frequency
+Inspect and clean filters and screens, and replace (when necessary). Every 3 months
+Inspect and verify disinfection, filters, and water quality treatment As required by manufacturer's instruction and maintaining the
+devices and systems are operational and maintaining minimum Authority Having Jurisdiction.
+water quality requirements as determined by the Authority Having
+Jurisdiction.
+Inspect and clear debris from rainwater gutters, downspouts, and Every 6 months
+roof washers.
+Inspect and clear debris from roof or other aboveground rainwater Every 6 months
+collection surfaces.
+Remove tree branches and vegetation overhanging roof or other As needed
+aboveground rainwater collection surfaces.
+Inspect pumps and verify operation. After installation and every 12 months thereafter.
+Inspect valves and verify operation. After installation and every 12 months thereafter.
+Inspect pressure tanks and verify operation. After installation and every 12 months thereafter.
+Clear debris from and inspect storage tanks, locking devices, and After installation and every 12 months thereafter.
+verify operation.
+about:blank 564/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+Inspect caution labels and markings. After installation and every 12 months thereafter.
+Inspect and maintain mulch basins for gray water irrigation systems. As needed to maintain mulch depth and prevent ponding and runoff.
+Cross-connection inspection and test.* After installation and reoccurring thereafter as deemed appropriate by
+the Authority Having Jurisdiction.
+Test water quality of rainwater catchment system required by Every 12 months and after system renovation or repair.
+Section 1603.4
+* The cross-connection test must be performed consistent with the requirements of Chapter 15-1 (Cross-Connections Requirement).
+K 101.7 Minimum water quality requirements. The minimum water quality for potable rainwater catchment system must comply with the applicable
+potable water quality requirements as set by the Texas Commission on Environmental Quality (TCEQ) and referenced by the Texas Department of State
+Health Services (DSHS).
+Source: Ord. 20100624-146; Ord. 20111020-090; Ord. 20130606-093; Ord. 20140410-011, Pt. 1, 4-21-14; Ord. No. 20141120-008, Pts. 3—20, 12-1-14; Ord. No.
+20170615-104, Pt. 1, 9-13-17; Ord. No. 20191114-064, Pt. 19, 11-25-19; Ord. No. 20210603-057, Pt. 1, 9-1-21; Ord. No. 20250410-042, Pt. 1, 7-10-25.

@@ -1,0 +1,48 @@
+§ 25-12-114 - LOCAL AMENDMENTS TO THE 2023 ELECTRICAL CODE - TECHNICAL.
+The following provisions are local amendments to the 2023 Electrical Code. Each provision of this section is a substitute for any identically numbered provision of
+the 2023 Electrical Code deleted by Section 25-12-111(B) (Electrical Code) or is an addition to the 2023 Electrical Code:
+110.12 Mechanical Execution of Work. Neat and workmanlike. All electrical work shall be installed in a neat and workmanlike manner. In the Electrical
+Code, workmanlike manner means, but is not limited to, the following:
+(1) work that is skillfully installed consistent with the Electrical Code's requirements;
+(2) equipment, raceways, and cables are installed parallel or perpendicular to the building or structure's structural members;
+(3) when raceways or cables are grouped, the raceways and cables remain straight, parallel, or perpendicular to the building or structure's structural
+members;
+(4) each cable is cut to a length that prevents sagging, except when flexibility requires moderate sagging; and
+(5) each box, cabinet, enclosure, and device is installed level, parallel, or perpendicular to the building or structure's structural members.
+210.5(C)(1) Conductor Identification. Color coding of conductors shall be consistent at all terminations, connections, and splice points as follows:
+(1) Single phase 120/240-volt wiring systems.
+(A) (B) (N)
+RED—BLACK—WHITE
+(2) Three phase four wire 120/208-volt wiring systems.
+(A) (B) (C) (N)
+RED—BLACK—BLUE—WHITE
+(3) Three phase three, and four wire 120/240-volt delta wiring systems.
+(A) (B) (C) (N)
+RED—ORANGE—BLACK—WHITE
+(4) 277/480-wye or 480-volt delta wiring systems.
+(A) (B) (C) (N)
+BROWN—YELLOW—PURPLE—GRAY
+Exception: NM Cable installed in one, two, or multifamily dwelling units.
+230.70(A) Service Disconnecting Means Location.
+about:blank 548/690
+12/4/25, 4:54 PM Austin, TX Land Development Code
+(1) Except as provided in Subsection (A)(2), the service disconnecting means shall be installed at a readily accessible location that is located outside of a
+building or structure.
+(2) The service disconnecting means may be installed at a readily accessible location that is located:
+(a) inside of a building or structure that is not a one- or two-family dwelling;
+(b) at the nearest point of entrance to the service conductors;
+(c) on a direct path that 25-feet or less from an exterior entrance; and
+(d) is first floor accessible from an exterior entrance inside of a building or structure.
+(3) A service disconnecting means may not be installed in a bathroom.
+680.13(1) Emergency switch for swimming pools. A clearly labeled emergency shutoff switch shall be installed to disconnect all ungrounded conductors
+for swimming pool equipment and underwater lighting systems. The switch shall be installed in a place that is readily accessible, within sight, and not less
+than five feet from the water's edge. The sign for the shut-off switch shall be capable of being read from a distance of 50 feet; shall be made of plastic,
+metal, or other durable material; and shall read "Emergency Shut Off".
+Exception: One- and two-family dwellings.
+680.41 Emergency shut-off for spas and hot tubs.
+(A) A clearly labeled emergency shutoff switch shall be installed to disconnect all ungrounded conductors for spa or hot tub equipment and underwater
+lighting systems. The switch shall be installed in a place that is readily accessible, within sight, and not less than five feet from the water's edge.
+(B) The sign for the shut-off switch shall be capable of being read from a distance of 50 feet; shall be made of plastic, metal, or other durable material;
+and shall read "Emergency Shut Off".
+Exception: One- and two-family dwellings.
+Source: Ord. No. 20230831-105, Pt. 1, 9-11-23.

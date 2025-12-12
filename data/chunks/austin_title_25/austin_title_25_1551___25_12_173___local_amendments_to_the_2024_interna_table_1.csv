@@ -1,0 +1,20 @@
+3,High,10 pounds or 1 gallon
+2,Moderate,110 pounds or 55 gallons
+Instability,Rating,Quantity
+4,Extreme,0.35 ounces or 0.3 fluid ounces
+3,High,10 pounds or 1 gallon
+2,Moderate,110 pounds or 55 gallons
+Carbon Dioxide System,,101 pounds
+"Compressed gases and liquefied compressed gases, Including oxygen",,100 cubic feet at NTP
+Cryogenic fluids,,1 gallon
+Storage of Lithium Metal and Lithium-Ion Batteries,,16 cubic feet
+Stationary and Mobile Energy Storage System (ESS),,"Energy Capacity or
+Quantity"
+Capacitor ESS - nameplate rating,,3 kWh
+Flow batteries - nameplate rating,,20 kWh
+Lithium ion ESS - nameplate rating,,20 kwh
+Nickel metal hydride - nameplate rating,,70 kWh
+Other battery technologies - nameplate rating,,10 kWh
+Other electrochemical ESS technologies - nameplate rating,,3 kWh
+"Stationary lead-acid batteries - flooded and valve regulated, and Nickel-Cadmium ESS. Mobile
+ESS utilizing lead acid battery technology are exempt.",,15 gallons
